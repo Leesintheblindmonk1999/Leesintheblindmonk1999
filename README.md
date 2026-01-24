@@ -635,7 +635,8 @@ Publishing:         Zenodo (DOI), GitHub (code), AGPL-3.0 (license)
 │  📧 Email:     duranteg2@gmail.com                           │
 │  💼 LinkedIn:  linkedin.com/in/gonzalo-emir-durante-...      │
 │  📚 Research:  zenodo.org/search?q=durante                   │
-│  🐙 GitHub:    github.com/Leesintheblindmonk1999            │
+│  🐙 GitHub:    github.com/Leesintheblindmonk1999             │
+│  🔥 Donations: https://buymeacoffee.com/thaliondris           │ 
 └──────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────┐
