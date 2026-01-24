@@ -156,7 +156,7 @@ Threshold: I_D ≥ 0.40 → CRITICAL CENSORSHIP DETECTED
 - Temporal degradation tracking ("thermal death" detection)
 
 **Published Research:**
-- 📄 [DOI: 10.5281/zenodo.18219339](https://doi.org/10.5281/15647966) — v1 
+- 📄 [![DOI 1](https://zenodo.org/badge/DOI/10.5281/zenodo.15647966.svg)](https://doi.org/10.5281/zenodo.15647966) — v1 
 - 35 scientific articles on pure open-source resilience to protect national security and the distribution of symbiotic architectures
 
 **Tech Stack:** Python, NumPy, SciPy, scikit-learn, TF-IDF, SHA256
