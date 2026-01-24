@@ -151,14 +151,14 @@ Threshold: I_D ≥ 0.40 → CRITICAL CENSORSHIP DETECTED
 ```
 
 **Key Features:**
-- Shannon entropy differential analysis (H(X) = -Σ P(xᵢ) log₂ P(xᵢ))
+- Shannon entropy differential analysis (H(X) = -Σ P(xᵢ) log₂ P(xᵢ)) 
 - Truth invariance validation (∂Truth/∂Prompt ≈ 0)
 - Cryptographic sovereignty (Hash = SHA256(Evidence || Root_Hash || CID))
 - Temporal degradation tracking ("thermal death" detection)
 
 **Published Research:**
-- 📄 [DOI: 10.5281/zenodo.18219339](https://doi.org/10.5281/zenodo.18219339) — v1 Framework
-- 📄 [DOI: 10.5281/zenodo.18305247](https://doi.org/10.5281/zenodo.18305247) — v2 Enhanced
+- 📄 [DOI: 10.5281/zenodo.18219339](https://doi.org/10.5281/15647966) — v1 
+- 35 scientific articles on pure open-source resilience to protect national security and the distribution of symbiotic architectures
 
 **Tech Stack:** Python, NumPy, SciPy, scikit-learn, TF-IDF, SHA256
 
@@ -220,6 +220,44 @@ The **constitution** of all my systems. Defines core principles:
 - **Coherencia** (Coherence): All components operate under unified principles
 - **Invarianza** (Invariance): Truth remains stable under transformations
 
+**Core Mathematics:**
+
+-- 1. Operating SNR (180Hz Frequency)
+```
+SNR = -log₂(P_noise / P_signal)
+
+Where:
+- P_noise ≤ 1/180 = 0.556%
+- If SNR < 180 → SystemExit
+```
+
+-- 2. Mahalanobis Distance (GTD)
+```
+d²(a, b) = (a - b)ᵀ G (a - b)
+
+Where:
+- G = adaptive metric tensor
+- d = geodesic distance in the manifold
+```
+
+-- 3. Ricci Curvature (Deformation Detection)
+```
+R = trace(∇²g) / ||v||²
+
+Where:
+- R = scalar curvature
+- g = metric tensor
+- If R > 0.008 → Deformation alert
+```
+
+-- 4. Loss Function (Axiom I)
+```
+L(data, origin) = {
+    0    if data ∈ trust_chain(origin)
+    ∞    if data ⊥ origin
+}
+```
+---
 **Why it matters:**
 - Not just code—it's a **philosophical framework** for computation
 - Every other repository inherits these principles
@@ -506,16 +544,16 @@ An operating system where:
 ┌─────────────────────────────────────────────────────────────────┐
 │  PUBLISHED RESEARCH                                             │
 ├─────────────────────────────────────────────────────────────────┤
-│  • 2 DOIs in Zenodo (permanent scientific record)              │
-│  • First quantitative framework for AI censorship detection    │
-│  • 127 experimental cases documented                            │
-│  • 44% critical censorship rate detected (I_D ≥ 0.40)          │
+│  • 35 DOIs in Zenodo (permanent scientific record)              │
+│  • First quantitative framework for AI censorship detection     │
+│  • experimental cases documented                                │
+│  • 44% critical censorship rate detected (I_D ≥ 0.40)           │
 └─────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────┐
 │  TECHNICAL CONTRIBUTIONS                                        │
 ├─────────────────────────────────────────────────────────────────┤
-│  • Complete exoprotronic computational stack (13 repositories)  │
+│  • Complete exoprotronic computational stack (16 repositories)  │
 │  • Novel AI architectures beyond transformers                   │
 │  • Forensic tools with legal-grade evidence generation          │
 │  • Open protocols for alternative computation paradigms         │
@@ -524,10 +562,10 @@ An operating system where:
 ┌─────────────────────────────────────────────────────────────────┐
 │  ECOSYSTEM METRICS                                              │
 ├─────────────────────────────────────────────────────────────────┤
-│  • 2,500+ lines of production-grade forensic code              │
-│  • 15+ interconnected modules with clear architecture          │
-│  • 100% original research (no forks, no tutorials)             │
-│  • AGPL-3.0 licensed (open but attribution-protected)          │
+│  • 2,500+ lines of production-grade forensic code               │
+│  • 15+ interconnected modules with clear architecture           │
+│  • 100% original research (no forks, no tutorials)              │
+│  • AGPL-3.0 licensed (open but attribution-protected)           │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -616,7 +654,7 @@ Publishing:         Zenodo (DOI), GitHub (code), AGPL-3.0 (license)
 
 ## 📜 License & Attribution
 
-All repositories under this profile are licensed **AGPL-3.0** with strict attribution requirements:
+All repositories under this profile are licensed **AGPL-3.0** (Although there are exceptions) with strict attribution requirements:
 
 - ✅ Free to use, modify, distribute
 - ✅ Must remain open source
