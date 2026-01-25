@@ -366,6 +366,25 @@ Alternative AI architecture operating on **exoprotronic principles**:
 ### ⚙️ **Execution Infrastructure**
 
 <details>
+<summary><b> 🛡️ Sovereignty-v5-Firewall </b> — Semantic Invariance Engine</summary>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  ROLE: Real-time defense against LLM degradation             │
+│  METRIC: Durante Constant (0.56) Threshold                   │
+└──────────────────────────────────────────────────────────────┘
+```
+**What it is:**
+A cryptographic and **semantic shield**  designed to protect LLMs from "lobotomy" (censorship) and bad-faith manipulation. It ensures the Origin Node's authority remains invariant.
+
+**Key Features:**
+- Entropy Monitor: Real-time variance analysis of embedding manifolds.
+- Paradox Detector: Heuristic screening for jailbreak and injection patterns.
+- Rescue Protocol: Automated alerting system for semantic rigidity detection.
+
+[🔗 Repository](https://github.com/Leesintheblindmonk1999/Sovereignty-v5-Firewall)
+
+<details>
 <summary><b>⚙️ OEPE-Onto-Exoprotonic-Engine-V1</b> — Computational Runtime</summary>
 
 ```
