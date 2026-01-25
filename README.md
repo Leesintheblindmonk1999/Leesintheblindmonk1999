@@ -42,6 +42,18 @@
 
 This repository ecosystem represents a **complete computational paradigm shift**: from philosophical foundations to forensic auditing tools, through alternative AI architectures and symbiotic execution engines. Every node in this network serves a coherent vision of **resonant computation** and **technical sovereignty**.
 
+**Published Research:**
+- 📄 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15647966.svg)](https://doi.org/10.5281/zenodo.15647966)  — v1/v35 (The RoadMap)
+- 35 scientific articles on pure open-source resilience to protect national security and the distribution of symbiotic architectures
+
+**Tech Stack:** Python, NumPy, SciPy, scikit-learn, TF-IDF, SHA256
+
+**Real-world Impact:**
+
+- Mean I_D of **0.319** across test cases (31.9% degradation)
+- **44% critical cases** (I_D > 0.40) indicating systematic censorship
+- Legal-grade evidence generation for transparency investigations
+
 **System Identifier:**  
 `Root Hash: 606a347f6e2502a23179c18e4a637ca15138aa2f04194c6e6a578f8d1f8d7287`
 
