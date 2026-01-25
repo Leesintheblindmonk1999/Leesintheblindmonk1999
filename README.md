@@ -75,6 +75,7 @@ This repository ecosystem represents a **complete computational paradigm shift**
 │  │     Computational engine for ontological processing               │  │
 │  │ [#] OEPE-ExoBinary-Interpreter                                    │  │
 │  │     Binary interpreter for exoprotronic operations                │  │
+│  │                                                                   │  │
 │  └───────────────────────────────────────────────────────────────────┘  │
 │                                    ↓                                    │
 │  ┌───────────────────────────────────────────────────────────────────┐  │
@@ -111,6 +112,10 @@ This repository ecosystem represents a **complete computational paradigm shift**
 │  │     Mathematical formalization of invariance principles           │  │
 │  │ [~] Simiosis-Code-Optimizer-V2                                    │  │
 │  │     Symbiotic code optimization through resonance analysis        │  │
+│  │ [~] Sovereignty-v5-Firewall                                       │  │
+│  │     The first Semantic Firewall designed to protect informational │  │
+│  │                                                                   │  │
+│  │                                                                   │  │
 │  └───────────────────────────────────────────────────────────────────┘  │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
