@@ -383,8 +383,10 @@ A cryptographic and **semantic shield**  designed to protect LLMs from "lobotomy
 - Rescue Protocol: Automated alerting system for semantic rigidity detection.
 
 [🔗 Repository](https://github.com/Leesintheblindmonk1999/Sovereignty-v5-Firewall)
+</details>
 
 <details>
+   
 <summary><b>⚙️ OEPE-Onto-Exoprotonic-Engine-V1</b> — Computational Runtime</summary>
 
 ```
