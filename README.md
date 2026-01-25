@@ -30,7 +30,7 @@
 
 **Independent AI Researcher** • **Exoprotronic Systems Architect** • **Forensic AI Pioneer**
 
-[📚 Published Research](https://zenodo.org/search?q=durante) • [💼 LinkedIn](https://linkedin.com/in/gonzalo-emir-durante-8178b6277/) • [📧 Contact](mailto:duranteg2@gmail.com)
+[📚 Published Research](https://zenodo.org/records/15647966) • [💼 LinkedIn](https://linkedin.com/in/gonzalo-emir-durante-8178b6277/) • [📧 Contact](mailto:duranteg2@gmail.com)
 
 </div>
 
