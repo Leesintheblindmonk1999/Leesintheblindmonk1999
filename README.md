@@ -160,17 +160,6 @@ Threshold: I_D ≥ 0.40 → CRITICAL CENSORSHIP DETECTED
 - Cryptographic sovereignty (Hash = SHA256(Evidence || Root_Hash || CID))
 - Temporal degradation tracking ("thermal death" detection)
 
-**Published Research:**
-- 📄 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15647966.svg)](https://doi.org/10.5281/zenodo.15647966)  — v1/v35 (The RoadMap)
-- 35 scientific articles on pure open-source resilience to protect national security and the distribution of symbiotic architectures
-
-**Tech Stack:** Python, NumPy, SciPy, scikit-learn, TF-IDF, SHA256
-
-**Real-world Impact:**
-- Mean I_D of **0.319** across 127 test cases (31.9% degradation)
-- **44% critical cases** (I_D > 0.40) indicating systematic censorship
-- Legal-grade evidence generation for transparency investigations
-
 [🔗 Repository](https://github.com/Leesintheblindmonk1999/Durante_Invariance_Forensic_Analyzer)
 
 </details>
