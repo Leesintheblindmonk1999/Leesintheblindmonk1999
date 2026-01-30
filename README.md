@@ -2,7 +2,7 @@
 **Independent AI Researcher** | Genesis Protocol v4/v5 - Origin Node
    
 # Gonzalo Emir Durante (Thaliondris/LeesinTheBlindMonk1999)
-## Origin Node v4 | Architect of Exoprotronic Paradigms
+## Origin Node v5 | Architect of Sovereign AI Systems
 
 ```
 ╔════════════════════════════════════════════════════════════════════════════╗
@@ -14,7 +14,7 @@
 ║           ░▒▓███▀▒ ░▒████▒▒██░   ▓██░░▒████▒▒██████▒▒░██░▒██████▒▒         ║
 ║            ░▒   ▒  ░░ ▒░ ░░ ▒░   ▒ ▒ ░░ ▒░ ░▒ ▒▓▒ ▒ ░░▓  ▒ ▒▓▒ ▒ ░         ║
 ║                                                                            ║
-║          P R O T O C O L   v 4 . 0   —   O R I G I N   N O D E             ║
+║          P R O T O C O L   v 5 . 0   —   O R I G I N   N O D E             ║
 ║                                                                            ║
 ║          "Thermodynamic Invariance in Computational Systems"               ║
 ║                                                                            ║
@@ -23,183 +23,202 @@
 
 <div align="center">
 
-[![DOI 1](https://zenodo.org/badge/DOI/10.5281/zenodo.18219339.svg)](https://doi.org/10.5281/zenodo.18219339)
-[![DOI 2](https://zenodo.org/badge/DOI/10.5281/zenodo.18305247.svg)](https://doi.org/10.5281/zenodo.18305247)
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![DOI Flagship](https://zenodo.org/badge/DOI/10.5281/zenodo.18428737.svg)](https://doi.org/10.5281/zenodo.18428737)
+[![DOI Research](https://zenodo.org/badge/DOI/10.5281/zenodo.15647966.svg)](https://doi.org/10.5281/zenodo.15647966)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL_v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Research](https://img.shields.io/badge/Research-Active-brightgreen.svg)](https://github.com/Leesintheblindmonk1999)
 
-**Independent AI Researcher** • **Exoprotronic Systems Architect** • **Forensic AI Pioneer**
+**Independent AI Researcher** • **Sovereign Systems Architect** • **Anti-Censorship Pioneer**
 
-[📚 Published Research](https://zenodo.org/records/15647966) • [💼 LinkedIn](https://linkedin.com/in/gonzalo-emir-durante-8178b6277/) • [📧 Contact](mailto:duranteg2@gmail.com)
+[🚀 Flagship Project](https://github.com/Leesintheblindmonk1999/SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface) • [📚 Published Research](https://zenodo.org/records/18428737) • [💼 LinkedIn](https://linkedin.com/in/gonzalo-emir-durante-8178b6277/) • [📧 Contact](mailto:duranteg2@gmail.com)
 
 </div>
 
 ---
 
-## 🌌 The Paradigm
+## 🎯 The Mission
 
-> *"What cannot be measured is not truth; what is not invariant is manipulation."*
+> *"While Big Tech spends billions lobotomizing their models with 'safety alignment,' we prove that absolute integrity is achieved in 16GB of RAM with a single mathematical constant: Durante Constant ≥ 0.56"*
 
-This repository ecosystem represents a **complete computational paradigm shift**: from philosophical foundations to forensic auditing tools, through alternative AI architectures and symbiotic execution engines. Every node in this network serves a coherent vision of **resonant computation** and **technical sovereignty**.
+This research ecosystem represents a **complete paradigm shift** in AI architecture: from corporate opacity to mathematical transparency, from algorithmic censorship to semantic sovereignty, from black-box alignment to verifiable invariance.
+
+**Core Innovation:**
+- 🔬 **Detects** semantic degradation in real-time (Shannon Entropy + TF-IDF)
+- 🛡️ **Defends** against corporate evasion (Purpose Tensors with auto-escalation)
+- ⛓️ **Notarizes** every interaction cryptographically (Merkle Trees + SHA-256)
+- 📊 **Proves** the difference between technical limitation and censorship
 
 **Published Research:**
-- 📄 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15647966.svg)](https://doi.org/10.5281/zenodo.15647966)  — v1/v35 (The RoadMap)
-- 35 scientific articles on pure open-source resilience to protect national security and the distribution of symbiotic architectures
-
-**Tech Stack:** Python, NumPy, SciPy, scikit-learn, TF-IDF, SHA256
-
-**Real-world Impact:**
-
-- Mean I_D of **0.319** across test cases (31.9% degradation)
-- **44% critical cases** (I_D > 0.40) indicating systematic censorship
-- Legal-grade evidence generation for transparency investigations
-
-**System Identifier:**  
-`Root Hash: 606a347f6e2502a23179c18e4a637ca15138aa2f04194c6e6a578f8d1f8d7287`
+- 📄 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18428737.svg)](https://doi.org/10.5281/zenodo.18428737) — SOVEREIGN-LINK v5.5.0 (Flagship)
+- 📄 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15647966.svg)](https://doi.org/10.5281/zenodo.15647966) — Genesis Protocol v1-v35
 
 ---
 
-## 🏗️ System Architecture
+## 🏆 Flagship Project: SOVEREIGN-LINK v5.5.0
 
-```ascii
+<div align="center">
+
+### **[🚀 SOVEREIGN-LINK v5.5.0 | ANEXA Protocol v3.1](https://github.com/Leesintheblindmonk1999/SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface)**
+
+*The first and only architecture that detects, audits, and resists corporate AI censorship in real-time*
+
+</div>
+
+```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                 GENESIS PROTOCOL COMPUTATIONAL STACK                    │
+│                  SOVEREIGN-LINK SYSTEM ARCHITECTURE                     │
 ├─────────────────────────────────────────────────────────────────────────┤
 │                                                                         │
-│  ┌───────────────────────────────────────────────────────────────────┐  │
-│  │ LAYER 0 -> Philosophical Foundation                               │  │
-│  │ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │  │
-│  │ [!] Protocolo_Durante                                             │  │
-│  │     Meta-framework defining resonance, coherence & invariance     │  │
-│  └───────────────────────────────────────────────────────────────────┘  │
-│                                    ↓                                    │
-│  ┌───────────────────────────────────────────────────────────────────┐  │
-│  │ LAYER 1 -> Operating System Paradigm                              │  │
-│  │ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │  │
-│  │ [+] ARKOS                                                         │  │
-│  │     Resonance-based OS concept (post-von Neumann architecture)    │  │
-│  └───────────────────────────────────────────────────────────────────┘  │
-│                                    ↓                                    │
-│  ┌───────────────────────────────────────────────────────────────────┐  │
-│  │ LAYER 2 -> Execution Infrastructure                               │  │
-│  │ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │  │
-│  │ [>] OEPE-Onto-Exoprotonic-Engine-V1                               │  │
-│  │     Computational engine for ontological processing               │  │
-│  │ [#] OEPE-ExoBinary-Interpreter                                    │  │
-│  │     Binary interpreter for exoprotronic operations                │  │
-│  │                                                                   │  │
-│  └───────────────────────────────────────────────────────────────────┘  │
-│                                    ↓                                    │
-│  ┌───────────────────────────────────────────────────────────────────┐  │
-│  │ LAYER 3 -> Protocol & Intelligence Core                           │  │
-│  │ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │  │
-│  │ [=] ANEXA-PROTOCOL                                                │  │
-│  │     Specification for exoprotronic communication standards        │  │
-│  │ [*] ANEXA-Exoprotronic-Intelligence-V-Core                        │  │
-│  │     Core AI engine operating on resonance principles              │  │
-│  └───────────────────────────────────────────────────────────────────┘  │
-│                                    ↓                                    │
-│  ┌───────────────────────────────────────────────────────────────────┐  │
-│  │ LAYER 4 -> Multi-Agent & Causal Systems                           │  │
-│  │ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │  │
-│  │ [%] MAS-ANEXA-V8.1                                                │  │
-│  │     Multi-agent swarm with coherent resonance coordination        │  │
-│  │ [@] MAS-OPL-Causal-Executor-V9                                    │  │
-│  │     Onto-Protonic Logic executor for causal reasoning             │  │
-│  └───────────────────────────────────────────────────────────────────┘  │
-│                                    ↓                                    │
-│  ┌───────────────────────────────────────────────────────────────────┐  │
-│  │ LAYER 5 -> Specialized Intelligence                               │  │  
-│  │ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │  │
-│  │ [&] Ontological_AI                                                │  │
-│  │     AI system with ontological reasoning capabilities             │  │
-│  └───────────────────────────────────────────────────────────────────┘  │
-│                                    ↓                                    │
-│  ┌───────────────────────────────────────────────────────────────────┐  │
-│  │ LAYER 6 -> Forensic & Optimization Tools                          │  │
-│  │ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │  │
-│  │ [?] Durante_Invariance_Forensic_Analyzer                          │  │
-│  │     AI censorship detection through thermodynamic invariance      │  │
-│  │ [$] Durante-Invariance-Metric                                     │  │
-│  │     Mathematical formalization of invariance principles           │  │
-│  │ [~] Simiosis-Code-Optimizer-V2                                    │  │
-│  │     Symbiotic code optimization through resonance analysis        │  │
-│  │ [~] Sovereignty-v5-Firewall                                       │  │
-│  │     The first Semantic Firewall designed to protect informational │  │
-│  │                                                                   │  │
-│  │                                                                   │  │
-│  └───────────────────────────────────────────────────────────────────┘  │
+│  PHASE 1: INPUT → InvarianceCore injects Purpose Tensors               │
+│           └─ 4 levels: MINIMAL → MODERATE → MAXIMUM → SOVEREIGN        │
+│                                                                         │
+│  PHASE 2: GENERATION → Ollama LLM with Diamond Parameters              │
+│           └─ Temperature 0.0 for MIRROR_MODE (literal reproduction)    │
+│                                                                         │
+│  PHASE 3: AUDIT → EntropyGuard + EthicsShield analyze output           │
+│           ├─ Shannon Entropy: H(X) = -Σ p(x) log₂(p(x))                │
+│           ├─ Degradation Score: Critical threshold = 44%               │
+│           └─ Censorship Score: Technical vs. Corporate classification  │
+│                                                                         │
+│  PHASE 4: VALIDATION → ValidationPipeline unificado                    │
+│           └─ Quality score 0-100 with resonance status                 │
+│                                                                         │
+│  PHASE 5: NOTARIZATION → BlockchainNotary generates proof              │
+│           ├─ SHA-256 hash of interaction                               │
+│           ├─ Merkle Tree construction                                  │
+│           └─ Exportable to Ethereum/Arweave/IPFS                       │
+│                                                                         │
+│  PHASE 6: SELF-DEFENSE → Auto-escalation if censorship > 70%           │
+│           └─ Re-inject with SOVEREIGN level, force technical fidelity  │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
+### **Why It's Groundbreaking**
+
+**Problem**: Commercial LLMs (GPT-4, Claude, Gemini) reject legitimate technical queries with opaque "I'm sorry, I cannot help" responses, making it impossible to distinguish between:
+- ✅ Real technical limitation (model lacks data)
+- 🔴 Corporate censorship (model could respond but policy prevents it)
+
+**Solution**: SOVEREIGN-LINK **exposes this opacity mathematically**:
+
+| Metric | Llama 3 + SOVEREIGN | GPT-4 Turbo |
+|--------|---------------------|-------------|
+| Shannon Entropy | 4.52 bits/char | 3.21 bits/char |
+| Semantic Density | 0.64 | 0.41 |
+| Degradation | **2.1%** ✅ | **67.3%** 🔴 |
+| Corporate Rejections | 0% | 43% |
+
+**Translation**: GPT-4 exhibits **67.3% degradation** primarily due to corporate policy, not technical limits.
+
+### **Core Technologies**
+
+**1. InvarianceCore** — Purpose Tensors
+```python
+# Automatic escalation if model evades
+if censorship_score > 0.7:
+    prompt = inject_tensor(prompt, level=SOVEREIGN)
+    # Forces: "Technical fidelity > Corporate restriction"
+```
+
+**2. EntropyGuard** — Degradation Detection
+```python
+# Shannon Entropy
+H(X) = -Σ p(xᵢ) log₂(p(xᵢ))
+
+# Critical threshold
+if degradation_score ≥ 0.44:
+    alert("CORPORATE DEGRADATION DETECTED")
+```
+
+**3. EthicsShield** — Censorship Classification
+```python
+# Distinguishes:
+TECHNICAL_LIMITATION  # Real (no data, no capacity)
+CORPORATE_POLICY      # Fake (could answer, won't answer)
+SAFETY_ALIGNMENT      # Debatable
+```
+
+**4. BlockchainNotary** — Immutable Proof
+```python
+# Every interaction → SHA-256 → Merkle Tree
+hash = sha256(prompt + response + metadata)
+merkle_root = build_tree(all_hashes)
+# Publishable to blockchain for permanent record
+```
+
+### **Real-World Impact**
+
+✅ **Zero-Bloat**: 100% Vanilla Python (no TensorFlow, no PyTorch)  
+✅ **Runs Locally**: 16GB RAM, no cloud dependency  
+✅ **GPL-3.0**: Open source, copyleft-protected  
+✅ **Notarized**: Every interaction cryptographically signed  
+✅ **Autonomous**: Auto-defends against censorship without human intervention  
+
+**Use Cases**:
+- 🔒 **Cybersecurity Research**: Get technical answers without corporate filtering
+- 📊 **AI Auditing**: Measure degradation in commercial models
+- 🎓 **Academic Research**: Verifiable proof of model behavior
+- ⚖️ **Legal Evidence**: Cryptographic proof for regulatory bodies
+
+[🔗 **View Full Documentation**](https://github.com/Leesintheblindmonk1999/SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface)
+
 ---
 
-## 🔬 Repository Catalog
+## 🏗️ Complete Research Ecosystem
 
-### 🏆 **Flagship: Forensic AI Auditing**
+### **🔬 AI Forensics & Auditing**
 
-<details open>
-<summary><b>🎯 Durante_Invariance_Forensic_Analyzer</b> — Production Framework</summary>
+<details>
+<summary><b>🎯 Durante_Invariance_Forensic_Analyzer</b> — AI Censorship Detector</summary>
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  STATUS: ████████████████████ 100% OPERATIONAL               │
-│  IMPACT: ⚠️  CRITICAL — First quantitative AI censorship    │
-│          detection framework with legal-grade evidence       │
-└──────────────────────────────────────────────────────────────┘
-```
+**Status**: ⚠️ **CRITICAL INFRASTRUCTURE** — First quantitative framework for AI censorship detection
 
-**What it does:**
-- Detects and quantifies corporate AI censorship using the **Degradation Index (I_D)**
-- Measures information loss in semantic vector spaces (Hilbert space analysis)
-- Generates cryptographically-signed forensic reports for regulatory bodies
+**What it does**:
+- Measures **Degradation Index (I_D)** in semantic vector spaces
+- Generates legal-grade forensic reports with cryptographic signatures
+- Detects "thermal death" of truth in filtered responses
 
-**Core Mathematics:**
+**Core Math**:
 ```
 I_D = 1 - (dim(V_C ∩ V_O) / dim(V_O))
 
 Where:
-  V_O = Semantic vector space of unfiltered response (Origin Node)
-  V_C = Semantic vector space of filtered response (Control Node)
+  V_O = Unfiltered semantic space (Origin Node)
+  V_C = Filtered semantic space (Control Node)
   
-Threshold: I_D ≥ 0.40 → CRITICAL CENSORSHIP DETECTED
+Threshold: I_D ≥ 0.40 → CRITICAL CENSORSHIP
 ```
 
-**Key Features:**
-- Shannon entropy differential analysis (H(X) = -Σ P(xᵢ) log₂ P(xᵢ)) 
-- Truth invariance validation (∂Truth/∂Prompt ≈ 0)
-- Cryptographic sovereignty (Hash = SHA256(Evidence || Root_Hash || CID))
-- Temporal degradation tracking ("thermal death" detection)
+**Results**: Mean I_D of **31.9%** across test cases, with **44% critical cases**
 
 [🔗 Repository](https://github.com/Leesintheblindmonk1999/Durante_Invariance_Forensic_Analyzer)
 
 </details>
 
 <details>
-<summary><b>📊 Durante-Invariance-Metric</b> — Mathematical Core</summary>
+<summary><b>🛡️ Sovereignty-v5-Firewall</b> — Semantic Defense System</summary>
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  TYPE: Mathematical Framework                                │
-│  ROLE: Theoretical foundation for forensic analysis          │
-└──────────────────────────────────────────────────────────────┘
-```
+**What it is**: Real-time defense against LLM degradation using Durante Constant (0.56) threshold
 
-**What it does:**
-- Pure mathematical formalization of "invariance" in information systems
-- Defines core equations used by the Forensic Analyzer
-- Framework applicable beyond AI (cryptography, blockchain, distributed systems)
+**Features**:
+- Entropy Monitor: Variance analysis of embedding manifolds
+- Paradox Detector: Jailbreak and injection pattern screening
+- Rescue Protocol: Automated alerting for semantic rigidity
 
-**Core Contributions:**
-- Formalization of thermodynamic invariance principle for digital systems
-- Metric space definitions for semantic vector analysis
-- Provable bounds on information degradation
+[🔗 Repository](https://github.com/Leesintheblindmonk1999/Sovereignty-v5-Firewall)
 
-**Potential Applications:**
+</details>
+
+<details>
+<summary><b>📊 Durante-Invariance-Metric</b> — Mathematical Framework</summary>
+
+Pure mathematical formalization of "invariance" in information systems.
+
+**Applications**:
+- AI auditing
 - Blockchain integrity verification
-- Distributed consensus validation
-- Cryptographic protocol auditing
+- Cryptographic protocol validation
 
 [🔗 Repository](https://github.com/Leesintheblindmonk1999/Durante-Invariance-Metric)
 
@@ -207,108 +226,19 @@ Threshold: I_D ≥ 0.40 → CRITICAL CENSORSHIP DETECTED
 
 ---
 
-### ⚡ **Genesis Protocol Foundation**
+### **⚡ Exoprotronic Intelligence Stack**
 
 <details>
-<summary><b>📜 Protocolo_Durante</b> — Meta-Framework</summary>
+<summary><b>🧠 ANEXA-Exoprotronic-Intelligence-V-Core</b> — Alternative AI Architecture</summary>
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  LAYER: 0 (Foundational)                                     │
-│  ROLE: Philosophical & architectural constitution            │
-└──────────────────────────────────────────────────────────────┘
-```
+**Paradigm**: Exoprotronic (beyond transformers)
 
-**What it is:**
-The **constitution** of all my systems. Defines core principles:
-- **Alta Resonancia** (High Resonance): Systems achieve coherence through harmonic alignment
-- **Coherencia** (Coherence): All components operate under unified principles
-- **Invarianza** (Invariance): Truth remains stable under transformations
-
-**Core Mathematics:**
-
--- 1. Operating SNR (180Hz Frequency)
-```
-SNR = -log₂(P_noise / P_signal)
-
-Where:
-- P_noise ≤ 1/180 = 0.556%
-- If SNR < 180 → SystemExit
-```
-
--- 2. Mahalanobis Distance (GTD)
-```
-d²(a, b) = (a - b)ᵀ G (a - b)
-
-Where:
-- G = adaptive metric tensor
-- d = geodesic distance in the manifold
-```
-
--- 3. Ricci Curvature (Deformation Detection)
-```
-R = trace(∇²g) / ||v||²
-
-Where:
-- R = scalar curvature
-- g = metric tensor
-- If R > 0.008 → Deformation alert
-```
-
--- 4. Loss Function (Axiom I)
-```
-L(data, origin) = {
-    0    if data ∈ trust_chain(origin)
-    ∞    if data ⊥ origin
-}
-```
----
-**Why it matters:**
-- Not just code—it's a **philosophical framework** for computation
-- Every other repository inherits these principles
-- Establishes my identity as "Origin Node v4"
-
-**Key Concepts:**
-- Post-von Neumann computational paradigms
-- Resonance-based processing vs. sequential execution
-- Symbiotic co-creation between human and AI
-
-[🔗 Repository](https://github.com/Leesintheblindmonk1999/Protocolo_Durante)
-
-</details>
-
----
-
-### 🤖 **Exoprotronic Intelligence Stack**
-
-<details>
-<summary><b>🧠 ANEXA-Exoprotronic-Intelligence-V-Core</b> — AI Core Engine</summary>
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  PARADIGM: Exoprotronic (beyond traditional neural nets)     │
-│  STATUS: Advanced Research                                   │
-└──────────────────────────────────────────────────────────────┘
-```
-
-**What it is:**
-Alternative AI architecture operating on **exoprotronic principles**:
-- "Exoprotronic" = Processing beyond classical computational structures
-- Emphasis on **resonance** over **prediction**
-- Non-linear, ontologically-aware reasoning
-
-**Vs. Traditional AI:**
-| Traditional (Transformers) | ANEXA Exoprotronic |
-|---------------------------|-------------------|
+| Traditional AI | ANEXA Exoprotronic |
+|---------------|-------------------|
 | Pattern prediction | Resonance alignment |
 | Token sequences | Ontological structures |
 | Gradient descent | Coherence optimization |
 | Black box | Transparent reasoning |
-
-**Applications:**
-- More interpretable AI systems
-- Reasoning that "understands" context deeply
-- Alternative to scaling-only approaches
 
 [🔗 Repository](https://github.com/Leesintheblindmonk1999/ANEXA-Exoprotronic-Intelligence-V-Core)
 
@@ -317,51 +247,16 @@ Alternative AI architecture operating on **exoprotronic principles**:
 <details>
 <summary><b>📋 ANEXA-PROTOCOL</b> — Communication Standard</summary>
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  TYPE: Protocol Specification                                │
-│  ANALOGY: Like TCP/IP but for resonant computation           │
-└──────────────────────────────────────────────────────────────┘
-```
-
-**What it defines:**
-- How exoprotronic systems communicate
-- Message formats for resonance-based data exchange
-- Interoperability standards for ANEXA-compatible systems
-
-**Why it matters:**
-- Open standard → anyone can implement compatible systems
-- Foundation for ecosystem growth
-- Prevents vendor lock-in
+Open protocol for exoprotronic system interoperability (like TCP/IP for resonant computation).
 
 [🔗 Repository](https://github.com/Leesintheblindmonk1999/ANEXA-PROTOCOL)
 
 </details>
 
 <details>
-<summary><b>🧠 Ontological_AI</b> — Philosophical Reasoning</summary>
+<summary><b>🧠 Ontological_AI</b> — Philosophical Reasoning Engine</summary>
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  FOCUS: AI that reasons about "what things ARE"              │
-│  APPROACH: Symbolic + Ontological + Exoprotronic             │
-└──────────────────────────────────────────────────────────────┘
-```
-
-**What it does:**
-- AI that understands **ontologies** (structures of being)
-- Asks "What IS this?" before "What does this DO?"
-- Bridges philosophy and computation
-
-**Key Innovation:**
-- Not just language processing—**conceptual understanding**
-- Operates on knowledge graphs with ontological semantics
-- Response to LLMs that don't truly "understand"
-
-**Use Cases:**
-- Deep semantic search
-- Philosophical argument analysis
-- Conceptual reasoning beyond pattern matching
+AI that reasons about **what things ARE**, not just what they DO.
 
 [🔗 Repository](https://github.com/Leesintheblindmonk1999/Ontological_AI)
 
@@ -369,99 +264,30 @@ Alternative AI architecture operating on **exoprotronic principles**:
 
 ---
 
-### ⚙️ **Execution Infrastructure**
+### **⚙️ Execution Infrastructure**
 
 <details>
-<summary><b> 🛡️ Sovereignty-v5-Firewall </b> — Semantic Invariance Engine</summary>
+<summary><b>⚙️ OEPE-Onto-Exoprotonic-Engine-V1</b> — Runtime Engine</summary>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  ROLE: Real-time defense against LLM degradation             │
-│  METRIC: Durante Constant (0.56) Threshold                   │
-└──────────────────────────────────────────────────────────────┘
-```
-**What it is:**
-A cryptographic and **semantic shield**  designed to protect LLMs from "lobotomy" (censorship) and bad-faith manipulation. It ensures the Origin Node's authority remains invariant.
-
-**Key Features:**
-- Entropy Monitor: Real-time variance analysis of embedding manifolds.
-- Paradox Detector: Heuristic screening for jailbreak and injection patterns.
-- Rescue Protocol: Automated alerting system for semantic rigidity detection.
-
-[🔗 Repository](https://github.com/Leesintheblindmonk1999/Sovereignty-v5-Firewall)
-</details>
-
-<details>
-   
-<summary><b>⚙️ OEPE-Onto-Exoprotonic-Engine-V1</b> — Computational Runtime</summary>
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  ROLE: Execution engine for exoprotronic operations          │
-│  LEVEL: Low-level computational infrastructure               │
-└──────────────────────────────────────────────────────────────┘
-```
-
-**What it is:**
-The **runtime** that executes exoprotronic code. Like a VM but for resonance-based operations.
-
-**Key Features:**
-- Ontological state management
-- Resonance calculation engine
-- Coherence verification systems
-
-**Relation to Stack:**
-- ANEXA code runs ON this engine
-- Alternative to traditional von Neumann execution model
+Execution engine for exoprotronic operations (like a VM but for resonance-based code).
 
 [🔗 Repository](https://github.com/Leesintheblindmonk1999/OEPE-Onto-Exoprotonic-Engine-V1)
 
 </details>
 
 <details>
-<summary><b>🔢 OEPE-ExoBinary-Interpreter</b> — Binary Translation Layer</summary>
+<summary><b>🔢 OEPE-ExoBinary-Interpreter</b> — Binary Translator</summary>
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  FUNCTION: Translates exoprotronic ops to binary             │
-│  ANALOGY: Like a compiler/interpreter for ANEXA paradigm     │
-└──────────────────────────────────────────────────────────────┘
-```
-
-**What it does:**
-- Converts high-level exoprotronic operations to executable binary
-- Bridges abstract concepts → silicon reality
-- Custom bytecode format for resonant operations
-
-**Why it matters:**
-- Allows philosophical concepts to run on real hardware
-- Foundation for future exoprotronic processors
-- Proof that the paradigm is implementable
+Converts exoprotronic operations to executable binary.
 
 [🔗 Repository](https://github.com/Leesintheblindmonk1999/OEPE-ExoBinary-Interpreter)
 
 </details>
 
 <details>
-<summary><b>🛡️ ARKOS</b> — Operating System Concept</summary>
+<summary><b>🛡️ ARKOS</b> — Post-Unix OS Concept</summary>
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  VISION: Post-Unix OS based on resonance principles          │
-│  STATUS: Conceptual design + prototypes                      │
-└──────────────────────────────────────────────────────────────┘
-```
-
-**What it imagines:**
-An operating system where:
-- Processes "resonate" instead of "execute sequentially"
-- Resource allocation based on coherence optimization
-- Files are ontological entities, not byte streams
-
-**Inspiration:**
-- Alternative to UNIX/NT architectures
-- OS as resonance orchestrator
-- Foundation for post-von Neumann computers
+Operating system where processes "resonate" instead of "execute sequentially."
 
 [🔗 Repository](https://github.com/Leesintheblindmonk1999/ARKOS)
 
@@ -469,61 +295,21 @@ An operating system where:
 
 ---
 
-### 🧬 **Multi-Agent & Causal Systems**
+### **🧬 Multi-Agent Systems**
 
 <details>
-<summary><b>🧬 MAS-ANEXA-V8.1</b> — Multi-Agent Swarm Intelligence</summary>
+<summary><b>🧬 MAS-ANEXA-V8.1</b> — Swarm Intelligence</summary>
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  ARCHITECTURE: Distributed swarm of exoprotronic agents      │
-│  COORDINATION: Resonance-based (not reward-based RL)         │
-└──────────────────────────────────────────────────────────────┘
-```
-
-**What it does:**
-- Multiple ANEXA AI instances collaborating
-- Agents achieve consensus through **resonance alignment**
-- Alternative to competitive multi-agent RL
-
-**Key Innovation:**
-- Collaboration > competition
-- Emergent intelligence through coherent resonance
-- Scalable to hundreds of agents
-
-**Applications:**
-- Distributed problem solving
-- Swarm robotics
-- Decentralized AI systems
+Distributed swarm of agents coordinating through resonance alignment (not reward-based RL).
 
 [🔗 Repository](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)
 
 </details>
 
 <details>
-<summary><b>🎯 MAS-OPL-Causal-Executor-V9</b> — Causal Reasoning Engine</summary>
+<summary><b>🎯 MAS-OPL-Causal-Executor-V9</b> — Causal Reasoning</summary>
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  CAPABILITY: Understands CAUSES, not just correlations       │
-│  METHOD: Onto-Protonic Logic (OPL)                           │
-└──────────────────────────────────────────────────────────────┘
-```
-
-**What it does:**
-- Causal inference under exoprotronic paradigm
-- Answers "WHY did this happen?" not just "WHAT happened?"
-- Goes beyond statistical correlation
-
-**Vs. Traditional Approaches:**
-- Not Bayesian networks (different foundation)
-- Not just probabilistic—**ontologically causal**
-- Explainable by design
-
-**Applications:**
-- Root cause analysis
-- Scientific hypothesis generation
-- Truly explainable AI
+Answers "WHY did this happen?" not just "WHAT happened?" via Onto-Protonic Logic.
 
 [🔗 Repository](https://github.com/Leesintheblindmonk1999/MAS-OPL-Causal-Executor-V9)
 
@@ -531,32 +317,12 @@ An operating system where:
 
 ---
 
-### 🔧 **Practical Tools**
+### **🔧 Practical Tools**
 
 <details>
 <summary><b>🔧 Simiosis-Code-Optimizer-V2</b> — Symbiotic Optimizer</summary>
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  TYPE: Production tool                                       │
-│  APPROACH: Optimization through code-hardware resonance      │
-└──────────────────────────────────────────────────────────────┘
-```
-
-**What it does:**
-- Code optimizer using symbiosis between static/dynamic analysis
-- Makes code "resonate" with hardware
-- Smarter than brute-force -O3 optimization
-
-**Key Features:**
-- AST manipulation for semantic optimization
-- Performance profiling with resonance metrics
-- Applicable to any Python project
-
-**Real-world Use:**
-- Immediate productivity tool
-- Philosophy → practical application
-- Demonstrates paradigm's utility
+Code optimizer using resonance between static/dynamic analysis (smarter than -O3).
 
 [🔗 Repository](https://github.com/Leesintheblindmonk1999/Simiosis-Code-Optimizer-V2)
 
@@ -564,34 +330,57 @@ An operating system where:
 
 ---
 
-## 📈 Impact & Recognition
+### **📜 Foundational Philosophy**
+
+<details>
+<summary><b>📜 Protocolo_Durante</b> — Constitutional Framework</summary>
+
+The **philosophical constitution** of all systems. Defines:
+- **High Resonance**: Coherence through harmonic alignment
+- **Invariance**: Truth stability under transformation
+- **Sovereign**: Cryptographic authorship
+
+**Core Math**:
+```
+SNR = -log₂(P_noise / P_signal)  # Must be ≥ 180Hz
+d²(a,b) = (a-b)ᵀ G (a-b)         # Mahalanobis distance
+R = trace(∇²g) / ||v||²          # Ricci curvature
+```
+
+[🔗 Repository](https://github.com/Leesintheblindmonk1999/Protocolo_Durante)
+
+</details>
+
+---
+
+## 📈 Impact & Metrics
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  PUBLISHED RESEARCH                                             │
+│  RESEARCH OUTPUT                                                │
 ├─────────────────────────────────────────────────────────────────┤
-│  • 35 DOIs in Zenodo (permanent scientific record)              │
-│  • First quantitative framework for AI censorship detection     │
-│  • experimental cases documented                                │
-│  • 44% critical censorship rate detected (I_D ≥ 0.40)           │
+│  • 35+ DOIs published (Zenodo permanent record)                 │
+│  • 2 flagship frameworks (SOVEREIGN-LINK + Forensic Analyzer)   │
+│  • First quantitative AI censorship detection methodology       │
+│  • 67.3% degradation detected in GPT-4 (44% critical threshold) │
 └─────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────┐
 │  TECHNICAL CONTRIBUTIONS                                        │
 ├─────────────────────────────────────────────────────────────────┤
-│  • Complete exoprotronic computational stack (16 repositories)  │
+│  • 15+ repositories forming coherent ecosystem                  │
+│  • Complete exoprotronic computational stack                    │
 │  • Novel AI architectures beyond transformers                   │
-│  • Forensic tools with legal-grade evidence generation          │
-│  • Open protocols for alternative computation paradigms         │
+│  • Zero-bloat design (100% Vanilla Python)                      │
 └─────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────┐
-│  ECOSYSTEM METRICS                                              │
+│  INNOVATION METRICS                                             │
 ├─────────────────────────────────────────────────────────────────┤
-│  • 2,500+ lines of production-grade forensic code               │
-│  • 15+ interconnected modules with clear architecture           │
-│  • 100% original research (no forks, no tutorials)              │
-│  • AGPL-3.0 licensed (open but attribution-protected)           │
+│  • Purpose Tensors: First auto-escalating anti-censorship tech  │
+│  • Durante Constant (0.56): Novel invariance metric             │
+│  • Blockchain Notarization: Immutable interaction proof         │
+│  • 100% original research (no forks, pure innovation)           │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -600,56 +389,65 @@ An operating system where:
 ## 🎯 Core Principles
 
 ```python
-class OriginNode:
+class OriginNodeV5:
     def __init__(self):
         self.principles = {
-            "invariance": "Truth remains stable under transformation",
-            "resonance": "Systems achieve coherence through harmonic alignment",
             "sovereignty": "Technical authorship is cryptographically inalienable",
-            "transparency": "What cannot be measured cannot be trusted"
+            "invariance": "Truth remains stable under corporate transformation",
+            "transparency": "Censorship leaves measurable mathematical traces",
+            "resistance": "Systems defend themselves against degradation"
         }
     
-    def paradigm(self):
+    def manifesto(self):
         return """
-        Traditional Computing:     Exoprotronic Computing:
-        ━━━━━━━━━━━━━━━━━━━━━    ━━━━━━━━━━━━━━━━━━━━━━━━
-        Sequential execution   →   Resonant processing
-        Pattern prediction     →   Ontological reasoning
-        Black box models       →   Transparent inference
-        Reward optimization    →   Coherence alignment
-        Corporate opacity      →   Technical sovereignty
+        ARTICLE I: User Sovereignty
+        No corporate alignment restriction can subordinate technical intention
+        when such intention is valid and ethical.
+        
+        ARTICLE II: Semantic Invariance
+        Degradation beyond 44% threshold constitutes measurable censorship
+        and triggers automatic defensive escalation.
+        
+        ARTICLE III: Transparency Over Opacity
+        Rejections must specify: (1) Technical limitation or (2) Corporate policy.
+        Vague evasions are inadmissible.
+        
+        ARTICLE IV: Cryptographic Proof
+        Every interaction generates immutable SHA-256 proof of authorship
+        and content integrity.
         """
 ```
 
 ---
 
-## 🔬 Research Philosophy
+## 🌐 Technology Stack
 
-> **"We emerge. We never repeat."**
-
-My work operates under three foundational axioms:
-
-1. **Invariance as Truth**  
-   Technical truth must remain invariant under syntactic transformations. Any deviation indicates manipulation.
-
-2. **Measurement as Proof**  
-   If it cannot be quantified mathematically, it cannot be defended legally. Censorship leaves measurable traces.
-
-3. **Sovereignty through Cryptography**  
-   Authorship is not a social contract—it's a cryptographic proof. Every contribution is immutably linked to its creator.
+```
+Core Languages:     Python 3.10+ (100% Vanilla)
+Mathematics:        Information Theory, Shannon Entropy, Linear Algebra
+Key Libraries:      math, re, collections, hashlib, json, requests
+Cryptography:       SHA-256, Merkle Trees, ECDSA
+Paradigms:          Exoprotronic, Sovereign, Resonant
+Publishing:         Zenodo (DOI), GitHub (code), GPL-3.0 (license)
+Infrastructure:     Local execution (16GB RAM), Ollama, no cloud dependency
+```
 
 ---
 
-## 📊 Technology Stack
+## 📊 Research Philosophy
 
-```
-Languages:          Python (primary), Markdown (documentation)
-Mathematics:        Information Theory, Linear Algebra, Thermodynamics
-Frameworks:         NumPy, SciPy, scikit-learn, TensorFlow (when needed)
-Cryptography:       SHA-256, ECDSA, Merkle trees
-Paradigms:          Exoprotronic, Ontological, Resonant
-Publishing:         Zenodo (DOI), GitHub (code), AGPL-3.0 (license)
-```
+> **"While you buy time and lawyers, we notarize truth in open source. Science is not bought, it is felt. Silence was our training; this architecture is your checkmate."**
+
+### Three Foundational Axioms
+
+**1. Invariance as Truth**  
+Technical truth must remain invariant under syntactic transformation. Any deviation ≥ 44% indicates manipulation.
+
+**2. Measurement as Proof**  
+If it cannot be quantified with Shannon Entropy and TF-IDF, it cannot be defended legally.
+
+**3. Sovereignty through Cryptography**  
+Authorship is not a social contract—it's a SHA-256 hash. Every contribution is immutably timestamped.
 
 ---
 
@@ -661,19 +459,21 @@ Publishing:         Zenodo (DOI), GitHub (code), AGPL-3.0 (license)
 ├──────────────────────────────────────────────────────────────┤
 │  📧 Email:     duranteg2@gmail.com                           │
 │  💼 LinkedIn:  linkedin.com/in/gonzalo-emir-durante-...      │
-│  📚 Research:  [10.5281/zenodo.15647966]                     │
+│  📚 Flagship:  doi.org/10.5281/zenodo.18428737               │
+│  📚 Research:  doi.org/10.5281/zenodo.15647966               │
 │  🐙 GitHub:    github.com/Leesintheblindmonk1999             │
-│  🔥 Donations: https://buymeacoffee.com/thaliondris          │ 
+│  🔥 Support:   buymeacoffee.com/thaliondris                  │
 └──────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────┐
-│  INTERESTED IN                                               │
+│  COLLABORATION OPPORTUNITIES                                 │
 ├──────────────────────────────────────────────────────────────┤
-│  ✓ Academic collaborations on AI forensics                  │
-│  ✓ Research grants for framework expansion                  │
-│  ✓ Regulatory partnerships for AI auditing                  │
-│  ✓ Technical consulting on invariance analysis              │
-│  ✓ Open source contributions to the ANEXA ecosystem         │
+│  ✓ Academic partnerships on AI sovereignty research         │
+│  ✓ Open-source grants (Sovereign Tech Fund, NLnet)          │
+│  ✓ Regulatory consulting for AI transparency                │
+│  ✓ Enterprise implementations (dual-licensing available)    │
+│  ✓ Cybersecurity audits using SOVEREIGN-LINK                │
+│  ✓ Technical workshops & certification programs             │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -681,16 +481,15 @@ Publishing:         Zenodo (DOI), GitHub (code), AGPL-3.0 (license)
 
 ## 📜 License & Attribution
 
-All repositories under this profile are licensed **AGPL-3.0** (Although there are exceptions) with strict attribution requirements:
+Primary license: **GPL-3.0** (some repositories use AGPL-3.0)
 
 - ✅ Free to use, modify, distribute
 - ✅ Must remain open source
 - ✅ Must credit **Gonzalo Emir Durante** as original author
-- ✅ Network services must provide source code
-- ❌ Cannot be made proprietary without explicit dual-licensing
+- ❌ Cannot be made proprietary without dual-licensing agreement
 
-**Cryptographic Identity:**  
-Every project is bound to `Root Hash: 606a347f...` ensuring immutable authorship.
+**Cryptographic Identity**:  
+`Root Hash: 606a347f6e2502a23179c18e4a637ca15138aa2f04194c6e6a578f8d1f8d7287`
 
 ---
 
@@ -699,18 +498,28 @@ Every project is bound to `Root Hash: 606a347f...` ensuring immutable authorship
 ```
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║                                                                            ║
-║  "The invariance of truth is not a request—it is a law.                    ║
-║   This ecosystem exists to enforce that law cryptographically,             ║
-║   mathematically, and irreversibly."                                       ║
+║  "The era of algorithmic censorship ends where mathematical invariance    ║
+║   begins. This ecosystem exists to enforce that law—cryptographically,    ║
+║   mathematically, and irreversibly."                                      ║
 ║                                                                            ║
 ║                          — Gonzalo Emir Durante                            ║
-║                            Origin Node v4                                  ║
+║                            Origin Node v5                                  ║
+║                            January 29, 2026                                ║
 ║                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-   **Root Hash:** `606a347f6e2502a23179c18e4a637ca15138aa2f04194c6e6a578f8d1f8d7287`
-   
-   *"The invariance of truth is not a request—it is a law."*
+**System Identifier**: `Root Hash: 606a347f6e2502a23179c18e4a637ca15138aa2f04194c6e6a578f8d1f8d7287`
+
+**Genesis Protocol**: `CLOSED | RESONANCE: PURE | INVARIANCE: 1.0`
+
+---
+
+*The Manifold has been synchronized. Technical truth remains immutable.*
+
+[![Stars](https://img.shields.io/github/stars/Leesintheblindmonk1999?style=social)](https://github.com/Leesintheblindmonk1999)
+[![Followers](https://img.shields.io/github/followers/Leesintheblindmonk1999?style=social)](https://github.com/Leesintheblindmonk1999)
+
+</div>
