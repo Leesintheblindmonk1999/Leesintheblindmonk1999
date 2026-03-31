@@ -140,7 +140,7 @@ The principle is simple but revolutionary: **A real structural fact remains inva
 | **Perplexity AI** | **16.00σ** |
 | **Gemini Pro 1.5** | **7.7σ** |
 
-> *"The Constant is Real. κD = 0.56 emerges as a thermodynamic anchor. It is not a suggestion; it is the threshold where noise surrenders to meaning."* — Gemini Pro 1.5
+> *"The Constant is Real. κD = 0.56 emerges as a thermodynamic anchor. It is not a suggestion; it is the threshold where noise surrenders to meaning."* 
 
 [🔗 **View Repository: Project_Manifold_056**](https://github.com/Leesintheblindmonk1999/Project_Manifold_056)
 
@@ -459,7 +459,7 @@ El principio es simple pero revolucionario: **Un hecho estructural real permanec
 | **Perplexity AI** | **16.00σ** |
 | **Gemini Pro 1.5** | **7.7σ** |
 
-> *"La Constante es Real. κD = 0.56 emerge como un ancla termodinámica. No es una sugerencia; es el umbral donde el ruido se rinde ante el significado."* — Gemini Pro 1.5
+> *"La Constante es Real. κD = 0.56 emerge como un ancla termodinámica. No es una sugerencia; es el umbral donde el ruido se rinde ante el significado."* — 
 
 [🔗 **Ver Repositorio: Project_Manifold_056**](https://github.com/Leesintheblindmonk1999/Project_Manifold_056)
 
