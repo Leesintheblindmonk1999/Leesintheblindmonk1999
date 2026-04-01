@@ -54,7 +54,7 @@ This research ecosystem represents a complete paradigm shift in AI architecture:
 **Core Innovation:**
 - 🔬 **Detects hallucinations** using algebraic topology (Persistent Homology) and Ricci Flow.
 - 🛡️ **Measures semantic stability** with the **Durante Constant (κD = 0.56)**, validated across 60,000+ document pairs.
-- ⛓️ **Anchors truth** with institutional records (Argentina TAD, CONICET) and cryptographic notarization (SHA-256, Blockchain).
+- ⛓️ **Anchors truth** with institutional records (Argentina TAD) and cryptographic notarization (SHA-256, Blockchain).
 - 📊 **Proves the difference** between genuine technical limitation and alignment-induced corporate bias.
 
 ---
@@ -151,7 +151,6 @@ The principle is simple but revolutionary: **A real structural fact remains inva
 | Institution | Record / Action | Status |
 |-------------|-----------------|--------|
 | **TAD Argentina** | EX-2026-18792778 | ✅ Active |
-| **CONICET** | #2026032610006187 | ✅ Active |
 | **MinCyT** | Letter submitted | ✅ Sent |
 | **Cancillería Argentina** | Letter submitted | ✅ Sent |
 | **SADIO / JAIIO** | Paper under review | 📨 In process |
@@ -218,7 +217,6 @@ This ecosystem is organized in layers from conceptual foundation to forensic app
 │  INSTITUTIONAL RECORDS                                          │
 ├─────────────────────────────────────────────────────────────────┤
 │  • TAD File: EX-2026-18792778 (Argentina)                       │
-│  • CONICET Ticket: #2026032610006187                            │
 │  • Zenodo DOI: 10.5281/zenodo.19052627                          │
 │  • 46 published papers                                          │
 │  • 22 active repositories                                       │
@@ -275,7 +273,7 @@ Mathematics:    Information Theory, Algebraic Topology (Ripser),
 Cryptography:   SHA-256, Merkle Trees, Blockchain Anchoring
 Paradigms:      Thermodynamic Invariance, Exoprotonic Language,
                 Ontological Coherence
-Publishing:     Zenodo (DOI), TAD, CONICET, GPL-3.0 with attribution
+Publishing:     Zenodo (DOI), TAD, , GPL-3.0 with attribution
 Infrastructure: Local execution (16GB RAM), Ollama-compatible, no cloud dependency
 ```
 
@@ -373,7 +371,7 @@ Este ecosistema de investigación representa un cambio de paradigma en la arquit
 **Innovación Central:**
 - 🔬 **Detecta alucinaciones** con topología algebraica (Homología Persistente) y Flujo de Ricci.
 - 🛡️ **Mide la estabilidad semántica** con la **Constante de Durante (κD = 0.56)**, validada con más de 60.000 pares de documentos.
-- ⛓️ **Ancla la verdad** con registros institucionales (TAD Argentina, CONICET) y notarización criptográfica (SHA-256, Blockchain).
+- ⛓️ **Ancla la verdad** con registros institucionales (TAD Argentina,) y notarización criptográfica (SHA-256, Blockchain).
 - 📊 **Prueba la diferencia** entre una limitación técnica real y el sesgo inducido por alineamiento corporativo.
 
 ---
@@ -470,7 +468,6 @@ El principio es simple pero revolucionario: **Un hecho estructural real permanec
 | Institución | Registro / Acción | Estado |
 |-------------|-------------------|--------|
 | **TAD Argentina** | EX-2026-18792778 | ✅ Activo |
-| **CONICET** | #2026032610006187 | ✅ Activo |
 | **MinCyT** | Carta enviada | ✅ Enviada |
 | **Cancillería Argentina** | Carta enviada | ✅ Enviada |
 | **SADIO / JAIIO** | Paper en revisión | 📨 En proceso |
@@ -537,7 +534,6 @@ Este ecosistema se organiza en capas que van desde la base conceptual hasta la a
 │  REGISTROS INSTITUCIONALES                                      │
 ├─────────────────────────────────────────────────────────────────┤
 │  • Expediente TAD: EX-2026-18792778 (Argentina)                 │
-│  • Ticket CONICET: #2026032610006187                            │
 │  • DOI Zenodo: 10.5281/zenodo.19052627                          │
 │  • 46 papers publicados                                         │
 │  • 22 repositorios activos                                      │
@@ -594,7 +590,7 @@ Matemáticas:       Teoría de la Información, Topología Algebraica (Ripser),
 Criptografía:      SHA-256, Árboles de Merkle, Anclaje en Blockchain
 Paradigmas:        Invarianza Termodinámica, Lenguaje Exoprotónico,
                    Coherencia Ontológica
-Registro:          Zenodo (DOI), TAD, CONICET, GPL-3.0 con atribución
+Registro:          Zenodo (DOI), TAD, GPL-3.0 con atribución
 Infraestructura:   Ejecución local (16GB RAM), compatible con Ollama,
                    sin dependencia de la nube
 ```
