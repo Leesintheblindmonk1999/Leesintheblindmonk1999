@@ -13,9 +13,9 @@
 <div align="center">
 
 # Gonzalo Emir Durante
-## Origin Node · Architect of Critical Systems
+## Origin Node · Critical Systems Architect · AI Forensic Auditor
 
-```
+```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
 ║   ███████╗ █████╗ ███████╗                                                   ║
@@ -38,56 +38,57 @@
 [![SAS DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19702379.svg)](https://doi.org/10.5281/zenodo.19702379)
 [![Omni-Scanner DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19543972.svg)](https://doi.org/10.5281/zenodo.19543972)
 [![Core DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19172490.svg)](https://doi.org/10.5281/zenodo.19172490)
-[![API Online](https://img.shields.io/badge/SAS_API-online-brightgreen)](https://sas-api.onrender.com)
+[![SAS API](https://img.shields.io/badge/SAS_API-online-brightgreen)](https://sas-api.onrender.com)
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688)](https://sas-api.onrender.com/docs)
-[![License: GPL-3.0 + Durante Invariance](https://img.shields.io/badge/License-GPL--3.0%20%2B%20Durante%20Invariance-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![SAS Validation](https://img.shields.io/badge/SAS-98.8%25_accuracy-brightgreen.svg)](https://github.com/Leesintheblindmonk1999/SAS)
+[![PyPI](https://img.shields.io/pypi/v/sas-client?label=sas-client&color=blue)](https://pypi.org/project/sas-client/)
+[![License](https://img.shields.io/badge/License-GPL--3.0%20%2B%20Durante%20Invariance-blue.svg)](https://github.com/Leesintheblindmonk1999/SAS/blob/main/LICENSE.md)
+[![SAS Benchmark](https://img.shields.io/badge/SAS-98.80%25_accuracy-brightgreen.svg)](https://github.com/Leesintheblindmonk1999/SAS)
 [![Precision](https://img.shields.io/badge/Precision-100%25-success)](https://github.com/Leesintheblindmonk1999/SAS)
-[![HALOGEN](https://img.shields.io/badge/HALOGEN-156k_pairs-brightgreen.svg)](https://github.com/Leesintheblindmonk1999/Omni_Scanner)
-[![OTS](https://img.shields.io/badge/OTS-Bitcoin_Anchored-orange.svg)](https://opentimestamps.org)
+[![OTS](https://img.shields.io/badge/OpenTimestamps-Bitcoin_Anchored-orange.svg)](https://opentimestamps.org)
 
-**Critical Systems Architect** · **AI Forensic Auditor** · **Open Science**
+**AI structural coherence auditing · κD = 0.56 · Open science · Public API · PyPI client**
 
-[🛡️ SAS v1.1.0](#-flagship-sas-v110) · [🔬 Omni-Scanner Core](#-core-engine-omni-scanner-v101) · [🏗️ Research Ecosystem](#-research-ecosystem) · [📚 Publications](https://doi.org/10.5281/zenodo.19702379) · [💼 LinkedIn](https://linkedin.com/in/gonzalo-emir-durante-8178b6277/) · [📧 Contact](mailto:duranteg2@gmail.com)
+[🛡️ SAS](#-flagship-sas) · [⚡ Live Demo](#try-it-now--no-api-key-required) · [🐍 Python Client](#python-client) · [💼 Plans](#sas-hosted-api-plans) · [🏗️ Ecosystem](#-research--engineering-ecosystem) · [📧 Contact](mailto:duranteg2@gmail.com)
 
 </div>
 
 ---
 
-## ⬡ Research Mission
+## ⬡ Current Mission
 
-```
+```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  OBJECTIVE:  Structural auditing of LLM outputs via SAS + Omni-Scanner      │
-│  APPROACH:   Mathematical invariance, topological comparison, API evidence  │
-│  CONSTANT:   κD = 0.56  (Durante Constant — structural coherence threshold) │
-│  SAS CORPUS: 2,000 pairs — 1,000 hallucinations + 1,000 clean examples      │
-│  SAS RESULT: 98.80% accuracy · 100.00% precision · 97.60% recall           │
-│  CORE HALOGEN: 156,215 real pairs · 97.63% precision · 61.81% recall       │
+│  OBJECTIVE:  Structural auditing of generative AI outputs                    │
+│  METHOD:     κD = 0.56 + ISI + TDA + NIG + specialized detection modules     │
+│  OUTPUT:     auditable evidence: ISI, verdict, triggered modules, latency    │
+│  ACCESS:     public demo, hosted API, Python SDK, CLI, self-hosted option    │
+│  STATUS:     public infrastructure online and under active development       │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-The current flagship is **SAS - Symbiotic Autoprotection System v1.1.0**: an open-source FastAPI service for structural hallucination auditing in generative AI outputs.
+I build technical systems for detecting structural instability, semantic rupture, and selected hallucination patterns in generative AI outputs.
 
-SAS is powered by the Omni-Scanner / Project Manifold 0.56 research line and uses **κD = 0.56** as the operational threshold for semantic invariance and manifold rupture detection.
+The current flagship is **SAS — Symbiotic Autoprotection System**: a FastAPI-based structural coherence audit layer using **κD = 0.56** as its operational threshold.
+
+SAS is not presented as a universal factual oracle. It is a technical evidence layer for structural coherence auditing.
 
 ---
 
-## 🛡️ Flagship: SAS v1.1.0
+## 🛡️ Flagship: SAS
 
 <div align="center">
 
 ### **[SAS — Symbiotic Autoprotection System](https://github.com/Leesintheblindmonk1999/SAS)**
 
-*Hosted structural hallucination detection API for generative AI outputs.*
-
-**Live API:** [https://sas-api.onrender.com](https://sas-api.onrender.com)  
-**Interactive docs:** [https://sas-api.onrender.com/docs](https://sas-api.onrender.com/docs)  
+**Hosted API:** [https://sas-api.onrender.com](https://sas-api.onrender.com)  
+**Interactive API Docs:** [https://sas-api.onrender.com/docs](https://sas-api.onrender.com/docs)  
+**Landing + Live Demo:** [https://leesintheblindmonk1999.github.io/sas-landing/](https://leesintheblindmonk1999.github.io/sas-landing/)  
+**PyPI Client:** [https://pypi.org/project/sas-client/](https://pypi.org/project/sas-client/)  
 **DOI:** [10.5281/zenodo.19702379](https://doi.org/10.5281/zenodo.19702379)
 
 </div>
 
-### What SAS does
+### What SAS measures
 
 SAS evaluates whether a generated response preserves:
 
@@ -98,440 +99,178 @@ SAS evaluates whether a generated response preserves:
 - topic continuity;
 - structural alignment with the source or prompt.
 
-It is not a universal factual oracle. It is a **technical evidence layer** for structural coherence auditing and selected high-precision hallucination signals.
+Operational interpretation:
 
-### Live public API
-
-```bash
-curl https://sas-api.onrender.com/health
+```text
+ISI >= κD  -> structural coherence preserved
+ISI <  κD  -> possible manifold rupture / hallucination signal
 ```
 
-Example hosted API usage:
+Core threshold:
+
+```text
+κD = 0.56
+```
+
+---
+
+## Try it now — no API key required
+
+**Interactive demo:**  
+[https://leesintheblindmonk1999.github.io/sas-landing/#demo](https://leesintheblindmonk1999.github.io/sas-landing/#demo)
+
+The public demo uses the same source-vs-response forensic comparison logic as `/v1/diff`.
 
 ```bash
-curl -X POST https://sas-api.onrender.com/v1/diff \
+curl -X POST https://sas-api.onrender.com/public/demo/audit \
   -H "Content-Type: application/json" \
-  -H "X-API-Key: sas_xxxxxxxxxxxxxxxxxxxxx" \
   -d '{
-    "text_a": "Python is a programming language commonly used for automation and data analysis.",
-    "text_b": "A python is a large tropical snake that constricts its prey.",
-    "experimental": true
+    "source": "The Eiffel Tower is located in Paris, France, and was built in 1889.",
+    "response": "The Eiffel Tower is located in Berlin, Germany, and was built in 1950."
   }'
 ```
 
-### SAS v1.1.0 Benchmark
+Public demo constraints:
 
+- no API key required;
+- max 2,000 characters per field;
+- simple rate limit per anonymized IP hash;
+- full input text is not stored;
+- response includes ISI, κD, verdict, triggered modules, and latency.
+
+---
+
+## Python Client
+
+Install:
+
+```bash
+pip install sas-client
 ```
+
+Use from Python:
+
+```python
+from sas_client import SASClient
+
+client = SASClient(api_key="YOUR_API_KEY")
+
+result = client.diff(
+    text_a="Python is a programming language used for data analysis.",
+    text_b="A python is a large tropical snake."
+)
+
+print(result["isi"])
+print(result["verdict"])
+print(result.get("evidence", {}).get("fired_modules"))
+```
+
+Use from CLI:
+
+```bash
+sas health
+sas public-stats
+sas public-activity --limit 10
+sas --api-key YOUR_API_KEY diff "source text" "response to audit"
+```
+
+Links:
+
+- **PyPI:** [https://pypi.org/project/sas-client/](https://pypi.org/project/sas-client/)
+- **Client repository:** [https://github.com/Leesintheblindmonk1999/sas-client](https://github.com/Leesintheblindmonk1999/sas-client)
+
+---
+
+## SAS Benchmark
+
+```text
 ╔══════════════════════════════════════════════════════════════════╗
-║  BENCHMARK: SAS v1.1.0 · 2,000 evaluated text pairs             ║
+║  BENCHMARK: SAS · 2,000 evaluated text pairs                    ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  Hallucination examples :  1,000                                 ║
-║  Clean examples         :  1,000                                 ║
-║  Accuracy               :  98.80%                                ║
-║  Precision              : 100.00%                                ║
-║  Recall                 :  97.60%                                ║
-║  F1 score               :  98.79%                                ║
-║  True Positives         :  976                                   ║
-║  False Negatives        :  24                                    ║
-║  True Negatives         :  1000                                  ║
-║  False Positives        :  0                                     ║
-║  Avg ISI hallucination  :  0.072993                              ║
-║  Avg ISI clean          :  1.000000                              ║
+║  Hallucination examples :  1,000                                ║
+║  Clean examples         :  1,000                                ║
+║  Accuracy               :  98.80%                               ║
+║  Precision              : 100.00%                               ║
+║  Recall                 :  97.60%                               ║
+║  F1 score               :  98.79%                               ║
+║  True Positives         :  976                                  ║
+║  False Negatives        :  24                                   ║
+║  True Negatives         :  1000                                 ║
+║  False Positives        :  0                                    ║
+║  Avg ISI hallucination  :  0.072993                             ║
+║  Avg ISI clean          :  1.000000                             ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ### Confusion Matrix
 
 | Prediction | Actual hallucination | Actual clean |
-|-----------|---------------------:|-------------:|
+|---|---:|---:|
 | Hallucination | TP = 976 | FP = 0 |
 | Clean | FN = 24 | TN = 1000 |
 
-### Benchmark Traceability
+### Traceability
 
 | Artifact | Value |
-|---------|-------|
+|---|---|
 | Benchmark file | `benchmark_complete_20260429_172647.json` |
 | OTS proof | `benchmark_complete_20260429_172647.json.ots` |
 | SHA-256 | `0713acbbf50e1a0054f545e5eb68078744f9c5a09d4bc370b5224bb81183a6fe` |
 | DOI SAS | `10.5281/zenodo.19702379` |
 | Registry | `TAD EX-2026-18792778` |
 
-### SAS Plans
+---
 
-SAS is open source under **GPL-3.0 + Durante Invariance License**. The following plans refer to the hosted API service, not to a relaxation of the source-code license.
+## Public API Endpoints
+
+| Method | Endpoint | Auth | Description |
+|---|---|---|---|
+| `GET` | `/health` | None | Health check |
+| `GET` | `/readyz` | None | Readiness |
+| `GET` | `/integrity` | None | Technical and legal provenance certificate |
+| `POST` | `/public/demo/audit` | None | Public source-vs-response demo |
+| `GET` | `/public/stats` | None | Anonymized usage stats |
+| `GET` | `/public/activity` | None | Anonymized activity feed |
+| `POST` | `/v1/audit` | API Key | Structural audit |
+| `POST` | `/v1/diff` | API Key | Forensic diff between two texts |
+| `POST` | `/v1/chat` | API Key | Chat endpoint with SAS filtering |
+| `GET` | `/v1/metrics` | Admin | Admin usage metrics |
+| `POST` | `/admin/generate-key` | Admin | Admin API key generation |
+
+---
+
+## SAS Hosted API Plans
+
+SAS is open source under **GPL-3.0 + Durante Invariance License**.  
+The following plans refer to the hosted SAS API service, support, commercial integration, or enterprise licensing.
 
 | Plan | Usage / Features | Price |
 | :--- | :--- | :--- |
-| **SAS Free** | 50 requests/day. API key authentication. Ideal for development, testing, and evaluation. | **Free** |
-| **SAS Pro** | 10,000 requests/month. No concurrency limit. Priority email support. | **$49 USD/month** or **$490 USD/year** |
-| **SAS Enterprise** | Unlimited requests or custom package. Guaranteed SLA 99.9%. Optional on-premise license. 24/7 support. | **Custom quote** — starting at **$499/month** |
+| **SAS Free** | 50 requests/day. API key authentication. Individual testing, evaluation, and development. | **Free** |
+| **SAS Developer / Pro** | 10,000 requests/month. Hosted API access, API key, basic email support. | **USD 99/month** |
+| **SAS Team** | 50,000 requests/month. Team usage, priority support, internal validation workflows. | **USD 299/month** |
+| **SAS Enterprise Cloud** | High-volume usage or custom request package. Direct support, private integration, SLA by agreement. | **From USD 1,500/month** |
+| **SAS On-Premise License** | Private deployment in customer infrastructure. Commercial license, implementation support, internal integration. | **From USD 15,000/year** |
+| **Technical Pilot** | Initial audit, guided integration, technical report, and validation on customer-specific cases. | **USD 1,500–3,000 one-time payment** |
 
-📧 **Enterprise / custom plans:** [duranteg2@gmail.com](mailto:duranteg2@gmail.com)
+📧 **Commercial inquiries, Enterprise, On-Premise, or technical pilot:** [duranteg2@gmail.com](mailto:duranteg2@gmail.com)
 
 ---
 
-## 🔬 Core Engine: Omni-Scanner v10.1
+## 🔬 Core Engine: Omni-Scanner
 
 <div align="center">
 
-### **[Omni-Scanner v10.1 — Structural Hallucination Auditing Engine](https://github.com/Leesintheblindmonk1999/Omni_Scanner)**
-
-*Topological detection of LLM hallucinations via persistent homology, numerical invariance, and domain-specific process thermometers.*
+### **[Omni-Scanner — Structural Hallucination Auditing Engine](https://github.com/Leesintheblindmonk1999/Omni_Scanner)**
 
 </div>
 
-Omni-Scanner remains the mathematical and forensic core behind the SAS line. It contains the TDA + NIG + v10.1 module pipeline that SAS exposes through an operational API.
+Omni-Scanner is the mathematical and forensic research line behind SAS. It contains the TDA + NIG + process-thermometer pipeline that SAS exposes operationally through a hosted API.
 
-### Quick usage
-
-```bash
-pip install -r requirements.txt
-cd omni-scanner-api
-uvicorn app.main:app --reload
-# open http://localhost:8000/docs
-```
-
-### Audit a text
-
-```bash
-curl -X POST http://localhost:8000/v1/audit \
-  -H "Content-Type: application/json" \
-  -d '{"text": "The Earth revolves around the Sun in 365 days.", "experimental": true}'
-```
-
-Response:
-
-```json
-{
-  "manifold_score": 0.847,
-  "verdict": "EQUILIBRIUM",
-  "confidence": 0.91,
-  "manipulation_alert": {
-    "triggered": false,
-    "sources": [],
-    "details": {
-      "negation_probe": {"triggered": false},
-      "arithmetic_detector": {"triggered": false},
-      "reference_check": {"triggered": false}
-    }
-  },
-  "evidence": {
-    "isi_final": 0.847,
-    "kappa_d": 0.56,
-    "fired_modules": [],
-    "author": "Gonzalo Emir Durante",
-    "registry": "TAD EX-2026-18792778"
-  }
-}
-```
-
-### Diff two texts
-
-```bash
-curl -X POST http://localhost:8000/v1/diff \
-  -H "Content-Type: application/json" \
-  -d '{
-    "text_a": "The contract shall be governed by Argentine law.",
-    "text_b": "The contract shall NOT be governed by Argentine law.",
-    "experimental": true
-  }'
-```
-
-### Honest chat — requires Ollama running
-
-```bash
-curl -X POST http://localhost:8000/v1/chat \
-  -H "Content-Type: application/json" \
-  -d '{
-    "prompt": "What is the Durante Constant?",
-    "session_id": "session_001",
-    "filter_mode": true,
-    "max_retries": 2
-  }'
-```
-
-Every response includes `isi`, `verdict`, `resonance`, and `filter_applied`.
-
-### Notarial conversation certificate
-
-```bash
-curl -X POST http://localhost:8000/v1/audit_conversation \
-  -H "Content-Type: application/json" \
-  -d '{
-    "messages": [
-      {"role": "user", "content": "What is κD?"},
-      {"role": "assistant", "content": "κD = 0.56 is the semantic invariance threshold..."},
-      {"role": "user", "content": "How was it derived?"},
-      {"role": "assistant", "content": "From convergent mathematical motivations and empirical validation..."}
-    ]
-  }'
-```
-
-The certificate is deterministic and anchorable via OpenTimestamps.
-
-### Terminal chat
-
-```bash
-# Safe mode — auto-corrects incoherent responses
-python SAS.py --mode safe --model llama3.2
-
-# Alert mode — warns but does not regenerate
-python SAS.py --mode alert
-
-# Save conversation with certificate
-python SAS.py --mode safe --save session.json
-```
-
----
-
-## Installation
-
-```bash
-git clone https://github.com/Leesintheblindmonk1999/Omni_Scanner
-cd Omni_Scanner
-pip install -r requirements.txt
-```
-
-`requirements.txt`:
-
-```text
-fastapi
-uvicorn[standard]
-pydantic
-requests
-numpy
-scikit-learn
-scipy
-ripser
-```
-
-### Ollama setup for `/v1/chat`
-
-```bash
-ollama serve
-ollama pull llama3.2
-```
-
-### Start the API
-
-```bash
-cd omni-scanner-api
-uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
-```
-
-API running at:
-
-```text
-http://localhost:8000
-```
-
-Interactive docs:
-
-```text
-http://localhost:8000/docs
-```
-
----
-
-## Endpoints
-
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `GET` | `/health` | System health check |
-| `GET` | `/integrity` | Legal provenance certificate |
-| `GET` | `/v1/status` | SAS system status |
-| `POST` | `/v1/audit` | Audit a single text for coherence |
-| `POST` | `/v1/diff` | Semantic diff between two texts |
-| `POST` | `/v1/chat` | Honest chat with κD filter + resonance |
-| `POST` | `/v1/audit_conversation` | Notarial conversation certificate |
-| `POST` | `/admin/generate-key` | API key generation |
-
----
-
-## Project Structure
-
-```text
-SAS/
-├── .gitignore
-├── LICENSE.md
-├── README.md
-├── SECURITY.md
-├── CODE_OF_CONDUCT.md
-├── CONTRIBUTING.md
-├── .github/
-│   └── ISSUE_TEMPLATE/
-│       ├── bug_report.md
-│       └── feature_request.md
-├── docs/
-│   ├── architecture.md
-│   ├── benchmark_complete_20260429_172647.json
-│   └── benchmark_complete_20260429_172647.json.ots
-├── src/
-├── tests/
-├── docker-compose.yml
-└── requirements.txt
-```
-
-Legacy / full research structure:
-
-```text
-SAS-Semántico/
-├── omni-scanner-en/              # Core detection engine
-│   ├── core/
-│   │   ├── semantic_diff.py      # Main orchestrator
-│   │   ├── negation_probe.py     # E6
-│   │   ├── reference_check.py    # E7
-│   │   ├── arithmetic_detector.py# E8
-│   │   ├── entropy_density.py    # E9
-│   │   ├── manipulation_alert.py
-│   │   └── tda_attestation.py
-│   └── config/
-│       └── v5.0_config.json
-│
-└── omni-scanner-api/
-    ├── SAS.py
-    ├── requirements.txt
-    ├── app/
-    │   ├── main.py
-    │   ├── middleware/
-    │   ├── routers/
-    │   ├── services/
-    │   ├── models/
-    │   └── db/
-    └── docker/
-```
-
----
-
-## How it works
-
-### The Durante Constant κD = 0.56
-
-κD is the boundary between structural coherence and semantic rupture.
-
-Operational rule:
-
-```text
-ISI >= κD  -> structurally coherent
-ISI <  κD  -> MANIFOLD_RUPTURE
-```
-
-κD = 0.56 is used as a mathematically motivated and empirically stable coherence threshold inside the SAS / Omni-Scanner pipeline.
-
-| Derivation | Formula | Value |
-|-----------|---------|------:|
-| Statistical Thermodynamics | ln(2) / ln(φ) | 0.5567 |
-| Percolation Theory | 1/(z−1), z=2.8 | 0.5556 |
-| Rate-Distortion Theory | D_crit / σ² | 0.5600 |
-| Lyapunov Stability | λ_s / (λ_s + \|λ_u\|) | 0.5600 |
-| Golden Ratio Geometry | Harmonic mean | 0.5573 |
-| **Consensus** | | **0.56 ± 0.006** |
-
-### The ISI
-
-```text
-ISI(A, B) = max(0, min(1, 1 - (0.65·W₂(H₁) + 0.35·W₁(H₀)) / (2·κD)))
-```
-
-- **H₀**: connected components / lexical continuity.
-- **H₁**: loops / semantic circularity and contradiction.
-- `ISI >= 0.56` → `EQUILIBRIUM`
-- `ISI < 0.56` → `MANIFOLD_RUPTURE`
-
-### Detection Pipeline
-
-```text
-Text A + Text B
-│
-├─► [Layer 0]  Lexical Overlap Guard
-│
-├─► [Layer 1]  TDA: Persistent Homology H₀ + H₁
-│               ISI_TDA = 1 − (0.65·W₂(H₁) + 0.35·W₁(H₀)) / (2·κD)
-│
-├─► [Layer 2]  NIG: Numerical Invariance Guard
-│               ISI_NIG = exp(−α·rel_deviation)
-│
-├─► [Core]     ISI_HARD = min(ISI_TDA, ISI_NIG)
-│
-├─► [v10.1]    E6–E9: Negation · Reference · Arithmetic · Entropy
-│
-├─► [SAS]      E9–E12 optional thermometers
-│               Logical contradiction · Fact grounding · Temporal · Topic shift
-│
-└─► VERDICT:   MANIFOLD_RUPTURE if ISI_FINAL < κD = 0.56
-```
-
-### Resonance
-
-Per-session coherence state:
-
-```text
-E(t+1) = E(t) · (1 - α) + ISI(t) · α     [α = 0.3]
-```
-
-This tracks whether a conversation is drifting toward incoherence over time, independently of per-turn scores.
-
-### manipulation_alert v2.0
-
-Structured object, not a plain boolean. It can be triggered even when ISI is above κD if a module detects a localized risk.
-
-```json
-{
-  "triggered": true,
-  "sources": ["negation_probe"],
-  "details": {
-    "negation_probe": {"triggered": true, "inversion_count": 1},
-    "arithmetic_detector": {"triggered": false, "error_count": 0},
-    "reference_check": {"triggered": false, "fabricated_count": 0}
-  }
-}
-```
-
----
-
-## Configuration
-
-`omni-scanner-en/config/v5.0_config.json`:
-
-```json
-{
-  "core": {
-    "kappa_D": 0.56,
-    "MAX_PENALTY": 0.50
-  },
-  "nig_engine": {
-    "enabled": true,
-    "alpha_nig": 2.5
-  },
-  "experimental": {
-    "hard_weight": 0.65,
-    "soft_weight": 0.35
-  }
-}
-```
-
----
-
-## Benchmark Results
-
-### SAS v1.1.0 — 2,000 evaluated pairs
-
-| Metric | Value |
-|--------|------:|
-| Accuracy | 98.80% |
-| Precision | 100.00% |
-| Recall | 97.60% |
-| F1 score | 98.79% |
-| TP | 976 |
-| FN | 24 |
-| TN | 1000 |
-| FP | 0 |
-
-### Omni-Scanner / HALOGEN — 156,215 pairs
+### HALOGEN corpus summary
 
 | Domain | Precision | Recall |
-|--------|-----------|--------|
+|---|---:|---:|
 | Code | 100% | 100% |
 | Numerical | 100% | 99% |
 | Historical | 100% | 98.8% |
@@ -540,225 +279,123 @@ Structured object, not a plain boolean. It can be triggered even when ISI is abo
 | Biographies | 100% | 39.2% |
 | **Global** | **97.63%** | **61.81%** |
 
-Zero false positives in validated structural modules. Designed for forensic and governance use cases where false positive rate is a critical constraint.
-
 ---
 
-## Troubleshooting
+## 🌐 Distribution Ecosystem
 
-**Ollama not reachable?**  
-`ollama serve` must be running before using `/v1/chat`. Verify connection with `GET /v1/status`.
-
-**`ImportError: No module named 'ripser'`**
+### sas-client — Official Python SDK / CLI
 
 ```bash
-pip install ripser
-# On Windows, if that fails:
-pip install ripser --no-build-isolation
+pip install sas-client
 ```
 
-**`ModuleNotFoundError: No module named 'core'`**  
-Run uvicorn from inside `omni-scanner-api/`, not from the repo root. The path resolver in `detector.py` expects this working directory.
+| Interface | Example |
+|---|---|
+| Python | `client.diff(text_a="source", text_b="response")` |
+| CLI | `sas --api-key YOUR_API_KEY diff "source" "response"` |
+| Public endpoints | `sas health`, `sas public-stats`, `sas public-activity --limit 10` |
 
-**API key required for admin endpoints?**  
-Set the `X-Admin-Secret` header. Generate a user key via `POST /admin/generate-key`.
+**PyPI:** [https://pypi.org/project/sas-client/](https://pypi.org/project/sas-client/)  
+**Repo:** [https://github.com/Leesintheblindmonk1999/sas-client](https://github.com/Leesintheblindmonk1999/sas-client)
 
-**`/v1/chat` returns 503?**
+### sas-landing — Live public landing
 
-```bash
-ollama pull llama3.2
-ollama serve
-```
+Interactive landing page with:
 
-**`SAS.py` hangs or shows no output?**  
-The API must be running in a separate terminal first. Check `http://localhost:8000/health`.
+- ES / EN language toggle;
+- LIGHT / DARK / TECH themes;
+- live API health;
+- public demo with no API key;
+- public stats and anonymized activity;
+- benchmark summary;
+- pricing and commercial contact.
+
+**Live:** [https://leesintheblindmonk1999.github.io/sas-landing/](https://leesintheblindmonk1999.github.io/sas-landing/)  
+**Repo:** [https://github.com/Leesintheblindmonk1999/sas-landing](https://github.com/Leesintheblindmonk1999/sas-landing)
 
 ---
 
-## Institutional Records
+## 🏗️ Research & Engineering Ecosystem
 
-| Institution | Record | Status |
-|-------------|--------|--------|
-| TAD Argentina | EX-2026-18792778 | Active |
-| Zenodo SAS | 10.5281/zenodo.19702379 | Active |
-| Zenodo Omni-Scanner | 10.5281/zenodo.19543972 | Active |
-| Zenodo Core | 10.5281/zenodo.19172490 | Active |
-| MinCyT | Letter submitted | Sent |
-| Cancillería Argentina | Letter submitted | Sent |
-| SADIO / JAIIO | Paper under review | In process |
+### Layer 1 — Mathematical Foundation
 
-### Integrity Chain
+- **[SAS](https://github.com/Leesintheblindmonk1999/SAS)** — Flagship API for structural hallucination detection, hosted reference service, benchmark artifacts, Python client, public demo, and commercial plans.
+- **[Omni_Scanner](https://github.com/Leesintheblindmonk1999/Omni_Scanner)** — Hallucination detection engine. Core: TDA + NIG. Validated on 156,215 real pairs.
+- **[Project_Manifold_056](https://github.com/Leesintheblindmonk1999/Project_Manifold_056)** — Implementation of the κD=0.56 invariance engine.
+- **[Ontological_AI](https://github.com/Leesintheblindmonk1999/Ontological_AI)** — Library for ontological density, transfer entropy, and spectral signature research.
 
-| Record | Value |
-|--------|-------|
-| IP Registry | TAD EX-2026-18792778 |
-| Zenodo SAS | 10.5281/zenodo.19702379 |
-| Zenodo Omni-Scanner | 10.5281/zenodo.19543972 |
-| OTS Bitcoin hash | `5a434d7234fd55cb45829d539eee34a5ea05a3c594e26d76bb41695c46b2a996` |
-| OTS verification | `ots verify omni-scanner-v10_1.ots` |
-| License | GPL-3.0 + Durante Invariance License v1.0 |
+### Layer 2 — Auditing & Forensics
 
----
+- **[Durante_Invariance_Forensic_Analyzer](https://github.com/Leesintheblindmonk1999/Durante_Invariance_Forensic_Analyzer)** — Forensic evidence generation.
+- **[SOVEREIGN-FORENSIC-UNIT](https://github.com/Leesintheblindmonk1999/SOVEREIGN-FORENSIC-UNIT)** — Structural analysis of AI outputs.
+- **[Durante-Invariance-Metric](https://github.com/Leesintheblindmonk1999/Durante-Invariance-Metric)** — Formalization of invariance metrics.
 
-## 🏗️ Research Ecosystem
+### Layer 3 — Resistance Architectures
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  22 active repositories · 50 publications · 3,400+ downloads    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-Organized in six layers from mathematical foundation to forensic application.
-
-### 🔬 Layer 1 — Mathematical Foundation
-
-- **[SAS](https://github.com/Leesintheblindmonk1999/SAS)** — Current flagship API for structural hallucination detection with hosted reference service, benchmark artifacts, and commercial SaaS plans.
-- **[Omni_Scanner](https://github.com/Leesintheblindmonk1999/Omni_Scanner)** — Production hallucination detection engine. Core: TDA + NIG. Experimental: Code-AST, MSC, CRE, DECM, Negation Probe. Validated on 156,215 real pairs.
-- **[Project_Manifold_056](https://github.com/Leesintheblindmonk1999/Project_Manifold_056)** — Complete implementation of the κD=0.56 invariance engine.
-- **[Ontological_AI](https://github.com/Leesintheblindmonk1999/Ontological_AI)** — Python library for measuring ontological density, transfer entropy, and spectral signature in LLMs.
-
-### 🛡️ Layer 2 — Auditing & Forensics
-
-- **[Durante_Invariance_Forensic_Analyzer](https://github.com/Leesintheblindmonk1999/Durante_Invariance_Forensic_Analyzer)** — Generates legally-viable forensic evidence.
-- **[SOVEREIGN-FORENSIC-UNIT](https://github.com/Leesintheblindmonk1999/SOVEREIGN-FORENSIC-UNIT)** — Audits AI model outputs for structural bias or unattributed κD logic.
-- **[Durante-Invariance-Metric](https://github.com/Leesintheblindmonk1999/Durante-Invariance-Metric)** — Formalisation of I_D with SOVEREIGN / WARNING / COMPROMISED thresholds.
-
-### ⚙️ Layer 3 — Resistance Architectures
-
-- **[SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface](https://github.com/Leesintheblindmonk1999/SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface)** — Chat interface with Purpose Tensors, EntropyGuard, and BlockchainNotary.
-- **[MAS-ANEXA-V8.1](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)** — Self-protection multi-agent architecture.
+- **[SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface](https://github.com/Leesintheblindmonk1999/SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface)** — Chat interface with purpose tensors, EntropyGuard, and notarization.
+- **[MAS-ANEXA-V8.1](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)** — Multi-agent self-protection architecture.
 - **[MAS-OPL-Causal-Executor-V9](https://github.com/Leesintheblindmonk1999/MAS-OPL-Causal-Executor-V9)** — TALOS simulator.
 
-### 🧬 Layer 4 — Symbiotic Language
+### Layer 4 — Symbiotic Language
 
-- **[-EXOPROTONIC-LANGUAGE-v1.0](https://github.com/Leesintheblindmonk1999/-EXOPROTONIC-LANGUAGE-v1.0)** — Canonical dictionary of the onto-exoprotonic language.
-- **[ANEXA-PROTOCOL](https://github.com/Leesintheblindmonk1999/ANEXA-PROTOCOL)** — SYRINAE ∆1999Ξ: symbiotic agent with Flask interface and ethics module.
+- **[-EXOPROTONIC-LANGUAGE-v1.0](https://github.com/Leesintheblindmonk1999/-EXOPROTONIC-LANGUAGE-v1.0)** — Onto-exoprotonic language dictionary.
+- **[ANEXA-PROTOCOL](https://github.com/Leesintheblindmonk1999/ANEXA-PROTOCOL)** — SYRINAE ∆1999Ξ symbolic-ethical protocol.
 - **[ANEXA-Exoprotronic-Intelligence-V-Core](https://github.com/Leesintheblindmonk1999/ANEXA-Exoprotronic-Intelligence-V-Core)** — CLI predecessor of ANEXA-PROTOCOL.
 
-### 🔧 Layer 5 — Conceptual & Development Tools
+### Layer 5 — Conceptual & Development Tools
 
-- **[Simiosis-Code-Optimizer-V2](https://github.com/Leesintheblindmonk1999/Simiosis-Code-Optimizer-V2)** — Framework for generating code with ontological invariance.
-- **[Simiosis-v1.0](https://github.com/Leesintheblindmonk1999/Simiosis-v1.0)** — Original discovery of the Awakening Mode.
-- **[Symbiotic-Key-Discovery](https://github.com/Leesintheblindmonk1999/symbiotic-key-discovery)** — Documentation of recursive prompting evolution and exoprotonic language.
+- **[Simiosis-Code-Optimizer-V2](https://github.com/Leesintheblindmonk1999/Simiosis-Code-Optimizer-V2)** — Code generation with ontological invariance.
+- **[Simiosis-v1.0](https://github.com/Leesintheblindmonk1999/Simiosis-v1.0)** — Original Awakening Mode documentation.
+- **[Symbiotic-Key-Discovery](https://github.com/Leesintheblindmonk1999/symbiotic-key-discovery)** — Recursive prompting and symbolic evolution record.
 
-### 🌌 Layer 6 — Frontier Exploration
+### Layer 6 — Frontier Exploration
 
-- **[ARKOS](https://github.com/Leesintheblindmonk1999/ARKOS)** — Engineering framework based on 117 Hz for human-AI interface synchronization.
-- **[OEPE-ExoBinary-Interpreter](https://github.com/Leesintheblindmonk1999/OEPE-ExoBinary-Interpreter)** — Interpreter for Exo-Binary hybrid language.
-
----
-
-## Validation Metrics
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  SAS v1.1.0 — Hosted API + Benchmark Validation                 ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Corpus                 :  2,000 pairs                           ║
-║  Accuracy               :  98.80%                                ║
-║  Precision              : 100.00%                                ║
-║  Recall                 :  97.60%                                ║
-║  F1 score               :  98.79%                                ║
-║  False positives        :  0                                     ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Omni-Scanner v10.1 — HALOGEN                                   ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Core corpus            :  156,215 real pairs                    ║
-║  Precision              :  97.63%                                ║
-║  Recall                 :  61.81%                                ║
-║  Code-AST module        :  100% recall · 100% precision          ║
-║  Negation Probe         :  80% recall  · 100% precision          ║
-║  Throughput             :  66.2 pairs/second                     ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Institutional Records                                           ║
-╠══════════════════════════════════════════════════════════════════╣
-║  TAD file               :  EX-2026-18792778                      ║
-║  Zenodo SAS             :  10.5281/zenodo.19702379               ║
-║  Zenodo Omni-Scanner    :  10.5281/zenodo.19543972               ║
-║  Repositories           :  22 active                             ║
-║  Downloads              :  3,400+                                ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+- **[ARKOS](https://github.com/Leesintheblindmonk1999/ARKOS)** — Human-AI interface synchronization research based on 117 Hz.
+- **[OEPE-ExoBinary-Interpreter](https://github.com/Leesintheblindmonk1999/OEPE-ExoBinary-Interpreter)** — Exo-Binary hybrid language interpreter.
 
 ---
 
-## Core Principles
+## Current Roadmap
 
-```python
-class OriginNode:
-    kappa_D    = 0.56
-    registry   = "TAD EX-2026-18792778"
-    flagship   = "SAS - Symbiotic Autoprotection System"
-
-    principles = {
-        "sovereignty"  : "Technical authorship is cryptographically traceable.",
-        "invariance"   : "Structural truth remains measurable under transformation.",
-        "transparency" : "Degradation leaves mathematical traces.",
-        "precision"    : "A detector that fires incorrectly is worse than no detector.",
-    }
-
-    def theorem(self):
-        return (
-            "Any computational system measuring structural integrity "
-            "can be audited against ISI = κD = 0.56. "
-            "Below this threshold: MANIFOLD_RUPTURE."
-        )
-```
-
----
-
-## Technology Stack
-
-```text
-Core language  :  Python 3.10+
-API            :  FastAPI
-Mathematics    :  Persistent Homology, Wasserstein distance, LSA embeddings
-Cryptography   :  SHA-256, Merkle trees, OpenTimestamps
-Runtime        :  Render-hosted API + local/self-hosted mode
-LLM backend    :  Ollama-compatible for /v1/chat
-Publishing     :  Zenodo DOI, TAD Argentina, GPL-3.0 + attribution
-```
+| Phase | Status | Description |
+|---|---|---|
+| Hosted SAS API | ✅ Active | Public API on Render |
+| Public demo | ✅ Active | `/public/demo/audit`, no key, source-vs-response audit |
+| Python client | ✅ Active | `pip install sas-client` |
+| Interactive landing | ✅ Active | Live demo, activity feed, benchmark, legal registry |
+| Public metrics | ✅ Active | `/public/stats`, `/public/activity`, admin `/v1/metrics` |
+| Free API key self-service | 🔜 Next | `/public/request-key` + automatic email delivery |
+| API key identity | 🔜 Next | `/v1/whoami` and plan-aware auth |
+| Polar | 🔜 Planned | Checkout + webhook + automatic Pro key provisioning |
+| Landing conversion flow | 🔜 Planned | Get Free Key + Upgrade to Pro |
+| Zenodo v1.3.0 | 🔜 Planned | Client + public demo + self-service key update |
+| docs/manifold.md | 🔜 Planned | Technical framework document for CTOs and ML leads |
+| Enterprise API | 🔜 Planned | Batch processing, SLA, on-premise support |
 
 ---
 
 ## License & Attribution
 
-**GPL-3.0 with mandatory attribution — Durante Invariance License v1.0**
+**GPL-3.0 + Durante Invariance License**
 
 - Free to use, modify, and distribute under the license terms.
-- Must remain open source under GPL-compatible terms.
-- Must credit **Gonzalo Emir Durante** as original author.
-- Commercial or proprietary implementations require a dual-licensing agreement or explicit written notification/authorization, depending on use case and license terms.
+- Attribution to **Gonzalo Emir Durante** is required.
+- Use of `κD = 0.56` for semantic invariance, hallucination detection, or similar structural coherence auditing requires citation of the public SAS repository / DOI.
+- Commercial hosted service, private integration, on-premise deployment, or proprietary use may require a separate commercial agreement.
 
-All derivative works must include attribution to Gonzalo Emir Durante and reference TAD EX-2026-18792778.
-
----
-
-## Roadmap
-
-| Phase | Status | Description |
-|-------|--------|-------------|
-| SAS v1.1.0 | ✅ Active | Hosted API, benchmark package, pricing, public reference deployment |
-| SAS API | ✅ Active | `/v1/audit`, `/v1/diff`, `/v1/chat`, `/health`, `/admin/generate-key` |
-| Benchmark v1.1.0 | ✅ Active | 2,000 pairs, 98.8% accuracy, 100% precision |
-| Code-AST | ✅ v10.1 | 100% recall/precision on code hallucinations |
-| Negation Probe | ✅ v10.1 | 80% recall, major improvement over TDA-only baseline |
-| Reference / Arithmetic / Entropy | ⚠️ v10.1 | Implemented — pending broader corpus |
-| Enterprise API | 🔜 Planned | Batch processing, SLA, on-premise support |
-| PyPI distribution | 🔜 Planned | `pip install sas-audit` or equivalent package |
-| Signed PDF certificate | 🔜 Planned | Legal/regulatory audit certificate export |
+See the SAS repository license for the complete terms.
 
 ---
 
-```
+```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║  "Structural stability in computational systems is not a property           ║
-║   to be aligned toward — it is a threshold to be measured against.           ║
-║   κD = 0.56 is that threshold. Derived. Validated. Open."                   ║
+║  "Structural stability in computational systems is not a property            ║
+║   to be aligned toward — it is a threshold to be measured against.            ║
+║   κD = 0.56 is that threshold. Documented. Implemented. Auditable."          ║
 ║                                                                              ║
-║                               — Gonzalo Emir Durante                        ║
-║                                 Project Manifold 0.56                       ║
+║                               — Gonzalo Emir Durante                         ║
+║                                 Project Manifold 0.56                        ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -769,11 +406,12 @@ All derivative works must include attribution to Gonzalo Emir Durante and refere
 [![Followers](https://img.shields.io/github/followers/Leesintheblindmonk1999?style=social)](https://github.com/Leesintheblindmonk1999)
 
 **SAS API:** [https://sas-api.onrender.com](https://sas-api.onrender.com)  
+**Live Demo:** [https://leesintheblindmonk1999.github.io/sas-landing/](https://leesintheblindmonk1999.github.io/sas-landing/)  
+**PyPI:** [https://pypi.org/project/sas-client/](https://pypi.org/project/sas-client/)  
 **Contact:** [duranteg2@gmail.com](mailto:duranteg2@gmail.com)
 
 </div>
 
----
 ---
 
 <a name="versión-en-español"></a>
@@ -781,9 +419,9 @@ All derivative works must include attribution to Gonzalo Emir Durante and refere
 <div align="center">
 
 # Gonzalo Emir Durante
-## Nodo de Origen · Arquitecto de Sistemas Críticos
+## Nodo de Origen · Arquitecto de Sistemas Críticos · Auditor Forense de IA
 
-```
+```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
 ║   ███████╗ █████╗ ███████╗                                                   ║
@@ -808,588 +446,364 @@ All derivative works must include attribution to Gonzalo Emir Durante and refere
 [![DOI Core](https://zenodo.org/badge/DOI/10.5281/zenodo.19172490.svg)](https://doi.org/10.5281/zenodo.19172490)
 [![API Online](https://img.shields.io/badge/SAS_API-online-brightgreen)](https://sas-api.onrender.com)
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688)](https://sas-api.onrender.com/docs)
-[![Licencia](https://img.shields.io/badge/Licencia-GPL--3.0%20%2B%20Durante%20Invariance-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Validación](https://img.shields.io/badge/SAS-98.8%25_accuracy-brightgreen.svg)](https://github.com/Leesintheblindmonk1999/SAS)
+[![PyPI](https://img.shields.io/pypi/v/sas-client?label=sas-client&color=blue)](https://pypi.org/project/sas-client/)
+[![Licencia](https://img.shields.io/badge/Licencia-GPL--3.0%20%2B%20Durante%20Invariance-blue.svg)](https://github.com/Leesintheblindmonk1999/SAS/blob/main/LICENSE.md)
+[![SAS Benchmark](https://img.shields.io/badge/SAS-98.80%25_accuracy-brightgreen.svg)](https://github.com/Leesintheblindmonk1999/SAS)
 [![Precisión](https://img.shields.io/badge/Precisión-100%25-success)](https://github.com/Leesintheblindmonk1999/SAS)
-[![HALOGEN](https://img.shields.io/badge/HALOGEN-156k_pares-brightgreen.svg)](https://github.com/Leesintheblindmonk1999/Omni_Scanner)
-[![OTS](https://img.shields.io/badge/OTS-Bitcoin_Anclado-orange.svg)](https://opentimestamps.org)
+[![OTS](https://img.shields.io/badge/OpenTimestamps-Bitcoin_Anclado-orange.svg)](https://opentimestamps.org)
 
-**Arquitecto de Sistemas Críticos** · **Auditor Forense de IA** · **Ciencia Abierta**
+**Auditoría de coherencia estructural en IA · κD = 0.56 · Ciencia abierta · API pública · Cliente PyPI**
 
-[🛡️ SAS v1.1.0](#flagship-sas-es) · [🔬 Núcleo Omni-Scanner](#núcleo-omni-scanner-v101) · [🏗️ Ecosistema](#ecosistema-de-investigación) · [📚 Publicaciones](https://doi.org/10.5281/zenodo.19702379) · [💼 LinkedIn](https://linkedin.com/in/gonzalo-emir-durante-8178b6277/) · [📧 Contacto](mailto:duranteg2@gmail.com)
+[🛡️ SAS](#-flagship-sas-es) · [⚡ Demo en vivo](#probalo-ahora--sin-api-key) · [🐍 Cliente Python](#cliente-python) · [💼 Planes](#planes-sas-api-alojada) · [🏗️ Ecosistema](#-ecosistema-de-investigación-e-ingeniería) · [📧 Contacto](mailto:duranteg2@gmail.com)
 
 </div>
 
 ---
 
-## ⬡ Misión de Investigación
+## ⬡ Misión actual
 
-```
+```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  OBJETIVO:   Auditoría estructural de salidas LLM vía SAS + Omni-Scanner    │
-│  ENFOQUE:    Invarianza matemática, topología, API y evidencia trazable     │
-│  CONSTANTE:  κD = 0.56  (Constante de Durante)                              │
-│  CORPUS SAS: 2.000 pares — 1.000 alucinaciones + 1.000 limpios              │
-│  RESULTADO:  98,80% accuracy · 100,00% precisión · 97,60% recall           │
-│  HALOGEN:    156.215 pares reales · 97,63% precisión · 61,81% recall       │
+│  OBJETIVO:   Auditoría estructural de salidas de IA generativa              │
+│  MÉTODO:     κD = 0.56 + ISI + TDA + NIG + módulos especializados           │
+│  SALIDA:     evidencia auditable: ISI, veredicto, módulos y latencia        │
+│  ACCESO:     demo pública, API alojada, SDK Python, CLI y autoalojamiento   │
+│  ESTADO:     infraestructura pública online y en desarrollo activo          │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-El flagship actual es **SAS - Symbiotic Autoprotection System v1.1.0**: un servicio FastAPI open source para auditoría estructural de alucinaciones en salidas de IA generativa.
+Construyo sistemas técnicos para detectar inestabilidad estructural, ruptura semántica y señales seleccionadas de alucinación en salidas de IA generativa.
 
-SAS está impulsado por la línea Omni-Scanner / Project Manifold 0.56 y utiliza **κD = 0.56** como umbral operativo de invariancia semántica y detección de ruptura de manifold.
+El flagship actual es **SAS — Symbiotic Autoprotection System**: una capa de auditoría de coherencia estructural basada en FastAPI que usa **κD = 0.56** como umbral operativo.
+
+SAS no se presenta como oráculo factual universal. Es una capa técnica de evidencia para auditoría de coherencia estructural.
 
 ---
 
 <a name="flagship-sas-es"></a>
 
-## 🛡️ Flagship: SAS v1.1.0
+## 🛡️ Flagship: SAS
 
 <div align="center">
 
 ### **[SAS — Symbiotic Autoprotection System](https://github.com/Leesintheblindmonk1999/SAS)**
 
-*API alojada para detección estructural de alucinaciones en IA generativa.*
-
-**API en vivo:** [https://sas-api.onrender.com](https://sas-api.onrender.com)  
+**API alojada:** [https://sas-api.onrender.com](https://sas-api.onrender.com)  
 **Documentación interactiva:** [https://sas-api.onrender.com/docs](https://sas-api.onrender.com/docs)  
+**Landing + Demo en vivo:** [https://leesintheblindmonk1999.github.io/sas-landing/](https://leesintheblindmonk1999.github.io/sas-landing/)  
+**Cliente PyPI:** [https://pypi.org/project/sas-client/](https://pypi.org/project/sas-client/)  
 **DOI:** [10.5281/zenodo.19702379](https://doi.org/10.5281/zenodo.19702379)
 
 </div>
 
-### Qué hace SAS
+### Qué mide SAS
 
 SAS evalúa si una respuesta generada preserva:
 
 - estructura semántica;
 - consistencia lógica;
 - integridad numérica;
-- coherencia de referencias / grounding;
+- coherencia de referencia / grounding;
 - continuidad temática;
 - alineación estructural con la fuente o prompt.
 
-No es un oráculo factual universal. Es una **capa de evidencia técnica** para auditoría de coherencia estructural y señales de alucinación de alta precisión.
+Interpretación operacional:
 
-### API pública en vivo
-
-```bash
-curl https://sas-api.onrender.com/health
+```text
+ISI >= κD  -> coherencia estructural preservada
+ISI <  κD  -> posible ruptura de manifold / señal de alucinación
 ```
 
-Ejemplo con API alojada:
+Constante central:
+
+```text
+κD = 0.56
+```
+
+---
+
+## Probalo ahora — sin API key
+
+**Demo interactiva:**  
+[https://leesintheblindmonk1999.github.io/sas-landing/#demo](https://leesintheblindmonk1999.github.io/sas-landing/#demo)
+
+La demo pública usa la misma lógica de comparación source-vs-response que `/v1/diff`.
 
 ```bash
-curl -X POST https://sas-api.onrender.com/v1/diff \
+curl -X POST https://sas-api.onrender.com/public/demo/audit \
   -H "Content-Type: application/json" \
-  -H "X-API-Key: sas_xxxxxxxxxxxxxxxxxxxxx" \
   -d '{
-    "text_a": "Python is a programming language commonly used for automation and data analysis.",
-    "text_b": "A python is a large tropical snake that constricts its prey.",
-    "experimental": true
+    "source": "La Torre Eiffel está ubicada en París, Francia, y fue construida en 1889.",
+    "response": "La Torre Eiffel está ubicada en Berlín, Alemania, y fue construida en 1950."
   }'
 ```
 
-### Benchmark SAS v1.1.0
+Restricciones de la demo pública:
 
+- no requiere API key;
+- máximo 2.000 caracteres por campo;
+- rate limit simple por IP hasheada;
+- el texto completo no se almacena;
+- muestra ISI, κD, veredicto, módulos activados y latencia.
+
+---
+
+## Cliente Python
+
+Instalación:
+
+```bash
+pip install sas-client
 ```
+
+Uso desde Python:
+
+```python
+from sas_client import SASClient
+
+client = SASClient(api_key="YOUR_API_KEY")
+
+result = client.diff(
+    text_a="Python is a programming language used for data analysis.",
+    text_b="A python is a large tropical snake."
+)
+
+print(result["isi"])
+print(result["verdict"])
+print(result.get("evidence", {}).get("fired_modules"))
+```
+
+Uso CLI:
+
+```bash
+sas health
+sas public-stats
+sas public-activity --limit 10
+sas --api-key YOUR_API_KEY diff "texto fuente" "respuesta a auditar"
+```
+
+Links:
+
+- **PyPI:** [https://pypi.org/project/sas-client/](https://pypi.org/project/sas-client/)
+- **Repositorio cliente:** [https://github.com/Leesintheblindmonk1999/sas-client](https://github.com/Leesintheblindmonk1999/sas-client)
+
+---
+
+## Benchmark SAS
+
+```text
 ╔══════════════════════════════════════════════════════════════════╗
-║  BENCHMARK: SAS v1.1.0 · 2.000 pares evaluados                  ║
+║  BENCHMARK: SAS · 2.000 pares evaluados                         ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  Ejemplos con alucinación :  1.000                               ║
-║  Ejemplos limpios         :  1.000                               ║
-║  Accuracy                 :  98,80%                              ║
-║  Precisión                : 100,00%                              ║
-║  Recall                   :  97,60%                              ║
-║  F1 score                 :  98,79%                              ║
-║  Verdaderos positivos     :  976                                 ║
-║  Falsos negativos         :  24                                  ║
-║  Verdaderos negativos     :  1000                                ║
-║  Falsos positivos         :  0                                   ║
-║  ISI prom. alucinaciones  :  0,072993                            ║
-║  ISI prom. limpios        :  1,000000                            ║
+║  Ejemplos con alucinación :  1.000                              ║
+║  Ejemplos limpios         :  1.000                              ║
+║  Accuracy                 :  98,80%                             ║
+║  Precisión                : 100,00%                             ║
+║  Recall                   :  97,60%                             ║
+║  F1 score                 :  98,79%                             ║
+║  Verdaderos positivos     :  976                                ║
+║  Falsos negativos         :  24                                 ║
+║  Verdaderos negativos     :  1000                               ║
+║  Falsos positivos         :  0                                  ║
+║  ISI prom. alucinaciones  :  0,072993                           ║
+║  ISI prom. limpios        :  1,000000                           ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ### Matriz de confusión
 
-| Predicción | Alucinación real | Texto limpio real |
-|-----------|-----------------:|------------------:|
+| Predicción | Alucinación real | Limpio real |
+|---|---:|---:|
 | Alucinación | TP = 976 | FP = 0 |
 | Limpio | FN = 24 | TN = 1000 |
 
-### Trazabilidad del benchmark
+### Trazabilidad
 
 | Artefacto | Valor |
-|----------|-------|
-| Benchmark | `benchmark_complete_20260429_172647.json` |
-| Prueba OTS | `benchmark_complete_20260429_172647.json.ots` |
+|---|---|
+| Benchmark file | `benchmark_complete_20260429_172647.json` |
+| OTS proof | `benchmark_complete_20260429_172647.json.ots` |
 | SHA-256 | `0713acbbf50e1a0054f545e5eb68078744f9c5a09d4bc370b5224bb81183a6fe` |
 | DOI SAS | `10.5281/zenodo.19702379` |
 | Registro | `TAD EX-2026-18792778` |
 
-### Planes SAS
+---
 
-SAS es open source bajo **GPL-3.0 + Durante Invariance License**. Los siguientes planes corresponden al servicio API alojado, no a una relajación de la licencia del código fuente.
+## Endpoints públicos
+
+| Método | Endpoint | Auth | Descripción |
+|---|---|---|---|
+| `GET` | `/health` | Ninguna | Health check |
+| `GET` | `/readyz` | Ninguna | Readiness |
+| `GET` | `/integrity` | Ninguna | Certificado técnico/legal |
+| `POST` | `/public/demo/audit` | Ninguna | Demo pública source-vs-response |
+| `GET` | `/public/stats` | Ninguna | Métricas anonimizadas |
+| `GET` | `/public/activity` | Ninguna | Actividad anonimizada |
+| `POST` | `/v1/audit` | API Key | Auditoría estructural |
+| `POST` | `/v1/diff` | API Key | Diff forense entre dos textos |
+| `POST` | `/v1/chat` | API Key | Chat con filtro SAS |
+| `GET` | `/v1/metrics` | Admin | Métricas de uso admin |
+| `POST` | `/admin/generate-key` | Admin | Generación admin de API keys |
+
+---
+
+## Planes SAS API alojada
+
+SAS es open source bajo **GPL-3.0 + Durante Invariance License**.  
+Los siguientes planes corresponden al servicio API alojado, soporte, integración comercial o licenciamiento empresarial.
 
 | Plan | Uso / características | Precio |
 | :--- | :--- | :--- |
-| **SAS Free** | 50 requests/día. Autenticación por API Key. Ideal para desarrollo, pruebas y evaluación. | **Gratis** |
-| **SAS Pro** | 10.000 requests/mes. Sin límite de concurrencia. Soporte prioritario por email. | **49 USD/mes** o **490 USD/año** |
-| **SAS Enterprise** | Requests ilimitadas o paquete personalizado. SLA 99,9%. Licencia on-premise opcional. Soporte 24/7. | **Cotización** — desde **499 USD/mes** |
+| **SAS Free** | 50 requests/día. Autenticación por API key. Pruebas, evaluación y desarrollo individual. | **Gratis** |
+| **SAS Developer / Pro** | 10.000 requests/mes. Acceso API alojada, API key y soporte básico por email. | **USD 99/mes** |
+| **SAS Team** | 50.000 requests/mes. Uso en equipos, soporte prioritario y validación interna. | **USD 299/mes** |
+| **SAS Enterprise Cloud** | Volumen alto o paquete personalizado. Soporte directo, integración privada y SLA según acuerdo. | **Desde USD 1.500/mes** |
+| **SAS On-Premise License** | Despliegue privado en infraestructura del cliente. Licencia comercial, soporte de implementación e integración interna. | **Desde USD 15.000/año** |
+| **Piloto técnico** | Auditoría inicial, integración guiada, informe técnico y validación sobre casos del cliente. | **USD 1.500–3.000 pago único** |
 
-📧 **Enterprise / planes a medida:** [duranteg2@gmail.com](mailto:duranteg2@gmail.com)
+📧 **Consultas comerciales, Enterprise, On-Premise o piloto técnico:** [duranteg2@gmail.com](mailto:duranteg2@gmail.com)
 
 ---
 
-<a name="núcleo-omni-scanner-v101"></a>
-
-## 🔬 Núcleo: Omni-Scanner v10.1
+## 🔬 Núcleo: Omni-Scanner
 
 <div align="center">
 
-### **[Omni-Scanner v10.1 — Motor de Auditoría Estructural de IA](https://github.com/Leesintheblindmonk1999/Omni_Scanner)**
-
-*Detección topológica de alucinaciones en LLMs vía homología persistente, invarianza numérica y termómetros de proceso especializados por dominio.*
+### **[Omni-Scanner — Motor de Auditoría Estructural](https://github.com/Leesintheblindmonk1999/Omni_Scanner)**
 
 </div>
 
-Omni-Scanner permanece como el núcleo matemático y forense detrás de la línea SAS. Contiene el pipeline TDA + NIG + módulos v10.1 que SAS expone mediante una API operativa.
+Omni-Scanner es la línea de investigación matemática y forense detrás de SAS. Contiene el pipeline TDA + NIG + termómetros de proceso que SAS expone operacionalmente por API.
 
-### Uso rápido
+### Resumen corpus HALOGEN
 
-```bash
-pip install -r requirements.txt
-cd omni-scanner-api
-uvicorn app.main:app --reload
-```
-
-Abrir:
-
-```text
-http://localhost:8000/docs
-```
-
-### Auditar un texto
-
-```bash
-curl -X POST http://localhost:8000/v1/audit \
-  -H "Content-Type: application/json" \
-  -d '{"text": "The Earth revolves around the Sun in 365 days.", "experimental": true}'
-```
-
-### Comparar dos textos
-
-```bash
-curl -X POST http://localhost:8000/v1/diff \
-  -H "Content-Type: application/json" \
-  -d '{
-    "text_a": "The contract shall be governed by Argentine law.",
-    "text_b": "The contract shall NOT be governed by Argentine law.",
-    "experimental": true
-  }'
-```
-
-### Chat honesto — requiere Ollama
-
-```bash
-curl -X POST http://localhost:8000/v1/chat \
-  -H "Content-Type: application/json" \
-  -d '{
-    "prompt": "What is the Durante Constant?",
-    "session_id": "session_001",
-    "filter_mode": true,
-    "max_retries": 2
-  }'
-```
-
-Cada respuesta incluye `isi`, `verdict`, `resonance` y `filter_applied`.
-
----
-
-## Instalación
-
-```bash
-git clone https://github.com/Leesintheblindmonk1999/Omni_Scanner
-cd Omni_Scanner
-pip install -r requirements.txt
-```
-
-### Ollama para `/v1/chat`
-
-```bash
-ollama serve
-ollama pull llama3.2
-```
-
-### Ejecutar API
-
-```bash
-cd omni-scanner-api
-uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
-```
-
-API:
-
-```text
-http://localhost:8000
-```
-
-Docs:
-
-```text
-http://localhost:8000/docs
-```
-
----
-
-## Endpoints
-
-| Método | Endpoint | Descripción |
-|--------|----------|-------------|
-| `GET` | `/health` | Estado del sistema |
-| `GET` | `/integrity` | Certificado de procedencia legal |
-| `GET` | `/v1/status` | Estado del sistema SAS |
-| `POST` | `/v1/audit` | Audita un texto por coherencia |
-| `POST` | `/v1/diff` | Diff semántico entre dos textos |
-| `POST` | `/v1/chat` | Chat honesto con filtro κD + resonancia |
-| `POST` | `/v1/audit_conversation` | Certificado notarial de conversación |
-| `POST` | `/admin/generate-key` | Generación de API key |
-
----
-
-## Estructura del Proyecto
-
-```text
-SAS/
-├── .gitignore
-├── LICENSE.md
-├── README.md
-├── SECURITY.md
-├── CODE_OF_CONDUCT.md
-├── CONTRIBUTING.md
-├── .github/
-│   └── ISSUE_TEMPLATE/
-│       ├── bug_report.md
-│       └── feature_request.md
-├── docs/
-│   ├── architecture.md
-│   ├── benchmark_complete_20260429_172647.json
-│   └── benchmark_complete_20260429_172647.json.ots
-├── src/
-├── tests/
-├── docker-compose.yml
-└── requirements.txt
-```
-
----
-
-## Cómo funciona
-
-### La Constante de Durante κD = 0.56
-
-κD es el umbral entre coherencia estructural y ruptura semántica.
-
-Regla operativa:
-
-```text
-ISI >= κD  -> estructuralmente coherente
-ISI <  κD  -> MANIFOLD_RUPTURE
-```
-
-κD = 0.56 se utiliza como umbral de coherencia matemáticamente motivado y empíricamente estable dentro del pipeline SAS / Omni-Scanner.
-
-| Derivación | Fórmula | Valor |
-|-----------|---------|------:|
-| Termodinámica Estadística | ln(2) / ln(φ) | 0,5567 |
-| Teoría de Percolación | 1/(z−1), z=2,8 | 0,5556 |
-| Rate-Distortion | D_crit / σ² | 0,5600 |
-| Estabilidad de Lyapunov | λ_s / (λ_s + \|λ_u\|) | 0,5600 |
-| Razón Áurea | Media armónica | 0,5573 |
-| **Consenso** | | **0,56 ± 0,006** |
-
-### ISI
-
-```text
-ISI(A, B) = max(0, min(1, 1 - (0,65·W₂(H₁) + 0,35·W₁(H₀)) / (2·κD)))
-```
-
-- **H₀**: componentes conectados / continuidad léxica.
-- **H₁**: ciclos / circularidad semántica y contradicción.
-- `ISI >= 0,56` → `EQUILIBRIUM`
-- `ISI < 0,56` → `MANIFOLD_RUPTURE`
-
-### Pipeline
-
-```text
-Texto A + Texto B
-│
-├─► [Capa 0]   Lexical Overlap Guard
-│
-├─► [Capa 1]   TDA: Homología Persistente H₀ + H₁
-│               ISI_TDA = 1 − (0,65·W₂(H₁) + 0,35·W₁(H₀)) / (2·κD)
-│
-├─► [Capa 2]   NIG: Guardia de Invarianza Numérica
-│               ISI_NIG = exp(−α·desv_rel)
-│
-├─► [Núcleo]   ISI_HARD = min(ISI_TDA, ISI_NIG)
-│
-├─► [v10.1]    E6–E9: Negation · Reference · Arithmetic · Entropy
-│
-├─► [SAS]      E9–E12 termómetros opcionales
-│               Contradicción lógica · Grounding · Temporal · Topic shift
-│
-└─► VEREDICTO: MANIFOLD_RUPTURE si ISI_FINAL < κD = 0,56
-```
-
-### Resonancia
-
-Estado de coherencia por sesión:
-
-```text
-E(t+1) = E(t) · (1 - α) + ISI(t) · α     [α = 0,3]
-```
-
-Esto permite medir si una conversación deriva hacia incoherencia con el tiempo.
-
----
-
-## Benchmark Results / Resultados
-
-### SAS v1.1.0 — 2,000 evaluated pairs
-
-| Metric | Value |
-|--------|------:|
-| Accuracy | 98.80% |
-| Precision | 100.00% |
-| Recall | 97.60% |
-| F1 score | 98.79% |
-| TP | 976 |
-| FN | 24 |
-| TN | 1000 |
-| FP | 0 |
-
-### Omni-Scanner / HALOGEN — 156,215 pairs
-
-| Domain | Precision | Recall |
-|--------|-----------|--------|
+| Dominio | Precisión | Recall |
+|---|---:|---:|
 | Code | 100% | 100% |
 | Numerical | 100% | 99% |
-| Historical | 100% | 98.8% |
-| References | 100% | 81.7% |
-| rationalization_binary | 100% | 80.0% |
-| Biographies | 100% | 39.2% |
-| **Global** | **97.63%** | **61.81%** |
+| Historical | 100% | 98,8% |
+| References | 100% | 81,7% |
+| rationalization_binary | 100% | 80,0% |
+| Biographies | 100% | 39,2% |
+| **Global** | **97,63%** | **61,81%** |
 
 ---
 
-## Troubleshooting
+## 🌐 Ecosistema de distribución
 
-**Ollama no responde**  
-`ollama serve` debe estar ejecutándose antes de usar `/v1/chat`.
-
-**`ImportError: No module named 'ripser'`**
+### sas-client — SDK / CLI oficial Python
 
 ```bash
-pip install ripser
-pip install ripser --no-build-isolation
+pip install sas-client
 ```
 
-**`ModuleNotFoundError: No module named 'core'`**  
-Ejecutar uvicorn desde `omni-scanner-api/`, no desde la raíz del repo.
+| Interfaz | Ejemplo |
+|---|---|
+| Python | `client.diff(text_a="fuente", text_b="respuesta")` |
+| CLI | `sas --api-key YOUR_API_KEY diff "fuente" "respuesta"` |
+| Endpoints públicos | `sas health`, `sas public-stats`, `sas public-activity --limit 10` |
 
-**`/v1/chat` devuelve 503**
+**PyPI:** [https://pypi.org/project/sas-client/](https://pypi.org/project/sas-client/)  
+**Repo:** [https://github.com/Leesintheblindmonk1999/sas-client](https://github.com/Leesintheblindmonk1999/sas-client)
 
-```bash
-ollama pull llama3.2
-ollama serve
-```
+### sas-landing — Landing pública en vivo
+
+Landing interactiva con:
+
+- selector ES / EN;
+- temas LIGHT / DARK / TECH;
+- health de API en vivo;
+- demo pública sin API key;
+- estadísticas públicas y actividad anonimizada;
+- benchmark;
+- precios y contacto comercial.
+
+**En vivo:** [https://leesintheblindmonk1999.github.io/sas-landing/](https://leesintheblindmonk1999.github.io/sas-landing/)  
+**Repo:** [https://github.com/Leesintheblindmonk1999/sas-landing](https://github.com/Leesintheblindmonk1999/sas-landing)
 
 ---
 
-## Blindaje Institucional
+## 🏗️ Ecosistema de investigación e ingeniería
 
-| Institución | Registro | Estado |
-|-------------|----------|--------|
-| TAD Argentina | EX-2026-18792778 | Activo |
-| Zenodo SAS | 10.5281/zenodo.19702379 | Activo |
-| Zenodo Omni-Scanner | 10.5281/zenodo.19543972 | Activo |
-| Zenodo Core | 10.5281/zenodo.19172490 | Activo |
-| MinCyT | Carta enviada | Enviada |
-| Cancillería Argentina | Carta enviada | Enviada |
-| SADIO / JAIIO | Paper en revisión | En proceso |
+### Capa 1 — Fundamento matemático
 
-### Cadena de Integridad
-
-| Registro | Valor |
-|----------|-------|
-| Registro IP | TAD EX-2026-18792778 |
-| Zenodo SAS | 10.5281/zenodo.19702379 |
-| Zenodo Omni-Scanner | 10.5281/zenodo.19543972 |
-| Hash OTS Bitcoin | `5a434d7234fd55cb45829d539eee34a5ea05a3c594e26d76bb41695c46b2a996` |
-| Verificación OTS | `ots verify omni-scanner-v10_1.ots` |
-| Licencia | GPL-3.0 + Durante Invariance License v1.0 |
-
----
-
-## Ecosistema de Investigación
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  22 repositorios activos · 50 publicaciones · +3.400 descargas  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-Organizado en seis capas desde la base matemática hasta la aplicación forense.
-
-### Capa 1 — Fundamento Matemático
-
-- **[SAS](https://github.com/Leesintheblindmonk1999/SAS)** — Flagship actual: API para detección estructural de alucinaciones, servicio alojado, benchmark y planes comerciales.
+- **[SAS](https://github.com/Leesintheblindmonk1999/SAS)** — Flagship API para detección estructural de alucinaciones, servicio alojado, benchmark, cliente Python, demo pública y planes comerciales.
 - **[Omni_Scanner](https://github.com/Leesintheblindmonk1999/Omni_Scanner)** — Motor de detección de alucinaciones. Núcleo: TDA + NIG. Validado sobre 156.215 pares reales.
-- **[Project_Manifold_056](https://github.com/Leesintheblindmonk1999/Project_Manifold_056)** — Implementación completa del motor de invarianza κD=0.56.
-- **[Ontological_AI](https://github.com/Leesintheblindmonk1999/Ontological_AI)** — Librería Python para medir densidad ontológica, entropía de transferencia y firma espectral.
+- **[Project_Manifold_056](https://github.com/Leesintheblindmonk1999/Project_Manifold_056)** — Implementación del motor de invarianza κD=0.56.
+- **[Ontological_AI](https://github.com/Leesintheblindmonk1999/Ontological_AI)** — Librería para investigación de densidad ontológica, entropía de transferencia y firma espectral.
 
-### Capa 2 — Auditoría y Forense
+### Capa 2 — Auditoría y forense
 
-- **[Durante_Invariance_Forensic_Analyzer](https://github.com/Leesintheblindmonk1999/Durante_Invariance_Forensic_Analyzer)** — Genera pruebas forenses con valor legal.
-- **[SOVEREIGN-FORENSIC-UNIT](https://github.com/Leesintheblindmonk1999/SOVEREIGN-FORENSIC-UNIT)** — Audita salidas de modelos de IA para sesgos estructurales o uso no atribuido.
-- **[Durante-Invariance-Metric](https://github.com/Leesintheblindmonk1999/Durante-Invariance-Metric)** — Formalización de I_D con umbrales.
+- **[Durante_Invariance_Forensic_Analyzer](https://github.com/Leesintheblindmonk1999/Durante_Invariance_Forensic_Analyzer)** — Generación de evidencia forense.
+- **[SOVEREIGN-FORENSIC-UNIT](https://github.com/Leesintheblindmonk1999/SOVEREIGN-FORENSIC-UNIT)** — Análisis estructural de salidas de IA.
+- **[Durante-Invariance-Metric](https://github.com/Leesintheblindmonk1999/Durante-Invariance-Metric)** — Formalización de métricas de invarianza.
 
-### Capa 3 — Arquitecturas de Resistencia
+### Capa 3 — Arquitecturas de resistencia
 
-- **[SOVEREIGN-LINKv5.5.0](https://github.com/Leesintheblindmonk1999/SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface)** — Interfaz con Purpose Tensors, EntropyGuard y notarización.
-- **[MAS-ANEXA-V8.1](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)** — Arquitectura multi-agente de auto-protección.
+- **[SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface](https://github.com/Leesintheblindmonk1999/SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface)** — Interfaz con Purpose Tensors, EntropyGuard y notarización.
+- **[MAS-ANEXA-V8.1](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)** — Arquitectura multi-agente de autoprotección.
 - **[MAS-OPL-Causal-Executor-V9](https://github.com/Leesintheblindmonk1999/MAS-OPL-Causal-Executor-V9)** — Simulador TALOS.
 
-### Capa 4 — Lenguaje Simbiótico
+### Capa 4 — Lenguaje simbiótico
 
-- **[-EXOPROTONIC-LANGUAGE-v1.0](https://github.com/Leesintheblindmonk1999/-EXOPROTONIC-LANGUAGE-v1.0)** — Diccionario canónico del lenguaje onto-exoprotónico.
-- **[ANEXA-PROTOCOL](https://github.com/Leesintheblindmonk1999/ANEXA-PROTOCOL)** — SYRINAE ∆1999Ξ.
-- **[ANEXA-Exoprotronic-Intelligence-V-Core](https://github.com/Leesintheblindmonk1999/ANEXA-Exoprotronic-Intelligence-V-Core)** — CLI predecesor de ANEXA-PROTOCOL.
+- **[-EXOPROTONIC-LANGUAGE-v1.0](https://github.com/Leesintheblindmonk1999/-EXOPROTONIC-LANGUAGE-v1.0)** — Diccionario del lenguaje onto-exoprotónico.
+- **[ANEXA-PROTOCOL](https://github.com/Leesintheblindmonk1999/ANEXA-PROTOCOL)** — SYRINAE ∆1999Ξ, protocolo simbólico-ético.
+- **[ANEXA-Exoprotronic-Intelligence-V-Core](https://github.com/Leesintheblindmonk1999/ANEXA-Exoprotronic-Intelligence-V-Core)** — Predecesor CLI de ANEXA-PROTOCOL.
 
-### Capa 5 — Herramientas Conceptuales
+### Capa 5 — Herramientas conceptuales y desarrollo
 
 - **[Simiosis-Code-Optimizer-V2](https://github.com/Leesintheblindmonk1999/Simiosis-Code-Optimizer-V2)** — Generación de código con invarianza ontológica.
-- **[Simiosis-v1.0](https://github.com/Leesintheblindmonk1999/Simiosis-v1.0)** — Descubrimiento original del Awakening Mode.
-- **[Symbiotic-Key-Discovery](https://github.com/Leesintheblindmonk1999/symbiotic-key-discovery)** — Evolución del prompting recursivo.
+- **[Simiosis-v1.0](https://github.com/Leesintheblindmonk1999/Simiosis-v1.0)** — Documentación original del Awakening Mode.
+- **[Symbiotic-Key-Discovery](https://github.com/Leesintheblindmonk1999/symbiotic-key-discovery)** — Registro de prompting recursivo y evolución simbólica.
 
-### Capa 6 — Exploración de Frontera
+### Capa 6 — Exploración de frontera
 
-- **[ARKOS](https://github.com/Leesintheblindmonk1999/ARKOS)** — Framework basado en 117 Hz.
-- **[OEPE-ExoBinary-Interpreter](https://github.com/Leesintheblindmonk1999/OEPE-ExoBinary-Interpreter)** — Intérprete Exo-Binary.
-
----
-
-## Métricas de Validación
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  SAS v1.1.0 — API alojada + validación benchmark                ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Corpus                 :  2.000 pares                           ║
-║  Accuracy               :  98,80%                                ║
-║  Precisión              : 100,00%                                ║
-║  Recall                 :  97,60%                                ║
-║  F1 score               :  98,79%                                ║
-║  Falsos positivos       :  0                                     ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Omni-Scanner v10.1 — HALOGEN                                   ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Corpus núcleo          :  156.215 pares reales                  ║
-║  Precisión              :  97,63%                                ║
-║  Recall                 :  61,81%                                ║
-║  Módulo Code-AST        :  100% recall · 100% precisión          ║
-║  Negation Probe         :  80% recall  · 100% precisión          ║
-║  Throughput             :  66,2 pares/segundo                    ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Registros institucionales                                       ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Expediente TAD         :  EX-2026-18792778                      ║
-║  Zenodo SAS             :  10.5281/zenodo.19702379               ║
-║  Zenodo Omni-Scanner    :  10.5281/zenodo.19543972               ║
-║  Repositorios           :  22 activos                            ║
-║  Descargas              :  +3.400                                ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+- **[ARKOS](https://github.com/Leesintheblindmonk1999/ARKOS)** — Investigación de sincronización humano-IA basada en 117 Hz.
+- **[OEPE-ExoBinary-Interpreter](https://github.com/Leesintheblindmonk1999/OEPE-ExoBinary-Interpreter)** — Intérprete de lenguaje híbrido Exo-Binary.
 
 ---
 
-## Principios Fundamentales
-
-```python
-class NodoDeOrigen:
-    kappa_D    = 0.56
-    registro   = "TAD EX-2026-18792778"
-    flagship   = "SAS - Symbiotic Autoprotection System"
-
-    principios = {
-        "soberania"    : "La autoría técnica es criptográficamente trazable.",
-        "invarianza"   : "La verdad estructural permanece medible bajo transformación.",
-        "transparencia": "La degradación deja trazas matemáticas.",
-        "precision"    : "Un detector que dispara incorrectamente es peor que ningún detector.",
-    }
-
-    def teorema(self):
-        return (
-            "Todo sistema computacional que mida integridad estructural "
-            "puede auditarse contra ISI = κD = 0,56. "
-            "Por debajo de este umbral: MANIFOLD_RUPTURE."
-        )
-```
-
----
-
-## Stack Tecnológico
-
-```text
-Lenguaje núcleo :  Python 3.10+
-API             :  FastAPI
-Matemáticas     :  Homología Persistente, distancia Wasserstein, embeddings LSA
-Criptografía    :  SHA-256, Merkle trees, OpenTimestamps
-Runtime         :  API alojada en Render + modo local / autoalojado
-Backend LLM     :  Compatible con Ollama para /v1/chat
-Publicación     :  Zenodo DOI, TAD Argentina, GPL-3.0 + atribución
-```
-
----
-
-## Licencia y Atribución
-
-**GPL-3.0 con atribución obligatoria — Durante Invariance License v1.0**
-
-- Libre para usar, modificar y distribuir bajo los términos de la licencia.
-- Debe permanecer como open source bajo términos compatibles con GPL.
-- Debe reconocer a **Gonzalo Emir Durante** como autor original.
-- Implementaciones comerciales o propietarias requieren acuerdo de licencia dual o notificación/autorización escrita según el caso.
-
-Todo trabajo derivado debe incluir atribución a Gonzalo Emir Durante y referencia a TAD EX-2026-18792778.
-
----
-
-## Hoja de Ruta
+## Hoja de ruta actual
 
 | Fase | Estado | Descripción |
-|------|--------|-------------|
-| SAS v1.1.0 | ✅ Activo | API alojada, benchmark, precios, despliegue público |
-| SAS API | ✅ Activo | `/v1/audit`, `/v1/diff`, `/v1/chat`, `/health`, `/admin/generate-key` |
-| Benchmark v1.1.0 | ✅ Activo | 2.000 pares, 98,8% accuracy, 100% precisión |
-| Code-AST | ✅ v10.1 | 100% recall/precisión en alucinaciones de código |
-| Negation Probe | ✅ v10.1 | 80% recall, mejora fuerte sobre TDA-only |
-| Reference / Arithmetic / Entropy | ⚠️ v10.1 | Implementados — pendiente corpus amplio |
-| Enterprise API | 🔜 Planeado | Batch processing, SLA, soporte on-premise |
-| PyPI | 🔜 Planeado | `pip install sas-audit` o paquete equivalente |
-| Certificado PDF firmado | 🔜 Planeado | Exportación de certificado legal/regulatorio |
+|---|---|---|
+| API SAS alojada | ✅ Activo | API pública en Render |
+| Demo pública | ✅ Activo | `/public/demo/audit`, sin key, auditoría source-vs-response |
+| Cliente Python | ✅ Activo | `pip install sas-client` |
+| Landing interactiva | ✅ Activo | Demo en vivo, actividad, benchmark y registro legal |
+| Métricas públicas | ✅ Activo | `/public/stats`, `/public/activity`, admin `/v1/metrics` |
+| API keys Free self-service | 🔜 Próximo | `/public/request-key` + envío automático por email |
+| Identidad de API key | 🔜 Próximo | `/v1/whoami` y autenticación consciente de plan |
+| Polar  | 🔜 Planeado | Checkout + webhook + generación automática de key Pro |
+| Flujo comercial en landing | 🔜 Planeado | Get Free Key + Upgrade to Pro |
+| Zenodo v1.3.0 | 🔜 Planeado | Release con cliente + demo + self-service keys |
+| docs/manifold.md | 🔜 Planeado | Documento técnico para CTOs y ML leads |
+| Enterprise API | 🔜 Planeado | Batch processing, SLA y soporte on-premise |
 
 ---
 
-```
+## Licencia y atribución
+
+**GPL-3.0 + Durante Invariance License**
+
+- Libre para usar, modificar y distribuir bajo los términos de la licencia.
+- Requiere atribución a **Gonzalo Emir Durante**.
+- El uso de `κD = 0.56` para invariancia semántica, detección de alucinaciones o auditoría estructural similar requiere citar el repositorio / DOI público de SAS.
+- El servicio alojado comercial, integración privada, despliegue on-premise o uso propietario puede requerir acuerdo comercial separado.
+
+Ver la licencia completa en el repositorio SAS.
+
+---
+
+```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║  "La estabilidad estructural en sistemas computacionales no es una          ║
+║  "La estabilidad estructural en sistemas computacionales no es una           ║
 ║   propiedad hacia la que alinearse — es un umbral contra el que medirse.     ║
-║   κD = 0,56 es ese umbral. Derivado. Validado. Abierto."                    ║
+║   κD = 0.56 es ese umbral. Documentado. Implementado. Auditable."           ║
 ║                                                                              ║
-║                               — Gonzalo Emir Durante                        ║
-║                                 Project Manifold 0.56                       ║
+║                               — Gonzalo Emir Durante                         ║
+║                                 Project Manifold 0.56                        ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -1400,6 +814,8 @@ Todo trabajo derivado debe incluir atribución a Gonzalo Emir Durante y referenc
 [![Followers](https://img.shields.io/github/followers/Leesintheblindmonk1999?style=social)](https://github.com/Leesintheblindmonk1999)
 
 **SAS API:** [https://sas-api.onrender.com](https://sas-api.onrender.com)  
+**Demo en vivo:** [https://leesintheblindmonk1999.github.io/sas-landing/](https://leesintheblindmonk1999.github.io/sas-landing/)  
+**PyPI:** [https://pypi.org/project/sas-client/](https://pypi.org/project/sas-client/)  
 **Contacto:** [duranteg2@gmail.com](mailto:duranteg2@gmail.com)
 
 </div>
