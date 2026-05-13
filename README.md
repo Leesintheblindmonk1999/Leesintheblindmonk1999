@@ -364,10 +364,10 @@ Interactive landing page with:
 | Python client | ✅ Active | `pip install sas-client` |
 | Interactive landing | ✅ Active | Live demo, activity feed, benchmark, legal registry |
 | Public metrics | ✅ Active | `/public/stats`, `/public/activity`, admin `/v1/metrics` |
-| Free API key self-service | 🔜 Next | `/public/request-key` + automatic email delivery |
-| API key identity | 🔜 Next | `/v1/whoami` and plan-aware auth |
-| Polar | 🔜 Planned | Checkout + webhook + automatic Pro key provisioning |
-| Landing conversion flow | 🔜 Planned | Get Free Key + Upgrade to Pro |
+| Free API key self-service | ✅ Active | `/public/request-key` + automatic email delivery |
+| API key identity | ✅ Active | `/v1/whoami` and plan-aware auth |
+| Polar | ✅ Active | Checkout + webhook + automatic Pro key provisioning |
+| Landing conversion flow | ✅ Active | Get Free Key + Upgrade to Pro |
 | Zenodo v1.3.0 | 🔜 Planned | Client + public demo + self-service key update |
 | docs/manifold.md | 🔜 Planned | Technical framework document for CTOs and ML leads |
 | Enterprise API | 🔜 Planned | Batch processing, SLA, on-premise support |
@@ -772,10 +772,10 @@ Landing interactiva con:
 | Cliente Python | ✅ Activo | `pip install sas-client` |
 | Landing interactiva | ✅ Activo | Demo en vivo, actividad, benchmark y registro legal |
 | Métricas públicas | ✅ Activo | `/public/stats`, `/public/activity`, admin `/v1/metrics` |
-| API keys Free self-service | 🔜 Próximo | `/public/request-key` + envío automático por email |
-| Identidad de API key | 🔜 Próximo | `/v1/whoami` y autenticación consciente de plan |
-| Polar  | 🔜 Planeado | Checkout + webhook + generación automática de key Pro |
-| Flujo comercial en landing | 🔜 Planeado | Get Free Key + Upgrade to Pro |
+| API keys Free self-service | ✅ Activo | `/public/request-key` + envío automático por email |
+| Identidad de API key | ✅ Activo | `/v1/whoami` y autenticación consciente de plan |
+| Polar  | ✅ Activo | Checkout + webhook + generación automática de key Pro |
+| Flujo comercial en landing | ✅ Activo | Get Free Key + Upgrade to Pro |
 | Zenodo v1.3.0 | 🔜 Planeado | Release con cliente + demo + self-service keys |
 | docs/manifold.md | 🔜 Planeado | Documento técnico para CTOs y ML leads |
 | Enterprise API | 🔜 Planeado | Batch processing, SLA y soporte on-premise |
