@@ -112,6 +112,12 @@ Core threshold:
 κD = 0.56
 ```
 
+### Technical lines
+
+**1. Structural Coherence Auditing** — source vs response comparison, ISI, TDA, NIG, SourceTargetGuard, E9–E12 modules.
+
+**2. Temporal Interaction Auditing** *(experimental)* — heuristic hidden-state model for interaction stability, belief entropy, demand history, `omega_t`, `sigma_t`. Research line: DOI `10.5281/zenodo.20335612`.
+
 ---
 
 ## Try it now — no API key required
@@ -209,6 +215,8 @@ Links:
 | Hallucination | TP = 976 | FP = 0 |
 | Clean | FN = 24 | TN = 1000 |
 
+> Results are dataset-specific. See [DOI](https://doi.org/10.5281/zenodo.19702379) for methodology and replication details.
+
 ### Traceability
 
 | Artifact | Value |
@@ -226,16 +234,23 @@ Links:
 | Method | Endpoint | Auth | Description |
 |---|---|---|---|
 | `GET` | `/health` | None | Health check |
-| `GET` | `/readyz` | None | Readiness |
+| `GET` | `/readyz` | None | Granular router and database readiness |
 | `GET` | `/integrity` | None | Technical and legal provenance certificate |
-| `POST` | `/public/demo/audit` | None | Public source-vs-response demo |
-| `GET` | `/public/stats` | None | Anonymized usage stats |
+| `POST` | `/public/demo/audit` | None | Public source-vs-response forensic demo |
+| `GET` | `/public/stats` | None | Anonymized aggregate usage stats |
 | `GET` | `/public/activity` | None | Anonymized activity feed |
-| `POST` | `/v1/audit` | API Key | Structural audit |
+| `GET` | `/public/request-key` | None | Free API key onboarding instructions |
+| `POST` | `/public/request-key` | None | Free API key by email (automatic delivery) |
+| `GET` | `/public/interaction/stats` | None | Aggregate interaction stability stats |
+| `GET` | `/v1/whoami` | API Key | Plan, quota, and key identity |
+| `POST` | `/v1/audit` | API Key | Structural audit (single text) |
 | `POST` | `/v1/diff` | API Key | Forensic diff between two texts |
+| `POST` | `/v1/batch` | API Key | Batch structural audit (multiple pairs) |
 | `POST` | `/v1/chat` | API Key | Chat endpoint with SAS filtering |
-| `GET` | `/v1/metrics` | Admin | Admin usage metrics |
-| `POST` | `/admin/generate-key` | Admin | Admin API key generation |
+| `GET` | `/v1/interaction/stability/example` | None* | Experimental demo payload |
+| `POST` | `/v1/interaction/stability` | API Key | Experimental interaction stability analysis |
+
+> \* Feature-flag controlled. Returns 503 if `ENABLE_INTERACTION_STABILITY` is not set.
 
 ---
 
@@ -304,14 +319,23 @@ Interactive landing page with:
 
 - ES / EN language toggle;
 - LIGHT / DARK / TECH themes;
-- live API health;
+- live API health and platform status;
 - public demo with no API key;
 - public stats and anonymized activity;
+- interaction stability aggregate stats;
 - benchmark summary;
 - pricing and commercial contact.
 
 **Live:** [https://leesintheblindmonk1999.github.io/sas-landing/](https://leesintheblindmonk1999.github.io/sas-landing/)  
 **Repo:** [https://github.com/Leesintheblindmonk1999/sas-landing](https://github.com/Leesintheblindmonk1999/sas-landing)
+
+### sas-js — Node.js / TypeScript SDK *(in development)*
+
+Official Node SDK for SAS. Spec published at `docs/sdk_node_plan.md`.
+
+Planned methods: `health()`, `diff()`, `audit()`, `batch()`, `interactionStability()`, `publicInteractionStats()`, and more.
+
+Node.js 18+, TypeScript-first, native fetch, no heavy dependencies.
 
 ---
 
@@ -359,18 +383,22 @@ Interactive landing page with:
 
 | Phase | Status | Description |
 |---|---|---|
-| Hosted SAS API | ✅ Active | Public API on Render |
-| Public demo | ✅ Active | `/public/demo/audit`, no key, source-vs-response audit |
+| Hosted SAS API | ✅ Active | Public API on Render with auth, rate limiting, and observability |
+| Public demo | ✅ Active | `/public/demo/audit` — no key, source-vs-response forensic audit |
 | Python client | ✅ Active | `pip install sas-client` |
-| Interactive landing | ✅ Active | Live demo, activity feed, benchmark, legal registry |
-| Public metrics | ✅ Active | `/public/stats`, `/public/activity`, admin `/v1/metrics` |
+| Interactive landing | ✅ Active | Live demo, platform status, activity feed, benchmark, legal registry |
+| Public metrics | ✅ Active | `/public/stats`, `/public/activity`, `/public/interaction/stats` |
 | Free API key self-service | ✅ Active | `/public/request-key` + automatic email delivery |
-| API key identity | ✅ Active | `/v1/whoami` and plan-aware auth |
-| Polar | ✅ Active | Checkout + webhook + automatic Pro key provisioning |
-| Landing conversion flow | ✅ Active | Get Free Key + Upgrade to Pro |
-| Zenodo v1.3.0 | 🔜 Planned | Client + public demo + self-service key update |
+| API key identity | ✅ Active | `/v1/whoami` and plan-aware authentication |
+| Batch auditing | ✅ Active | `/v1/batch` — multiple source/response pairs per request |
+| Polar billing | ✅ Active | Checkout + webhook + automatic Pro key provisioning |
+| Interaction Stability | ✅ Active | `/v1/interaction/stability` — experimental temporal auditing module |
+| Interaction Observability | ✅ Active | `interaction.db` + `/public/interaction/stats` aggregate store |
+| Node.js SDK | 🔜 In development | TypeScript-first, native fetch, spec at `docs/sdk_node_plan.md` |
+| Landing dashboard | 🔜 Planned | Minimal metrics dashboard when interaction volume is sufficient |
+| Zenodo v1.3.0 | 🔜 Planned | Empirical interaction stability snapshot + paper update |
 | docs/manifold.md | 🔜 Planned | Technical framework document for CTOs and ML leads |
-| Enterprise API | 🔜 Planned | Batch processing, SLA, on-premise support |
+| Enterprise API | 🔜 Planned | Batch SLA, on-premise support, private integration |
 
 ---
 
@@ -520,6 +548,12 @@ Constante central:
 κD = 0.56
 ```
 
+### Líneas técnicas
+
+**1. Structural Coherence Auditing** — comparación source vs response, ISI, TDA, NIG, SourceTargetGuard, módulos E9–E12.
+
+**2. Temporal Interaction Auditing** *(experimental)* — modelo heurístico de estados ocultos para estabilidad interaccional, entropía de creencias, historial de demanda, `omega_t`, `sigma_t`. Línea de investigación: DOI `10.5281/zenodo.20335612`.
+
 ---
 
 ## Probalo ahora — sin API key
@@ -617,6 +651,8 @@ Links:
 | Alucinación | TP = 976 | FP = 0 |
 | Limpio | FN = 24 | TN = 1000 |
 
+> Resultados específicos al dataset. Ver [DOI](https://doi.org/10.5281/zenodo.19702379) para metodología y replicación.
+
 ### Trazabilidad
 
 | Artefacto | Valor |
@@ -634,16 +670,23 @@ Links:
 | Método | Endpoint | Auth | Descripción |
 |---|---|---|---|
 | `GET` | `/health` | Ninguna | Health check |
-| `GET` | `/readyz` | Ninguna | Readiness |
-| `GET` | `/integrity` | Ninguna | Certificado técnico/legal |
+| `GET` | `/readyz` | Ninguna | Readiness de routers y bases de datos |
+| `GET` | `/integrity` | Ninguna | Certificado técnico y legal de proveniencia |
 | `POST` | `/public/demo/audit` | Ninguna | Demo pública source-vs-response |
-| `GET` | `/public/stats` | Ninguna | Métricas anonimizadas |
-| `GET` | `/public/activity` | Ninguna | Actividad anonimizada |
-| `POST` | `/v1/audit` | API Key | Auditoría estructural |
+| `GET` | `/public/stats` | Ninguna | Métricas de uso agregadas y anonimizadas |
+| `GET` | `/public/activity` | Ninguna | Feed de actividad anonimizada |
+| `GET` | `/public/request-key` | Ninguna | Instrucciones de onboarding de API key gratuita |
+| `POST` | `/public/request-key` | Ninguna | API key gratuita por email (entrega automática) |
+| `GET` | `/public/interaction/stats` | Ninguna | Estadísticas agregadas de interaction stability |
+| `GET` | `/v1/whoami` | API Key | Plan, cuota e identidad de la key |
+| `POST` | `/v1/audit` | API Key | Auditoría estructural (texto único) |
 | `POST` | `/v1/diff` | API Key | Diff forense entre dos textos |
+| `POST` | `/v1/batch` | API Key | Auditoría batch (múltiples pares por request) |
 | `POST` | `/v1/chat` | API Key | Chat con filtro SAS |
-| `GET` | `/v1/metrics` | Admin | Métricas de uso admin |
-| `POST` | `/admin/generate-key` | Admin | Generación admin de API keys |
+| `GET` | `/v1/interaction/stability/example` | Ninguna* | Payload de demo experimental |
+| `POST` | `/v1/interaction/stability` | API Key | Análisis experimental de estabilidad interaccional |
+
+> \* Controlado por feature flag. Devuelve 503 si `ENABLE_INTERACTION_STABILITY` no está activo.
 
 ---
 
@@ -712,14 +755,23 @@ Landing interactiva con:
 
 - selector ES / EN;
 - temas LIGHT / DARK / TECH;
-- health de API en vivo;
+- health de API en vivo y estado de plataforma;
 - demo pública sin API key;
 - estadísticas públicas y actividad anonimizada;
+- estadísticas agregadas de interaction stability;
 - benchmark;
 - precios y contacto comercial.
 
 **En vivo:** [https://leesintheblindmonk1999.github.io/sas-landing/](https://leesintheblindmonk1999.github.io/sas-landing/)  
 **Repo:** [https://github.com/Leesintheblindmonk1999/sas-landing](https://github.com/Leesintheblindmonk1999/sas-landing)
+
+### sas-js — SDK Node.js / TypeScript *(en desarrollo)*
+
+SDK Node oficial para SAS. Spec publicada en `docs/sdk_node_plan.md`.
+
+Métodos planificados: `health()`, `diff()`, `audit()`, `batch()`, `interactionStability()`, `publicInteractionStats()` y más.
+
+Node.js 18+, TypeScript-first, fetch nativo, sin dependencias pesadas.
 
 ---
 
@@ -767,18 +819,22 @@ Landing interactiva con:
 
 | Fase | Estado | Descripción |
 |---|---|---|
-| API SAS alojada | ✅ Activo | API pública en Render |
-| Demo pública | ✅ Activo | `/public/demo/audit`, sin key, auditoría source-vs-response |
+| API SAS alojada | ✅ Activo | API pública en Render con auth, rate limiting y observabilidad |
+| Demo pública | ✅ Activo | `/public/demo/audit` — sin key, auditoría source-vs-response |
 | Cliente Python | ✅ Activo | `pip install sas-client` |
-| Landing interactiva | ✅ Activo | Demo en vivo, actividad, benchmark y registro legal |
-| Métricas públicas | ✅ Activo | `/public/stats`, `/public/activity`, admin `/v1/metrics` |
+| Landing interactiva | ✅ Activo | Demo en vivo, estado de plataforma, actividad, benchmark y registro legal |
+| Métricas públicas | ✅ Activo | `/public/stats`, `/public/activity`, `/public/interaction/stats` |
 | API keys Free self-service | ✅ Activo | `/public/request-key` + envío automático por email |
 | Identidad de API key | ✅ Activo | `/v1/whoami` y autenticación consciente de plan |
-| Polar  | ✅ Activo | Checkout + webhook + generación automática de key Pro |
-| Flujo comercial en landing | ✅ Activo | Get Free Key + Upgrade to Pro |
-| Zenodo v1.3.0 | 🔜 Planeado | Release con cliente + demo + self-service keys |
-| docs/manifold.md | 🔜 Planeado | Documento técnico para CTOs y ML leads |
-| Enterprise API | 🔜 Planeado | Batch processing, SLA y soporte on-premise |
+| Auditoría batch | ✅ Activo | `/v1/batch` — múltiples pares source/response por request |
+| Billing Polar | ✅ Activo | Checkout + webhook + generación automática de key Pro |
+| Interaction Stability | ✅ Activo | `/v1/interaction/stability` — módulo experimental de auditoría temporal |
+| Interaction Observability | ✅ Activo | `interaction.db` + `/public/interaction/stats` — store agregado |
+| Node.js SDK | 🔜 En desarrollo | TypeScript-first, fetch nativo, spec en `docs/sdk_node_plan.md` |
+| Dashboard landing | 🔜 Planificado | Dashboard mínimo de métricas cuando el volumen de interaction sea suficiente |
+| Zenodo v1.3.0 | 🔜 Planificado | Snapshot empírico de interaction stability + actualización del paper |
+| docs/manifold.md | 🔜 Planificado | Documento técnico para CTOs y ML leads |
+| Enterprise API | 🔜 Planificado | Batch con SLA, soporte on-premise e integración privada |
 
 ---
 
