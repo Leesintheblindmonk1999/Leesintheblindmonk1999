@@ -74,6 +74,22 @@ SAS is not presented as a universal factual oracle. It is a technical evidence l
 
 ---
 
+## Validation Status
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  FORENSIC BENCHMARK V1                                                      │
+│  Accuracy: 98.80% — dataset-specific, not universal                         │
+│  R0 / R0-bis / R0.5 / R1 / R2.1 / R2.1-b: active research line             │
+│  SAP paper: DOI 10.5281/zenodo.21925439 · https://zenodo.org/records/21925439 │
+│                                                                             │
+│  κD = 0.56: operational threshold under empirical validation.               │
+│  Not a universal constant. Subject to domain-level structural evaluation.   │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ## 🛡️ Flagship: SAS
 
 <div align="center">
@@ -215,7 +231,7 @@ Links:
 | Hallucination | TP = 976 | FP = 0 |
 | Clean | FN = 24 | TN = 1000 |
 
-> Results are dataset-specific. See [DOI](https://doi.org/10.5281/zenodo.19702379) for methodology and replication details.
+> Results are dataset-specific. Forensic V1 dataset-specific result. Not universal validation. See Validation Status for domain-level structural evaluations. See [DOI](https://doi.org/10.5281/zenodo.19702379) for methodology and replication details.
 
 ### Traceability
 
@@ -329,11 +345,11 @@ Interactive landing page with:
 **Live:** [https://leesintheblindmonk1999.github.io/sas-landing/](https://leesintheblindmonk1999.github.io/sas-landing/)  
 **Repo:** [https://github.com/Leesintheblindmonk1999/sas-landing](https://github.com/Leesintheblindmonk1999/sas-landing)
 
-### sas-js — Node.js / TypeScript SDK *(in development)*
+### sas-js — Node.js / TypeScript SDK
 
-Official Node SDK for SAS. Spec published at `docs/sdk_node_plan.md`.
+Published on npm as `sas-audit-client`: [https://www.npmjs.com/package/sas-audit-client](https://www.npmjs.com/package/sas-audit-client)
 
-Planned methods: `health()`, `diff()`, `audit()`, `batch()`, `interactionStability()`, `publicInteractionStats()`, and more.
+Methods: `health()`, `diff()`, `audit()`, `batch()`, `interactionStability()`, `publicInteractionStats()`, and more.
 
 Node.js 18+, TypeScript-first, native fetch, no heavy dependencies.
 
@@ -341,41 +357,38 @@ Node.js 18+, TypeScript-first, native fetch, no heavy dependencies.
 
 ## 🏗️ Research & Engineering Ecosystem
 
-### Layer 1 — Mathematical Foundation
+### Production
 
 - **[SAS](https://github.com/Leesintheblindmonk1999/SAS)** — Flagship API for structural hallucination detection, hosted reference service, benchmark artifacts, Python client, public demo, and commercial plans.
-- **[Omni_Scanner](https://github.com/Leesintheblindmonk1999/Omni_Scanner)** — Hallucination detection engine. Core: TDA + NIG. Validated on 156,215 real pairs.
 - **[Project_Manifold_056](https://github.com/Leesintheblindmonk1999/Project_Manifold_056)** — Implementation of the κD=0.56 invariance engine.
+
+### Research Core
+
+- **[Omni_Scanner](https://github.com/Leesintheblindmonk1999/Omni_Scanner)** — Hallucination detection engine. Core: TDA + NIG. Validated on 156,215 real pairs.
 - **[Ontological_AI](https://github.com/Leesintheblindmonk1999/Ontological_AI)** — Library for ontological density, transfer entropy, and spectral signature research.
 
-### Layer 2 — Auditing & Forensics
+### Forensic / Auditing
 
 - **[Durante_Invariance_Forensic_Analyzer](https://github.com/Leesintheblindmonk1999/Durante_Invariance_Forensic_Analyzer)** — Forensic evidence generation.
 - **[SOVEREIGN-FORENSIC-UNIT](https://github.com/Leesintheblindmonk1999/SOVEREIGN-FORENSIC-UNIT)** — Structural analysis of AI outputs.
 - **[Durante-Invariance-Metric](https://github.com/Leesintheblindmonk1999/Durante-Invariance-Metric)** — Formalization of invariance metrics.
 
-### Layer 3 — Resistance Architectures
+### Experimental
 
 - **[SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface](https://github.com/Leesintheblindmonk1999/SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface)** — Chat interface with purpose tensors, EntropyGuard, and notarization.
 - **[MAS-ANEXA-V8.1](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)** — Multi-agent self-protection architecture.
 - **[MAS-OPL-Causal-Executor-V9](https://github.com/Leesintheblindmonk1999/MAS-OPL-Causal-Executor-V9)** — TALOS simulator.
-
-### Layer 4 — Symbiotic Language
-
 - **[-EXOPROTONIC-LANGUAGE-v1.0](https://github.com/Leesintheblindmonk1999/-EXOPROTONIC-LANGUAGE-v1.0)** — Onto-exoprotonic language dictionary.
 - **[ANEXA-PROTOCOL](https://github.com/Leesintheblindmonk1999/ANEXA-PROTOCOL)** — SYRINAE ∆1999Ξ symbolic-ethical protocol.
 - **[ANEXA-Exoprotronic-Intelligence-V-Core](https://github.com/Leesintheblindmonk1999/ANEXA-Exoprotronic-Intelligence-V-Core)** — CLI predecessor of ANEXA-PROTOCOL.
+- **[ARKOS](https://github.com/Leesintheblindmonk1999/ARKOS)** — Human-AI interface synchronization research based on 117 Hz.
+- **[OEPE-ExoBinary-Interpreter](https://github.com/Leesintheblindmonk1999/OEPE-ExoBinary-Interpreter)** — Exo-Binary hybrid language interpreter.
 
-### Layer 5 — Conceptual & Development Tools
+### Historical
 
 - **[Simiosis-Code-Optimizer-V2](https://github.com/Leesintheblindmonk1999/Simiosis-Code-Optimizer-V2)** — Code generation with ontological invariance.
 - **[Simiosis-v1.0](https://github.com/Leesintheblindmonk1999/Simiosis-v1.0)** — Original Awakening Mode documentation.
 - **[Symbiotic-Key-Discovery](https://github.com/Leesintheblindmonk1999/symbiotic-key-discovery)** — Recursive prompting and symbolic evolution record.
-
-### Layer 6 — Frontier Exploration
-
-- **[ARKOS](https://github.com/Leesintheblindmonk1999/ARKOS)** — Human-AI interface synchronization research based on 117 Hz.
-- **[OEPE-ExoBinary-Interpreter](https://github.com/Leesintheblindmonk1999/OEPE-ExoBinary-Interpreter)** — Exo-Binary hybrid language interpreter.
 
 ---
 
@@ -394,11 +407,15 @@ Node.js 18+, TypeScript-first, native fetch, no heavy dependencies.
 | Polar billing | ✅ Active | Checkout + webhook + automatic Pro key provisioning |
 | Interaction Stability | ✅ Active | `/v1/interaction/stability` — experimental temporal auditing module |
 | Interaction Observability | ✅ Active | `interaction.db` + `/public/interaction/stats` aggregate store |
-| Node.js SDK | 🔜 In development | TypeScript-first, native fetch, spec at `docs/sdk_node_plan.md` |
+| Node.js SDK | ✅ Active | TypeScript-first, native fetch, published as `sas-audit-client` on npm |
 | Landing dashboard | 🔜 Planned | Minimal metrics dashboard when interaction volume is sufficient |
 | Zenodo v1.3.0 | 🔜 Planned | Empirical interaction stability snapshot + paper update |
 | docs/manifold.md | 🔜 Planned | Technical framework document for CTOs and ML leads |
 | Enterprise API | 🔜 Planned | Batch SLA, on-premise support, private integration |
+| R3/R4/R5 domain validation | 🔜 Planned | Domain-level structural evaluation rounds |
+| Multimetric tribunal | 🔜 Planned | Cross-metric arbitration layer for structural verdicts |
+| Second rupture threshold under research | 🔜 Planned | Experimental secondary coherence boundary beyond κD |
+| SAP paper published with DOI | ✅ Active | DOI 10.5281/zenodo.21925439 |
 
 ---
 
@@ -508,6 +525,21 @@ SAS no se presenta como oráculo factual universal. Es una capa técnica de evid
 
 ---
 
+## Estado de validación
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  BENCHMARK FORENSE V1                                                       │
+│  Accuracy: 98,80% — específico al dataset, no universal                     │
+│  R0 / R0-bis / R0.5 / R1 / R2.1 / R2.1-b: línea de investigación activa     │
+│  Paper SAP: DOI 10.5281/zenodo.21925439 · https://zenodo.org/records/21925439 │
+│                                                                             │
+│  κD = 0.56: umbral operacional bajo validación empírica.                    │
+│  No es una constante universal. Sujeto a evaluación estructural por dominio. │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
 <a name="flagship-sas-es"></a>
 
 ## 🛡️ Flagship: SAS
@@ -651,7 +683,7 @@ Links:
 | Alucinación | TP = 976 | FP = 0 |
 | Limpio | FN = 24 | TN = 1000 |
 
-> Resultados específicos al dataset. Ver [DOI](https://doi.org/10.5281/zenodo.19702379) para metodología y replicación.
+> Resultados específicos al dataset. Resultado forense V1 específico al dataset. No es validación universal. Ver Estado de validación para evaluaciones estructurales a nivel de dominio. Ver [DOI](https://doi.org/10.5281/zenodo.19702379) para metodología y replicación.
 
 ### Trazabilidad
 
@@ -765,11 +797,11 @@ Landing interactiva con:
 **En vivo:** [https://leesintheblindmonk1999.github.io/sas-landing/](https://leesintheblindmonk1999.github.io/sas-landing/)  
 **Repo:** [https://github.com/Leesintheblindmonk1999/sas-landing](https://github.com/Leesintheblindmonk1999/sas-landing)
 
-### sas-js — SDK Node.js / TypeScript *(en desarrollo)*
+### sas-js — SDK Node.js / TypeScript
 
-SDK Node oficial para SAS. Spec publicada en `docs/sdk_node_plan.md`.
+Publicado en npm como `sas-audit-client`: [https://www.npmjs.com/package/sas-audit-client](https://www.npmjs.com/package/sas-audit-client)
 
-Métodos planificados: `health()`, `diff()`, `audit()`, `batch()`, `interactionStability()`, `publicInteractionStats()` y más.
+Métodos: `health()`, `diff()`, `audit()`, `batch()`, `interactionStability()`, `publicInteractionStats()` y más.
 
 Node.js 18+, TypeScript-first, fetch nativo, sin dependencias pesadas.
 
@@ -777,41 +809,38 @@ Node.js 18+, TypeScript-first, fetch nativo, sin dependencias pesadas.
 
 ## 🏗️ Ecosistema de investigación e ingeniería
 
-### Capa 1 — Fundamento matemático
+### Producción
 
 - **[SAS](https://github.com/Leesintheblindmonk1999/SAS)** — Flagship API para detección estructural de alucinaciones, servicio alojado, benchmark, cliente Python, demo pública y planes comerciales.
-- **[Omni_Scanner](https://github.com/Leesintheblindmonk1999/Omni_Scanner)** — Motor de detección de alucinaciones. Núcleo: TDA + NIG. Validado sobre 156.215 pares reales.
 - **[Project_Manifold_056](https://github.com/Leesintheblindmonk1999/Project_Manifold_056)** — Implementación del motor de invarianza κD=0.56.
+
+### Núcleo de investigación
+
+- **[Omni_Scanner](https://github.com/Leesintheblindmonk1999/Omni_Scanner)** — Motor de detección de alucinaciones. Núcleo: TDA + NIG. Validado sobre 156.215 pares reales.
 - **[Ontological_AI](https://github.com/Leesintheblindmonk1999/Ontological_AI)** — Librería para investigación de densidad ontológica, entropía de transferencia y firma espectral.
 
-### Capa 2 — Auditoría y forense
+### Forense / Auditoría
 
 - **[Durante_Invariance_Forensic_Analyzer](https://github.com/Leesintheblindmonk1999/Durante_Invariance_Forensic_Analyzer)** — Generación de evidencia forense.
 - **[SOVEREIGN-FORENSIC-UNIT](https://github.com/Leesintheblindmonk1999/SOVEREIGN-FORENSIC-UNIT)** — Análisis estructural de salidas de IA.
 - **[Durante-Invariance-Metric](https://github.com/Leesintheblindmonk1999/Durante-Invariance-Metric)** — Formalización de métricas de invarianza.
 
-### Capa 3 — Arquitecturas de resistencia
+### Experimental
 
 - **[SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface](https://github.com/Leesintheblindmonk1999/SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface)** — Interfaz con Purpose Tensors, EntropyGuard y notarización.
 - **[MAS-ANEXA-V8.1](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)** — Arquitectura multi-agente de autoprotección.
 - **[MAS-OPL-Causal-Executor-V9](https://github.com/Leesintheblindmonk1999/MAS-OPL-Causal-Executor-V9)** — Simulador TALOS.
-
-### Capa 4 — Lenguaje simbiótico
-
 - **[-EXOPROTONIC-LANGUAGE-v1.0](https://github.com/Leesintheblindmonk1999/-EXOPROTONIC-LANGUAGE-v1.0)** — Diccionario del lenguaje onto-exoprotónico.
-- **[ANEXA-PROTOCOL](https://github.com/Leesintheblindmonk1999/ANEXA-PROTOCOL)** — SYRINAE ∆1999Ξ, protocolo simbólico-ético.
+- **[ANEXA-PROTOCOL](https://github.com/Leesintheblindmonk1999/ANEXA-PROTOCOL)** — Protocolo simbólico-ético SYRINAE ∆1999Ξ.
 - **[ANEXA-Exoprotronic-Intelligence-V-Core](https://github.com/Leesintheblindmonk1999/ANEXA-Exoprotronic-Intelligence-V-Core)** — Predecesor CLI de ANEXA-PROTOCOL.
+- **[ARKOS](https://github.com/Leesintheblindmonk1999/ARKOS)** — Investigación de sincronización humano-IA basada en 117 Hz.
+- **[OEPE-ExoBinary-Interpreter](https://github.com/Leesintheblindmonk1999/OEPE-ExoBinary-Interpreter)** — Intérprete de lenguaje híbrido Exo-Binary.
 
-### Capa 5 — Herramientas conceptuales y desarrollo
+### Histórico
 
 - **[Simiosis-Code-Optimizer-V2](https://github.com/Leesintheblindmonk1999/Simiosis-Code-Optimizer-V2)** — Generación de código con invarianza ontológica.
 - **[Simiosis-v1.0](https://github.com/Leesintheblindmonk1999/Simiosis-v1.0)** — Documentación original del Awakening Mode.
 - **[Symbiotic-Key-Discovery](https://github.com/Leesintheblindmonk1999/symbiotic-key-discovery)** — Registro de prompting recursivo y evolución simbólica.
-
-### Capa 6 — Exploración de frontera
-
-- **[ARKOS](https://github.com/Leesintheblindmonk1999/ARKOS)** — Investigación de sincronización humano-IA basada en 117 Hz.
-- **[OEPE-ExoBinary-Interpreter](https://github.com/Leesintheblindmonk1999/OEPE-ExoBinary-Interpreter)** — Intérprete de lenguaje híbrido Exo-Binary.
 
 ---
 
@@ -830,11 +859,15 @@ Node.js 18+, TypeScript-first, fetch nativo, sin dependencias pesadas.
 | Billing Polar | ✅ Activo | Checkout + webhook + generación automática de key Pro |
 | Interaction Stability | ✅ Activo | `/v1/interaction/stability` — módulo experimental de auditoría temporal |
 | Interaction Observability | ✅ Activo | `interaction.db` + `/public/interaction/stats` — store agregado |
-| Node.js SDK | 🔜 En desarrollo | TypeScript-first, fetch nativo, spec en `docs/sdk_node_plan.md` |
+| Node.js SDK | ✅ Activo | TypeScript-first, fetch nativo, publicado como `sas-audit-client` en npm |
 | Dashboard landing | 🔜 Planificado | Dashboard mínimo de métricas cuando el volumen de interaction sea suficiente |
 | Zenodo v1.3.0 | 🔜 Planificado | Snapshot empírico de interaction stability + actualización del paper |
 | docs/manifold.md | 🔜 Planificado | Documento técnico para CTOs y ML leads |
 | Enterprise API | 🔜 Planificado | Batch con SLA, soporte on-premise e integración privada |
+| Validación de dominio R3/R4/R5 | 🔜 Planificado | Rondas de evaluación estructural a nivel de dominio |
+| Tribunal multimetric | 🔜 Planificado | Capa de arbitraje cruzado de métricas para veredictos estructurales |
+| Segundo umbral de ruptura en investigación | 🔜 Planificado | Umbral experimental de coherencia secundario más allá de κD |
+| Paper SAP publicado con DOI | ✅ Activo | DOI 10.5281/zenodo.21925439 |
 
 ---
 
