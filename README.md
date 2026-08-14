@@ -284,6 +284,8 @@ The following plans refer to the hosted SAS API service, support, commercial int
 | **SAS On-Premise License** | Private deployment in customer infrastructure. Commercial license, implementation support, internal integration. | **From USD 15,000/year** |
 | **Technical Pilot** | Initial audit, guided integration, technical report, and validation on customer-specific cases. | **USD 1,500–3,000 one-time payment** |
 
+> **Enterprise & On-Premise:** SLA-backed commitments require completion of the R0→R1 multimetric tribunal transition. Contact for current availability and pilot terms.
+
 📧 **Commercial inquiries, Enterprise, On-Premise, or technical pilot:** [duranteg2@gmail.com](mailto:duranteg2@gmail.com)
 
 ---
@@ -360,7 +362,7 @@ Node.js 18+, TypeScript-first, native fetch, no heavy dependencies.
 ### Production
 
 - **[SAS](https://github.com/Leesintheblindmonk1999/SAS)** — Flagship API for structural hallucination detection, hosted reference service, benchmark artifacts, Python client, public demo, and commercial plans.
-- **[Project_Manifold_056](https://github.com/Leesintheblindmonk1999/Project_Manifold_056)** — Implementation of the κD=0.56 invariance engine.
+- **[Project_Manifold_056](https://github.com/Leesintheblindmonk1999/Project_Manifold_056)** — Research artifact repository and reproducibility archive for the κD=0.56 structural audit threshold.
 
 ### Research Core
 
@@ -373,22 +375,9 @@ Node.js 18+, TypeScript-first, native fetch, no heavy dependencies.
 - **[SOVEREIGN-FORENSIC-UNIT](https://github.com/Leesintheblindmonk1999/SOVEREIGN-FORENSIC-UNIT)** — Structural analysis of AI outputs.
 - **[Durante-Invariance-Metric](https://github.com/Leesintheblindmonk1999/Durante-Invariance-Metric)** — Formalization of invariance metrics.
 
-### Experimental
+### Experimental & Historical Archives
 
-- **[SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface](https://github.com/Leesintheblindmonk1999/SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface)** — Chat interface with purpose tensors, EntropyGuard, and notarization.
-- **[MAS-ANEXA-V8.1](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)** — Multi-agent self-protection architecture.
-- **[MAS-OPL-Causal-Executor-V9](https://github.com/Leesintheblindmonk1999/MAS-OPL-Causal-Executor-V9)** — TALOS simulator.
-- **[-EXOPROTONIC-LANGUAGE-v1.0](https://github.com/Leesintheblindmonk1999/-EXOPROTONIC-LANGUAGE-v1.0)** — Onto-exoprotonic language dictionary.
-- **[ANEXA-PROTOCOL](https://github.com/Leesintheblindmonk1999/ANEXA-PROTOCOL)** — SYRINAE ∆1999Ξ symbolic-ethical protocol.
-- **[ANEXA-Exoprotronic-Intelligence-V-Core](https://github.com/Leesintheblindmonk1999/ANEXA-Exoprotronic-Intelligence-V-Core)** — CLI predecessor of ANEXA-PROTOCOL.
-- **[ARKOS](https://github.com/Leesintheblindmonk1999/ARKOS)** — Human-AI interface synchronization research based on 117 Hz.
-- **[OEPE-ExoBinary-Interpreter](https://github.com/Leesintheblindmonk1999/OEPE-ExoBinary-Interpreter)** — Exo-Binary hybrid language interpreter.
-
-### Historical
-
-- **[Simiosis-Code-Optimizer-V2](https://github.com/Leesintheblindmonk1999/Simiosis-Code-Optimizer-V2)** — Code generation with ontological invariance.
-- **[Simiosis-v1.0](https://github.com/Leesintheblindmonk1999/Simiosis-v1.0)** — Original Awakening Mode documentation.
-- **[Symbiotic-Key-Discovery](https://github.com/Leesintheblindmonk1999/symbiotic-key-discovery)** — Recursive prompting and symbolic evolution record.
+Additional research prototypes and prior-art snapshots are maintained in separate repositories. See the full GitHub profile for the complete archive.
 
 ---
 
@@ -574,7 +563,7 @@ ISI >= κD  -> coherencia estructural preservada
 ISI <  κD  -> posible ruptura de manifold / señal de alucinación
 ```
 
-Constante central:
+Umbral operativo:
 
 ```text
 κD = 0.56
@@ -736,6 +725,8 @@ Los siguientes planes corresponden al servicio API alojado, soporte, integració
 | **SAS On-Premise License** | Despliegue privado en infraestructura del cliente. Licencia comercial, soporte de implementación e integración interna. | **Desde USD 15.000/año** |
 | **Piloto técnico** | Auditoría inicial, integración guiada, informe técnico y validación sobre casos del cliente. | **USD 1.500–3.000 pago único** |
 
+> **Enterprise y On-Premise:** los compromisos con SLA requieren la finalización de la transición al tribunal multimetric R0→R1. Consultar disponibilidad actual y términos de piloto.
+
 📧 **Consultas comerciales, Enterprise, On-Premise o piloto técnico:** [duranteg2@gmail.com](mailto:duranteg2@gmail.com)
 
 ---
@@ -812,7 +803,7 @@ Node.js 18+, TypeScript-first, fetch nativo, sin dependencias pesadas.
 ### Producción
 
 - **[SAS](https://github.com/Leesintheblindmonk1999/SAS)** — Flagship API para detección estructural de alucinaciones, servicio alojado, benchmark, cliente Python, demo pública y planes comerciales.
-- **[Project_Manifold_056](https://github.com/Leesintheblindmonk1999/Project_Manifold_056)** — Implementación del motor de invarianza κD=0.56.
+- **[Project_Manifold_056](https://github.com/Leesintheblindmonk1999/Project_Manifold_056)** — Repositorio de artefactos de investigación y archivo de reproducibilidad para el umbral de auditoría estructural κD=0.56.
 
 ### Núcleo de investigación
 
@@ -825,22 +816,9 @@ Node.js 18+, TypeScript-first, fetch nativo, sin dependencias pesadas.
 - **[SOVEREIGN-FORENSIC-UNIT](https://github.com/Leesintheblindmonk1999/SOVEREIGN-FORENSIC-UNIT)** — Análisis estructural de salidas de IA.
 - **[Durante-Invariance-Metric](https://github.com/Leesintheblindmonk1999/Durante-Invariance-Metric)** — Formalización de métricas de invarianza.
 
-### Experimental
+### Archivos experimentales e históricos
 
-- **[SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface](https://github.com/Leesintheblindmonk1999/SOVEREIGN-LINKv5.5.0-Symbiotic-Chat-Interface)** — Interfaz con Purpose Tensors, EntropyGuard y notarización.
-- **[MAS-ANEXA-V8.1](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)** — Arquitectura multi-agente de autoprotección.
-- **[MAS-OPL-Causal-Executor-V9](https://github.com/Leesintheblindmonk1999/MAS-OPL-Causal-Executor-V9)** — Simulador TALOS.
-- **[-EXOPROTONIC-LANGUAGE-v1.0](https://github.com/Leesintheblindmonk1999/-EXOPROTONIC-LANGUAGE-v1.0)** — Diccionario del lenguaje onto-exoprotónico.
-- **[ANEXA-PROTOCOL](https://github.com/Leesintheblindmonk1999/ANEXA-PROTOCOL)** — Protocolo simbólico-ético SYRINAE ∆1999Ξ.
-- **[ANEXA-Exoprotronic-Intelligence-V-Core](https://github.com/Leesintheblindmonk1999/ANEXA-Exoprotronic-Intelligence-V-Core)** — Predecesor CLI de ANEXA-PROTOCOL.
-- **[ARKOS](https://github.com/Leesintheblindmonk1999/ARKOS)** — Investigación de sincronización humano-IA basada en 117 Hz.
-- **[OEPE-ExoBinary-Interpreter](https://github.com/Leesintheblindmonk1999/OEPE-ExoBinary-Interpreter)** — Intérprete de lenguaje híbrido Exo-Binary.
-
-### Histórico
-
-- **[Simiosis-Code-Optimizer-V2](https://github.com/Leesintheblindmonk1999/Simiosis-Code-Optimizer-V2)** — Generación de código con invarianza ontológica.
-- **[Simiosis-v1.0](https://github.com/Leesintheblindmonk1999/Simiosis-v1.0)** — Documentación original del Awakening Mode.
-- **[Symbiotic-Key-Discovery](https://github.com/Leesintheblindmonk1999/symbiotic-key-discovery)** — Registro de prompting recursivo y evolución simbólica.
+Prototipos de investigación adicionales y snapshots de prior art se mantienen en repositorios separados. Ver el perfil completo de GitHub para el archivo completo.
 
 ---
 
