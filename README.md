@@ -502,10 +502,10 @@ Additional research prototypes and prior-art snapshots are maintained in separat
 | **Multimetric tribunal** | ✅ **Active** | **v1.3.0 deployed — 13 modules (7 core + R3.1–R3.6)** |
 | **R3/R4/R5 domain validation** | ✅ **Active** | **R3.1 complete (N1 audit, FinQA, MedHallu). R4/R5 ongoing** |
 | **Second rupture threshold κR** | ✅ **Active** | **κR = 0.15 operational — structural collapse zone defined** |
-| **Qeios paper v6** | ✅ **Active** | **Under review — Round 4, Clarity 5/5** |
+| **Qeios paper** | ✅ **Active** | **DOI 10.32388/T420IV — peer-reviewed, published** |
 | SAP paper published with DOI | ✅ Active | DOI 10.5281/zenodo.21925439 |
+| **Zenodo regulatory v1.3.0** | ✅ **Published** | **DOI 10.5281/zenodo.23917127 — 46-file package, 0 audit discrepancies** |
 | Landing dashboard | 🔜 Planned | Minimal metrics dashboard when interaction volume is sufficient |
-| Zenodo v1.3.0 | 🔜 Planned | Empirical interaction stability snapshot + paper update |
 | docs/manifold.md | 🔜 Planned | Technical framework document for CTOs and ML leads |
 | Enterprise API | 🔜 Planned | Batch SLA, on-premise support, private integration |
 
@@ -1052,10 +1052,10 @@ Prototipos de investigación adicionales y snapshots de prior art se mantienen e
 | **Tribunal multimetric** | ✅ **Activo** | **v1.3.0 desplegado — 13 módulos (7 core + R3.1–R3.6)** |
 | **Validación R3/R4/R5** | ✅ **Activo** | **R3.1 completa (N1 audit, FinQA, MedHallu). R4/R5 en curso** |
 | **Segundo umbral κR** | ✅ **Activo** | **κR = 0,15 operacional — zona de colapso estructural definida** |
-| **Paper Qeios v6** | ✅ **Activo** | **En revisión — Ronda 4, Claridad 5/5** |
+| **Paper Qeios** | ✅ **Activo** | **DOI 10.32388/T420IV — revisado por pares, publicado** |
 | Paper SAP publicado con DOI | ✅ Activo | DOI 10.5281/zenodo.21925439 |
+| **Zenodo regulatorio v1.3.0** | ✅ **Publicado** | **DOI 10.5281/zenodo.23917127 — paquete de 46 archivos, 0 discrepancias** |
 | Dashboard landing | 🔜 Planificado | Dashboard mínimo de métricas cuando el volumen de interaction sea suficiente |
-| Zenodo v1.3.0 | 🔜 Planificado | Snapshot empírico de interaction stability + actualización del paper |
 | docs/manifold.md | 🔜 Planificado | Documento técnico para CTOs y ML leads |
 | Enterprise API | 🔜 Planificado | Batch con SLA, soporte on-premise e integración privada |
 
