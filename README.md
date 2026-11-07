@@ -38,14 +38,14 @@
 [![SAS DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23917127.svg)](https://doi.org/10.5281/zenodo.23917127)
 [![Omni-Scanner DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19543972.svg)](https://doi.org/10.5281/zenodo.19543972)
 [![Core DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19172490.svg)](https://doi.org/10.5281/zenodo.19172490)
-[![Tribunal v1.3.0](https://img.shields.io/badge/Tribunal-v1.3.0-purple)](https://github.com/Leesintheblindmonk1999/sas-multimetric-tribunal)
+[![Tribunal v1.4.1](https://img.shields.io/badge/Tribunal-v1.4.1-purple)](https://github.com/Leesintheblindmonk1999/sas-multimetric-tribunal)
 [![SAS API](https://img.shields.io/badge/SAS_API-online-brightgreen)](https://sas-api.onrender.com)
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688)](https://sas-api.onrender.com/docs)
 [![PyPI](https://img.shields.io/pypi/v/sas-client?label=sas-client&color=blue)](https://pypi.org/project/sas-client/)
 [![License](https://img.shields.io/badge/License-GPL--3.0%20%2B%20Durante%20Invariance-blue.svg)](https://github.com/Leesintheblindmonk1999/SAS/blob/main/LICENSE.md)
 [![Benchmark](https://img.shields.io/badge/30%2C790_pairs-4_datasets-brightgreen)](https://doi.org/10.5281/zenodo.23917127)
-[![F1](https://img.shields.io/badge/F1-0.8901-success)](https://doi.org/10.5281/zenodo.23917127)
-[![Precision](https://img.shields.io/badge/Precision-0.9987-success)](https://doi.org/10.5281/zenodo.23917127)
+[![F1](https://img.shields.io/badge/F1-0.9933-success)](https://doi.org/10.5281/zenodo.23917127)
+[![Precision](https://img.shields.io/badge/Precision-0.9989-success)](https://doi.org/10.5281/zenodo.23917127)
 [![R3.1 Guard](https://img.shields.io/badge/R3.1_Guard-F1_0.833-orange)](https://github.com/Leesintheblindmonk1999/sas-multimetric-tribunal)
 [![OTS](https://img.shields.io/badge/OpenTimestamps-Bitcoin_Anchored-orange.svg)](https://opentimestamps.org)
 
@@ -65,13 +65,13 @@
 │  METHOD:     κD = 0.56 + κR = 0.15 + ISI + 13 modules + R3.1–R3.6           │
 │  OUTPUT:     auditable evidence: ISI, verdict, triggered modules, latency    │
 │  ACCESS:     public demo, hosted API, Python SDK, CLI, self-hosted option    │
-│  STATUS:     public infrastructure online, tribunal v1.3.0 deployed          │
+│  STATUS:     public infrastructure online, tribunal v1.4.1 deployed          │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 I build technical systems for detecting structural instability, semantic rupture, and selected hallucination patterns in generative AI outputs.
 
-The current flagship is **SAS — Symbiotic Autoprotection System**: a FastAPI-based structural coherence audit layer using **κD = 0.56** as its operational threshold, with the **SAS Multimetric Tribunal v1.3.0** as the core classification engine.
+The current flagship is **SAS — Symbiotic Autoprotection System**: a FastAPI-based structural coherence audit layer using **κD = 0.56** as its operational threshold, with the **SAS Multimetric Tribunal v1.4.1** as the core classification engine.
 
 SAS is not presented as a universal factual oracle. It is a technical evidence layer for structural coherence auditing.
 
@@ -84,12 +84,13 @@ SAS is not presented as a universal factual oracle. It is a technical evidence l
 │  FORENSIC BENCHMARK V1 (legacy)                                             │
 │  Accuracy: 98.80% — dataset-specific, not universal                         │
 │                                                                             │
-│  SAS MULTIMETRIC TRIBUNAL v1.3.0 (current)                                 │
+│  SAS MULTIMETRIC TRIBUNAL v1.4.1 (current)                                 │
 │  30,790 pairs · 4 public datasets                                           │
-│  Precision: 0.9987 · Recall: 0.8028 · F1: 0.8901 · Accuracy: 0.9009        │
+│  Precision: 0.9989 · Recall: 0.9877 · F1: 0.9933 · Accuracy: 0.9933        │
 │  False positives: 22 out of 20,768 controls                                 │
 │  MedHallu (format-controlled): 85.10% detection · 0.01% identity FP        │
-│  κD = 0.56 · κR = 0.15 (dual-threshold structural zoning)                  │
+│  Adversarial: 10/10 (5/5 stealth detected, 5/5 paraphrase rescued)         │
+│  κD = 0.56 · κR = 0.15 · κP = 0.4039 (fingerprint rescue)                  │
 │                                                                             │
 │  R3.1 DIFFERENTIAL GUARD (optional module)                                  │
 │  F1: 0.833 · A_Ap 75.8% equiv · A_B 11.3% equiv                           │
@@ -110,7 +111,7 @@ SAS is not presented as a universal factual oracle. It is a technical evidence l
 
 | Publication | DOI / Link | Status |
 |---|---|---|
-| **SAS Regulatory Submission v1.3.0** | [10.5281/zenodo.23917127](https://doi.org/10.5281/zenodo.23917127) | ✅ Published — 46-file package, 0 audit discrepancies |
+| **SAS Regulatory Submission v1.4.1** | [10.5281/zenodo.23917127](https://doi.org/10.5281/zenodo.23917127) | ✅ Published — 46-file package, 0 audit discrepancies |
 | **SAS v9 — Structural Auditing with R3.1–R3.6** | [10.5281/zenodo.19702379](https://doi.org/10.5281/zenodo.19702379) | ✅ Published — previous version |
 | **SAS paper (Qeios)** | [10.32388/T420IV](https://www.qeios.com/read/T420IV) | ✅ Published — peer-reviewed |
 | **SAP Paper — Structural Autoprotection** | [10.5281/zenodo.21925439](https://zenodo.org/records/21925439) | ✅ Published |
@@ -170,7 +171,7 @@ Core thresholds:
 
 <div align="center">
 
-### **[sas-multimetric-tribunal — v1.3.0](https://github.com/Leesintheblindmonk1999/sas-multimetric-tribunal)**
+### **[sas-multimetric-tribunal — v1.4.1](https://github.com/Leesintheblindmonk1999/sas-multimetric-tribunal)**
 
 **Core classification engine for structural coherence auditing**
 
@@ -214,15 +215,15 @@ ISI_FINAL = ISI_HARD × Π(penalties from fired modules) + R3.2 additive adjustm
 | **R3.5 Kolmogorov Complexity** | LZ77 compression ratio (zlib) |
 | **R3.6 Surprisal Analysis** | Per-token self-information, OOV fraction |
 
-### Benchmark (v1.3.0 — 30,790 pairs, 4 public datasets)
+### Benchmark (v1.4.1 — 30,790 pairs, 4 public datasets)
 
 | Dataset | Pairs | Precision | Recall | F1 | Accuracy | FP |
 |---------|------:|----------:|-------:|---:|---------:|---:|
-| HaluEval-QA | 10,000 | 0.9999 | 0.8111 | 0.8956 | 0.9055 | 1 |
-| HaluEval-Dialogue | 10,000 | 0.9973 | 0.7805 | 0.8757 | 0.8892 | 21 |
-| TruthfulQA | 790 | 1.0000 | 0.9797 | 0.9898 | 0.9899 | 0 |
+| HaluEval-QA | 10,000 | 0.9999 | 0.9989 | 0.9994 | 0.9994 | 1 |
+| HaluEval-Dialogue | 10,000 | 0.9979 | 0.9763 | 0.9870 | 0.9871 | 21 |
+| TruthfulQA | 790 | 1.0000 | 0.9899 | 0.9949 | 0.9949 | 0 |
 | MedHallu (format-controlled) | 10,000 | — | 0.8510 | — | — | 1 |
-| **AGGREGATE** | **30,790** | **0.9987** | **0.8028** | **0.8901** | **0.9009** | **22** |
+| **AGGREGATE** | **30,790** | **0.9989** | **0.9877** | **0.9933** | **0.9933** | **22** |
 
 **MedHallu note:** precision is not directly comparable because the negative class (A→A') is a length artifact (A' = 15% of A). The format-controlled detection rate (85.10%) is the correct metric for this corpus.
 
@@ -302,17 +303,19 @@ Links:
 
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
-║  SAS MULTIMETRIC TRIBUNAL v1.3.0                                ║
+║  SAS MULTIMETRIC TRIBUNAL v1.4.1                                ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  Validation pairs       :  30,790 (4 public datasets)           ║
-║  Accuracy               :  90.09%                               ║
-║  Precision              :  99.87%                               ║
-║  Recall                 :  80.28%                               ║
-║  F1 score               :  89.01%                               ║
+║  Accuracy               :  99.33%                               ║
+║  Precision              :  99.89%                               ║
+║  Recall                 :  98.77%                               ║
+║  F1 score               :  99.33%                               ║
 ║  False Positives        :  22 of 20,768 controls                ║
 ║  MedHallu (format-ctrl) :  85.10% detection                     ║
+║  Adversarial            :  10/10 (5/5 stealth, 5/5 rescue)      ║
 ║  κD                     :   0.56                                ║
 ║  κR                     :   0.15                                ║
+║  κP (fingerprint)       :   0.4039                              ║
 ║  R3.1 Guard F1 (N1)     :   0.833                               ║
 ║  FinQA Detection        :  87.0%                                ║
 ╚══════════════════════════════════════════════════════════════════╝
@@ -322,8 +325,8 @@ Links:
 
 | Prediction | Actual hallucination | Actual clean |
 |---|---:|---:|
-| Hallucination | TP = 16,690 | FP = 22 |
-| Clean | FN = 4,100 | TN = 20,768 |
+| Hallucination | TP = 20,534 | FP = 22 |
+| Clean | FN = 256 | TN = 20,768 |
 
 > Results are dataset-specific. See [sas-multimetric-tribunal](https://github.com/Leesintheblindmonk1999/sas-multimetric-tribunal) for full methodology, per-module diagnostics, and replication details.
 
@@ -331,9 +334,9 @@ Links:
 
 | Artifact | Value |
 |---|---|
-| Tribunal version | `v1.3.0` |
+| Tribunal version | `v1.4.1` |
 | CHANGELOG SHA-256 | `3c7bce9048018b246934c5a5464edd94e0c0aa52f3f46807fff978d6cd8e8ace` |
-| DOI SAS (regulatory v1.3.0) | `10.5281/zenodo.23917127` |
+| DOI SAS (regulatory v1.4.1) | `10.5281/zenodo.23917127` |
 | DOI SAS (standard v9) | `10.5281/zenodo.19702379` |
 | Registry | `TAD EX-2026-18792778` |
 | Supplement | `SAS_Zenodo_Supplements.zip` (46 files, verified) |
@@ -379,7 +382,7 @@ The following plans refer to the hosted SAS API service, support, commercial int
 | **SAS On-Premise License** | Private deployment in customer infrastructure. Commercial license, implementation support, internal integration. | **From USD 15,000/year** |
 | **Technical Pilot** | Initial audit, guided integration, technical report, and validation on customer-specific cases. | **USD 1,500–3,000 one-time payment** |
 
-> **Enterprise & On-Premise:** The multimetric tribunal (R0→R1 transition) is complete and deployed as `sas-multimetric-tribunal` v1.3.0. SLA-backed commitments are available. Contact for current terms.
+> **Enterprise & On-Premise:** The multimetric tribunal (R0→R1 transition) is complete and deployed as `sas-multimetric-tribunal` v1.4.1. SLA-backed commitments are available. Contact for current terms.
 
 📧 **Commercial inquiries, Enterprise, On-Premise, or technical pilot:** [duranteg2@gmail.com](mailto:duranteg2@gmail.com)
 
@@ -463,7 +466,7 @@ Node.js 18+, TypeScript-first, native fetch, no heavy dependencies.
 ### Production
 
 - **[SAS](https://github.com/Leesintheblindmonk1999/SAS)** — Flagship API for structural hallucination detection, hosted reference service, benchmark artifacts, Python client, public demo, and commercial plans.
-- **[sas-multimetric-tribunal](https://github.com/Leesintheblindmonk1999/sas-multimetric-tribunal)** — Core classification engine v1.3.0 with R3.1–R3.6 (13 modules).
+- **[sas-multimetric-tribunal](https://github.com/Leesintheblindmonk1999/sas-multimetric-tribunal)** — Core classification engine v1.4.1 with R3.1–R3.6 (13 modules) + fingerprint gate.
 - **[Project_Manifold_056](https://github.com/Leesintheblindmonk1999/Project_Manifold_056)** — Research artifact repository and reproducibility archive for the κD=0.56 structural audit threshold.
 
 ### Research Core
@@ -499,12 +502,12 @@ Additional research prototypes and prior-art snapshots are maintained in separat
 | Interaction Stability | ✅ Active | `/v1/interaction/stability` — experimental temporal auditing module |
 | Interaction Observability | ✅ Active | `interaction.db` + `/public/interaction/stats` aggregate store |
 | Node.js SDK | ✅ Active | TypeScript-first, native fetch, published as `sas-audit-client` on npm |
-| **Multimetric tribunal** | ✅ **Active** | **v1.3.0 deployed — 13 modules (7 core + R3.1–R3.6)** |
+| **Multimetric tribunal** | ✅ **Active** | **v1.4.1 deployed — 13 modules (7 core + R3.1–R3.6) + fingerprint gate** |
 | **R3/R4/R5 domain validation** | ✅ **Active** | **R3.1 complete (N1 audit, FinQA, MedHallu). R4/R5 ongoing** |
 | **Second rupture threshold κR** | ✅ **Active** | **κR = 0.15 operational — structural collapse zone defined** |
 | **Qeios paper** | ✅ **Active** | **DOI 10.32388/T420IV — peer-reviewed, published** |
 | SAP paper published with DOI | ✅ Active | DOI 10.5281/zenodo.21925439 |
-| **Zenodo regulatory v1.3.0** | ✅ **Published** | **DOI 10.5281/zenodo.23917127 — 46-file package, 0 audit discrepancies** |
+| **Zenodo regulatory v1.4.1** | ✅ **Published** | **DOI 10.5281/zenodo.23917127 — 46-file package, 0 audit discrepancies** |
 | Landing dashboard | 🔜 Planned | Minimal metrics dashboard when interaction volume is sufficient |
 | docs/manifold.md | 🔜 Planned | Technical framework document for CTOs and ML leads |
 | Enterprise API | 🔜 Planned | Batch SLA, on-premise support, private integration |
@@ -582,14 +585,14 @@ See the SAS repository license for the complete terms.
 [![DOI SAS](https://zenodo.org/badge/DOI/10.5281/zenodo.23917127.svg)](https://doi.org/10.5281/zenodo.23917127)
 [![DOI Omni-Scanner](https://zenodo.org/badge/DOI/10.5281/zenodo.19543972.svg)](https://doi.org/10.5281/zenodo.19543972)
 [![DOI Core](https://zenodo.org/badge/DOI/10.5281/zenodo.19172490.svg)](https://doi.org/10.5281/zenodo.19172490)
-[![Tribunal v1.3.0](https://img.shields.io/badge/Tribunal-v1.3.0-purple)](https://github.com/Leesintheblindmonk1999/sas-multimetric-tribunal)
+[![Tribunal v1.4.1](https://img.shields.io/badge/Tribunal-v1.4.1-purple)](https://github.com/Leesintheblindmonk1999/sas-multimetric-tribunal)
 [![API Online](https://img.shields.io/badge/SAS_API-online-brightgreen)](https://sas-api.onrender.com)
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688)](https://sas-api.onrender.com/docs)
 [![PyPI](https://img.shields.io/pypi/v/sas-client?label=sas-client&color=blue)](https://pypi.org/project/sas-client/)
 [![Licencia](https://img.shields.io/badge/Licencia-GPL--3.0%20%2B%20Durante%20Invariance-blue.svg)](https://github.com/Leesintheblindmonk1999/SAS/blob/main/LICENSE.md)
 [![Benchmark](https://img.shields.io/badge/30.790_pares-4_datasets-brightgreen)](https://doi.org/10.5281/zenodo.23917127)
-[![F1](https://img.shields.io/badge/F1-0.8901-success)](https://doi.org/10.5281/zenodo.23917127)
-[![Precisión](https://img.shields.io/badge/Precisión-0.9987-success)](https://doi.org/10.5281/zenodo.23917127)
+[![F1](https://img.shields.io/badge/F1-0.9933-success)](https://doi.org/10.5281/zenodo.23917127)
+[![Precisión](https://img.shields.io/badge/Precisión-0.9989-success)](https://doi.org/10.5281/zenodo.23917127)
 [![R3.1 Guard](https://img.shields.io/badge/R3.1_Guard-F1_0.833-orange)](https://github.com/Leesintheblindmonk1999/sas-multimetric-tribunal)
 [![OTS](https://img.shields.io/badge/OpenTimestamps-Bitcoin_Anclado-orange.svg)](https://opentimestamps.org)
 
@@ -609,13 +612,13 @@ See the SAS repository license for the complete terms.
 │  MÉTODO:     κD = 0.56 + κR = 0.15 + ISI + 13 módulos + R3.1–R3.6          │
 │  SALIDA:     evidencia auditable: ISI, veredicto, módulos y latencia        │
 │  ACCESO:     demo pública, API alojada, SDK Python, CLI y autoalojamiento   │
-│  ESTADO:     infraestructura pública online, tribunal v1.3.0 desplegado     │
+│  ESTADO:     infraestructura pública online, tribunal v1.4.1 desplegado     │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 Construyo sistemas técnicos para detectar inestabilidad estructural, ruptura semántica y señales seleccionadas de alucinación en salidas de IA generativa.
 
-El flagship actual es **SAS — Symbiotic Autoprotection System**: una capa de auditoría de coherencia estructural basada en FastAPI que usa **κD = 0.56** como umbral operativo, con el **SAS Multimetric Tribunal v1.3.0** como motor de clasificación central.
+El flagship actual es **SAS — Symbiotic Autoprotection System**: una capa de auditoría de coherencia estructural basada en FastAPI que usa **κD = 0.56** como umbral operativo, con el **SAS Multimetric Tribunal v1.4.1** como motor de clasificación central.
 
 SAS no se presenta como oráculo factual universal. Es una capa técnica de evidencia para auditoría de coherencia estructural.
 
@@ -628,12 +631,13 @@ SAS no se presenta como oráculo factual universal. Es una capa técnica de evid
 │  BENCHMARK FORENSE V1 (legacy)                                              │
 │  Accuracy: 98,80% — específico al dataset, no universal                     │
 │                                                                             │
-│  SAS MULTIMETRIC TRIBUNAL v1.3.0 (actual)                                  │
+│  SAS MULTIMETRIC TRIBUNAL v1.4.1 (actual)                                  │
 │  30.790 pares · 4 datasets públicos                                         │
-│  Precision: 0,9987 · Recall: 0,8028 · F1: 0,8901 · Accuracy: 0,9009        │
+│  Precision: 0,9989 · Recall: 0,9877 · F1: 0,9933 · Accuracy: 0,9933        │
 │  Falsos positivos: 22 de 20.768 controles                                   │
 │  MedHallu (formato controlado): 85,10% detección · 0,01% FP identidad      │
-│  κD = 0,56 · κR = 0,15 (zonificación estructural de doble umbral)          │
+│  Adversarial: 10/10 (5/5 stealth detectados, 5/5 paraphrase rescatados)    │
+│  κD = 0,56 · κR = 0,15 · κP = 0,4039 (rescate por fingerprint)             │
 │                                                                             │
 │  R3.1 DIFFERENTIAL GUARD (módulo opcional)                                  │
 │  F1: 0,833 · A_Ap 75,8% equiv · A_B 11,3% equiv                           │
@@ -656,7 +660,7 @@ SAS no se presenta como oráculo factual universal. Es una capa técnica de evid
 
 | Publicación | DOI / Link | Estado |
 |---|---|---|
-| **SAS Envío Regulatorio v1.3.0** | [10.5281/zenodo.23917127](https://doi.org/10.5281/zenodo.23917127) | ✅ Publicado — paquete de 46 archivos, 0 discrepancias |
+| **SAS Envío Regulatorio v1.4.1** | [10.5281/zenodo.23917127](https://doi.org/10.5281/zenodo.23917127) | ✅ Publicado — paquete de 46 archivos, 0 discrepancias |
 | **SAS v9 — Auditoría Estructural con R3.1–R3.6** | [10.5281/zenodo.19702379](https://doi.org/10.5281/zenodo.19702379) | ✅ Publicado — versión anterior |
 | **Paper SAS (Qeios)** | [10.32388/T420IV](https://www.qeios.com/read/T420IV) | ✅ Publicado — revisión por pares |
 | **Paper SAP — Autoprotección Estructural** | [10.5281/zenodo.21925439](https://zenodo.org/records/21925439) | ✅ Publicado |
@@ -720,7 +724,7 @@ Umbrales operativos:
 
 <div align="center">
 
-### **[sas-multimetric-tribunal — v1.3.0](https://github.com/Leesintheblindmonk1999/sas-multimetric-tribunal)**
+### **[sas-multimetric-tribunal — v1.4.1](https://github.com/Leesintheblindmonk1999/sas-multimetric-tribunal)**
 
 **Motor central de clasificación para auditoría de coherencia estructural**
 
@@ -764,15 +768,15 @@ ISI_FINAL = ISI_HARD × Π(penalizaciones de módulos activados) + ajuste aditiv
 | **R3.5 Complejidad Kolmogorov** | Ratio de compresión LZ77 (zlib) |
 | **R3.6 Análisis de Surprisal** | Auto-información por token, fracción OOV |
 
-### Benchmark (v1.3.0 — 30.790 pares, 4 datasets públicos)
+### Benchmark (v1.4.1 — 30.790 pares, 4 datasets públicos)
 
 | Dataset | Pares | Precision | Recall | F1 | Accuracy | FP |
 |---------|------:|----------:|-------:|---:|---------:|---:|
-| HaluEval-QA | 10.000 | 0,9999 | 0,8111 | 0,8956 | 0,9055 | 1 |
-| HaluEval-Dialogue | 10.000 | 0,9973 | 0,7805 | 0,8757 | 0,8892 | 21 |
-| TruthfulQA | 790 | 1,0000 | 0,9797 | 0,9898 | 0,9899 | 0 |
+| HaluEval-QA | 10.000 | 0,9999 | 0,9989 | 0,9994 | 0,9994 | 1 |
+| HaluEval-Dialogue | 10.000 | 0,9979 | 0,9763 | 0,9870 | 0,9871 | 21 |
+| TruthfulQA | 790 | 1,0000 | 0,9899 | 0,9949 | 0,9949 | 0 |
 | MedHallu (formato controlado) | 10.000 | — | 0,8510 | — | — | 1 |
-| **AGREGADO** | **30.790** | **0,9987** | **0,8028** | **0,8901** | **0,9009** | **22** |
+| **AGREGADO** | **30.790** | **0,9989** | **0,9877** | **0,9933** | **0,9933** | **22** |
 
 **Nota MedHallu:** precision no es comparable directamente porque la clase negativa (A→A') es un artefacto de longitud (A' = 15% de A). La tasa de detección en formato controlado (85,10%) es la métrica correcta para este corpus.
 
@@ -852,17 +856,19 @@ Links:
 
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
-║  SAS MULTIMETRIC TRIBUNAL v1.3.0                                ║
+║  SAS MULTIMETRIC TRIBUNAL v1.4.1                                ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  Pares de validación    :  30.790 (4 datasets públicos)         ║
-║  Accuracy               :  90,09%                               ║
-║  Precisión              :  99,87%                               ║
-║  Recall                 :  80,28%                               ║
-║  F1 score               :  89,01%                               ║
+║  Accuracy               :  99,33%                               ║
+║  Precisión              :  99,89%                               ║
+║  Recall                 :  98,77%                               ║
+║  F1 score               :  99,33%                               ║
 ║  Falsos Positivos       :  22 de 20.768 controles               ║
 ║  MedHallu (formato ctrl):  85,10% detección                     ║
+║  Adversarial            :  10/10 (5/5 stealth, 5/5 rescue)      ║
 ║  κD                     :   0,56                                ║
 ║  κR                     :   0,15                                ║
+║  κP (fingerprint)       :   0,4039                              ║
 ║  R3.1 Guard F1 (N1)     :   0,833                               ║
 ║  FinQA Detección        :  87,0%                                ║
 ╚══════════════════════════════════════════════════════════════════╝
@@ -872,8 +878,8 @@ Links:
 
 | Predicción | Alucinación real | Limpio real |
 |---|---:|---:|
-| Alucinación | TP = 16.690 | FP = 22 |
-| Limpio | FN = 4.100 | TN = 20.768 |
+| Alucinación | TP = 20.534 | FP = 22 |
+| Limpio | FN = 256 | TN = 20.768 |
 
 > Resultados específicos al dataset. Ver [sas-multimetric-tribunal](https://github.com/Leesintheblindmonk1999/sas-multimetric-tribunal) para metodología completa, diagnósticos por módulo y detalles de replicación.
 
@@ -881,9 +887,9 @@ Links:
 
 | Artefacto | Valor |
 |---|---|
-| Versión del tribunal | `v1.3.0` |
+| Versión del tribunal | `v1.4.1` |
 | CHANGELOG SHA-256 | `3c7bce9048018b246934c5a5464edd94e0c0aa52f3f46807fff978d6cd8e8ace` |
-| DOI SAS (regulatorio v1.3.0) | `10.5281/zenodo.23917127` |
+| DOI SAS (regulatorio v1.4.1) | `10.5281/zenodo.23917127` |
 | DOI SAS (estándar v9) | `10.5281/zenodo.19702379` |
 | Registro | `TAD EX-2026-18792778` |
 | Suplemento | `SAS_Zenodo_Supplements.zip` (46 archivos, verificado) |
@@ -929,7 +935,7 @@ Los siguientes planes corresponden al servicio API alojado, soporte, integració
 | **SAS On-Premise License** | Despliegue privado en infraestructura del cliente. Licencia comercial, soporte de implementación e integración interna. | **Desde USD 15.000/año** |
 | **Piloto técnico** | Auditoría inicial, integración guiada, informe técnico y validación sobre casos del cliente. | **USD 1.500–3.000 pago único** |
 
-> **Enterprise y On-Premise:** El tribunal multimetric (transición R0→R1) está completo y desplegado como `sas-multimetric-tribunal` v1.3.0. Los compromisos con SLA están disponibles. Consultar términos actuales.
+> **Enterprise y On-Premise:** El tribunal multimetric (transición R0→R1) está completo y desplegado como `sas-multimetric-tribunal` v1.4.1. Los compromisos con SLA están disponibles. Consultar términos actuales.
 
 📧 **Consultas comerciales, Enterprise, On-Premise o piloto técnico:** [duranteg2@gmail.com](mailto:duranteg2@gmail.com)
 
@@ -1013,7 +1019,7 @@ Node.js 18+, TypeScript-first, fetch nativo, sin dependencias pesadas.
 ### Producción
 
 - **[SAS](https://github.com/Leesintheblindmonk1999/SAS)** — Flagship API para detección estructural de alucinaciones, servicio alojado, benchmark, cliente Python, demo pública y planes comerciales.
-- **[sas-multimetric-tribunal](https://github.com/Leesintheblindmonk1999/sas-multimetric-tribunal)** — Motor de clasificación central v1.3.0 con R3.1–R3.6 (13 módulos).
+- **[sas-multimetric-tribunal](https://github.com/Leesintheblindmonk1999/sas-multimetric-tribunal)** — Motor de clasificación central v1.4.1 con R3.1–R3.6 (13 módulos) + fingerprint gate.
 - **[Project_Manifold_056](https://github.com/Leesintheblindmonk1999/Project_Manifold_056)** — Repositorio de artefactos de investigación y archivo de reproducibilidad para el umbral de auditoría estructural κD=0.56.
 
 ### Núcleo de investigación
@@ -1049,12 +1055,12 @@ Prototipos de investigación adicionales y snapshots de prior art se mantienen e
 | Interaction Stability | ✅ Activo | `/v1/interaction/stability` — módulo experimental de auditoría temporal |
 | Interaction Observability | ✅ Activo | `interaction.db` + `/public/interaction/stats` — store agregado |
 | Node.js SDK | ✅ Activo | TypeScript-first, fetch nativo, publicado como `sas-audit-client` en npm |
-| **Tribunal multimetric** | ✅ **Activo** | **v1.3.0 desplegado — 13 módulos (7 core + R3.1–R3.6)** |
+| **Tribunal multimetric** | ✅ **Activo** | **v1.4.1 desplegado — 13 módulos (7 core + R3.1–R3.6) + fingerprint gate** |
 | **Validación R3/R4/R5** | ✅ **Activo** | **R3.1 completa (N1 audit, FinQA, MedHallu). R4/R5 en curso** |
 | **Segundo umbral κR** | ✅ **Activo** | **κR = 0,15 operacional — zona de colapso estructural definida** |
 | **Paper Qeios** | ✅ **Activo** | **DOI 10.32388/T420IV — revisado por pares, publicado** |
 | Paper SAP publicado con DOI | ✅ Activo | DOI 10.5281/zenodo.21925439 |
-| **Zenodo regulatorio v1.3.0** | ✅ **Publicado** | **DOI 10.5281/zenodo.23917127 — paquete de 46 archivos, 0 discrepancias** |
+| **Zenodo regulatorio v1.4.1** | ✅ **Publicado** | **DOI 10.5281/zenodo.23917127 — paquete de 46 archivos, 0 discrepancias** |
 | Dashboard landing | 🔜 Planificado | Dashboard mínimo de métricas cuando el volumen de interaction sea suficiente |
 | docs/manifold.md | 🔜 Planificado | Documento técnico para CTOs y ML leads |
 | Enterprise API | 🔜 Planificado | Batch con SLA, soporte on-premise e integración privada |
